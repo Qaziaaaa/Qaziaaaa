@@ -74,12 +74,8 @@ available_for:
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Qaziaaaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaziaaaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qaziaaaa&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qaziaaaa&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&dates=ffffff" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaziaaaa&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&hide=html,css" alt="Top Languages" width="38%"/>
 </div>
 
 ---
