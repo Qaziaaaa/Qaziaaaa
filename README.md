@@ -33,7 +33,7 @@ name:     Qazi Farhan Ahmad
 location: Peshawar, Pakistan 🇵🇰
 
 education:
-  degree:     BS Software Engineering (3rd Semester)
+  degree:     BS Software Engineering (4th Semester)
   university: University of Peshawar
 
 current_focus:
