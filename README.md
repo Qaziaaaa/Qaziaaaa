@@ -111,49 +111,82 @@ Architecting end-to-end solutions with a security-first mindset — JWT auth, CS
 
 <br/>
 
-### xTRAI — AI Agency Platform
-**React 18 · TypeScript · Framer Motion · shadcn/ui · TanStack Query**
+### RAG-Chatbot — AI Q&A System
+**MERN · Groq LLaMA 3.1 · Jina AI · Express · MongoDB · JavaScript**
 
 | Status | Links |
 |---|---|
-| 🟢 **Production** | [Live](https://agencyxai.netlify.app) · [Source](https://github.com/Qaziaaaa/AI-Agency-app) |
+| 🛠 **Development** | [Source](https://github.com/Qaziaaaa/RAG-chatbot) |
 
 ```
-● AI-powered automation and predictive analytics dashboard
-● Glass morphism design with scroll-triggered Framer Motion animations
-● Multi-page app: React Router · React Hook Form · Zod validation
-● Fully responsive, mobile-first architecture
+● RAG-based document retrieval with AI-powered streaming responses
+● Groq LLaMA 3.1 integration for real-time inference
+● Jina AI embeddings for semantic search and context awareness
+● Full MERN architecture with Express API and MongoDB storage
 ```
 
 <br/>
 
-### OLIPOP Creative — AI Product Experience
-**Next.js 15 · React 19 · Genkit AI · Firebase · Framer Motion · Tailwind CSS**
+### Hotel Booking System
+**MERN · React · Node.js · MongoDB · Express · JavaScript**
 
 | Status | Links |
 |---|---|
-| 🟢 **Production** | [Live](https://oliipop.netlify.app) · [Source](https://github.com/Qaziaaaa/Olipop-animated-site) |
+| 🛠 **Development** | [Source](https://github.com/Qaziaaaa/Hotel-Booking-System) |
 
 ```
-● Google Genkit AI integration for intelligent user interactions
-● Parallax scrolling and flavor-specific carousels
-● Next.js 15 App Router + Turbopack for peak performance
+● Room management and availability tracking
+● Reservation and booking workflow with date selection
+● User authentication and role-based access control
+● Full CRUD operations with MongoDB persistence
 ```
 
 <br/>
 
-### AI Portfolio — Personal Website
-**React 19 · TypeScript · GSAP · Jina AI · Groq LLaMA 3.1 · Vercel**
+### StudyFlow AI
+**MERN · React · TypeScript · Node.js · MongoDB**
 
 | Status | Links |
 |---|---|
-| 🟢 **Production** | [Live](https://qaziahmad.vercel.app) · [Source](https://github.com/Qaziaaaa/portfolio) |
+| 🛠 **Development** | [Source](https://github.com/Qaziaaaa/StudyFLow-AI) |
 
 ```
-● RAG chatbot: Jina AI embeddings + Groq LLaMA 3.1 streaming responses
-● GSAP ScrollTrigger animations and 3D tilt cards
-● Horizontal scroll section with live iframe project previews
-● Google Search Console verified + Schema.org structured data
+● AI-powered study productivity and scheduling platform
+● Smart task management with progress tracking
+● TypeScript codebase with scalable architecture
+● MongoDB-backed data persistence and user workflows
+```
+
+<br/>
+
+### Medical AI SaaS
+**MERN · React · Node.js · MongoDB · Express · JavaScript**
+
+| Status | Links |
+|---|---|
+| 🛠 **Development** | [Source](https://github.com/Qaziaaaa/medical-Ai-saas) |
+
+```
+● Patient management system with diagnostic assistance
+● Medical data analytics and reporting dashboards
+● Secure authentication with role-based access
+● Full-stack JavaScript with Express and MongoDB
+```
+
+<br/>
+
+### Hiking & Travel Explorer
+**MERN · React · TypeScript · Node.js · MongoDB**
+
+| Status | Links |
+|---|---|
+| 🛠 **Development** | [Source](https://github.com/Qaziaaaa/hiking-app) |
+
+```
+● Trail discovery and trip planning interface
+● User reviews and location-based exploration
+● TypeScript full-stack architecture with React frontend
+● MongoDB for geospatial and user data storage
 ```
 
 <br/>
