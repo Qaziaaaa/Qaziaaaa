@@ -1,25 +1,21 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1a1a1a&height=260&section=header&text=Qazi%20Farhan%20Ahmad&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=AI%20Web%20Developer%20%E2%80%A2%20MERN%20Stack%20Expert%20%E2%80%A2%20Peshawar%2C%20Pakistan&descAlignY=62&descSize=17&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:1a1a1a&height=240&section=header&text=Qazi%20Farhan%20Ahmad&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Web%20Developer%20%E2%80%A2%20MERN%20Stack%20Expert&descAlignY=55&descSize=18&animation=fadeIn"/>
 
-
-This is my current readme and details are fixed in it same like my portfolio website and linkedin they are interconnected. what I want from you is make it advance more structured, aesthetic, professional and attractive. you are a senior markdown expert and branding expert.
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=900&color=FFFFFF&center=true&vCenter=true&width=680&height=38&lines=Full+Stack+Developer+%7C+React+%2B+Node.js+%2B+TypeScript;Building+AI-Powered+Web+Applications;MERN+Stack+%7C+Clean+Code+%7C+Production-Ready+Systems;Open+to+Internships+%26+Freelance+Work" alt="Typing SVG"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+React+%2B+Node.js+%2B+TypeScript;Building+AI-Powered+Web+Applications;MERN+Stack+%7C+Clean+Code+%7C+Production+Systems;Open+to+Internships+%26+Freelance+Work" alt="Typing SVG" />
+</p>
 
 <br/>
 
-<div align="center">
+<p align="center">
+  <a href="https://qaziahmad.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/qazi-farhan-ahmad/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:qazithekingston@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/923141935787"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
-<a href="https://qaziahmad.vercel.app"><img src="https://img.shields.io/badge/Portfolio-qaziahmad.vercel.app-white?style=for-the-badge&logo=vercel&logoColor=black&labelColor=white&color=000000" /></a>
-<a href="https://www.linkedin.com/in/qazi-farhan-ahmad/"><img src="https://img.shields.io/badge/LinkedIn-Connect-white?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" /></a>
-<a href="mailto:qazithekingston@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-white?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" /></a>
-<a href="https://wa.me/923141935787"><img src="https://img.shields.io/badge/WhatsApp-Chat_Now-white?style=for-the-badge&logo=whatsapp&logoColor=white&color=25D366" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Qaziaaaa&style=for-the-badge&color=333333&label=PROFILE+VIEWS&abbreviated=true"/>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Qaziaaaa&style=flat-square&color=333333&label=PROFILE+VIEWS&abbreviated=true" />
+</p>
 
 <br/>
 
@@ -27,76 +23,65 @@ This is my current readme and details are fixed in it same like my portfolio web
 
 <br/>
 
-## Who is Qazi Farhan Ahmad?
+## Professional Summary
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-**Full Stack Developer and AI Web Developer** based in Peshawar, Pakistan.
+**Full-Stack Developer** specializing in the **MERN stack** with deep expertise in **TypeScript** and **AI-powered web applications**. Currently pursuing **BS Software Engineering** (4th semester) at the **University of Peshawar** while shipping production-grade systems used by real users.
 
-Currently in 4th semester of BS Software Engineering at the University of Peshawar — building real production systems while studying.
-
-I build end-to-end web applications with a focus on performance, security, and AI integrations. Not just demos — actual deployed products used by real users.
-
-**Location:** Peshawar, Pakistan — open to remote work worldwide
-**Email:** qazithekingston@gmail.com
-**Phone:** +92 314 1935787
-**Portfolio:** qaziahmad.vercel.app
+Architecting end-to-end solutions with a security-first mindset — JWT auth, CSRF protection, rate limiting, Helmet headers, and Zod validation are standard in every build. Passionate about performance optimization, clean architecture, and writing code that others enjoy reading.
 
 <br/>
 
-**What I focus on:**
+| | |
+|---|---|
+| **Location** | Peshawar, Pakistan — open to remote worldwide |
+| **Email** | [qazithekingston@gmail.com](mailto:qazithekingston@gmail.com) |
+| **Phone** | +92 314 1935787 |
+| **Portfolio** | [qaziahmad.vercel.app](https://qaziahmad.vercel.app) |
+| **Availability** | Internships · Freelance · Open Source Collaboration |
 
-- Full-stack MERN development with TypeScript
-- AI-powered web applications and chatbot integrations
-- Security-first backend architecture (JWT, CSRF, rate limiting)
-- Performance optimization and Core Web Vitals
-- Clean, maintainable, well-documented code
-
-**Available for:** Internships · Freelance Projects · Open Source Collaboration
-
-<br clear="both"/>
+<br/>
 
 ---
 
 <br/>
 
-## Tech Stack
-
-<div align="center">
+## Technical Proficiencies
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,html,css,vite,figma&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,html,css,vite,figma&theme=dark&perline=8" />
+</p>
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,firebase&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,firebase&theme=dark&perline=6" />
+</p>
 
-### DevOps & Cloud
+### DevOps & Tooling
 
-<img src="https://skillicons.dev/icons?i=vercel,netlify,docker,git,github,cloudinary,postman,vscode&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,docker,git,github,cloudinary,postman,vscode&theme=dark&perline=8" />
+</p>
 
-### Currently Learning
+### Expanding Into
 
-<img src="https://skillicons.dev/icons?i=python,aws,graphql&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,aws,graphql&theme=dark&perline=3" />
+</p>
 
-</div>
+### AI Development Stack
 
-<br/>
-
-### AI Tools & Development Environment
-
-<div align="center">
-
-| Category | Tools |
-|----------|-------|
-| **AI Coding Assistants** | Cursor · Windsurf · Kiro · Kimi |
+| Category | Technologies |
+|---|---|
+| **Coding Assistants** | Cursor · Windsurf · Kiro · Kimi |
 | **AI Platforms** | Google AI Studio · Firebase Studio · Google Genkit |
 | **Backend Services** | Firebase · Supabase · Google Stitch · Google Flow |
 | **LLM APIs** | Groq (LLaMA 3.1) · Jina AI · Google Gemini · OpenAI |
-| **Other Tools** | Antigravity · Postman · VS Code · Figma |
-
-</div>
+| **Tooling** | Antigravity · Postman · VS Code · Figma |
 
 <br/>
 
@@ -104,68 +89,71 @@ I build end-to-end web applications with a focus on performance, security, and A
 
 <br/>
 
-## Featured Projects
+## Featured Work
 
 <br/>
 
-**NOVA — E-Commerce Platform** &nbsp; [Live](https://ecommerce-store-one-ochre.vercel.app) &nbsp; [Code](https://github.com/Qaziaaaa/ecommerce-system)
+### NOVA — E-Commerce Platform
+**React 19 · TypeScript · Node.js · MongoDB · Stripe · Zustand · TanStack Query**
 
-Production-grade full-stack MERN shopping platform built from scratch.
-
-```
-Stack: React 19 · TypeScript · Node.js · MongoDB · Stripe · Zustand · TanStack Query
-
-- Passwordless OTP authentication — no passwords stored
-- Stripe payments + Cash on Delivery with real-time stock validation
-- In-memory API caching with TTL and cache invalidation
-- Live order tracking with 30-second polling
-- Circuit breakers for Stripe, Cloudinary, and email services
-- Admin panel — products, orders, users, revenue analytics with Recharts
-- CSRF protection, rate limiting, Helmet headers, Zod validation
-```
-
-<br/>
-
-**xTRAI — AI Agency Platform** &nbsp; [Live](https://agencyxai.netlify.app) &nbsp; [Code](https://github.com/Qaziaaaa/AI-Agency-app)
-
-AI automation platform helping businesses scale with intelligent workflows.
+| Status | Links |
+|---|---|
+| 🟢 **Production** | [Live](https://ecommerce-store-one-ochre.vercel.app) · [Source](https://github.com/Qaziaaaa/ecommerce-system) |
 
 ```
-Stack: React 18 · TypeScript · Framer Motion · shadcn/ui · TanStack Query
-
-- AI-powered automation and predictive analytics dashboard
-- Glass morphism design with scroll-triggered Framer Motion animations
-- Multi-page app with React Router, React Hook Form, and Zod validation
-- Fully responsive mobile-first design
+● Passwordless OTP authentication — zero passwords stored
+● Stripe payments + Cash on Delivery with real-time stock validation
+● In-memory API caching with TTL & cache invalidation
+● Live order tracking (30-second polling) + circuit breakers for Stripe, Cloudinary, email
+● Admin panel: products, orders, users, revenue analytics via Recharts
+● CSRF protection, rate limiting, Helmet headers, Zod validation
 ```
 
 <br/>
 
-**OLIPOP Creative — AI Product Experience** &nbsp; [Live](https://oliipop.netlify.app) &nbsp; [Code](https://github.com/Qaziaaaa/Olipop-animated-site)
+### xTRAI — AI Agency Platform
+**React 18 · TypeScript · Framer Motion · shadcn/ui · TanStack Query**
 
-Immersive product landing page with Google Genkit AI integration.
+| Status | Links |
+|---|---|
+| 🟢 **Production** | [Live](https://agencyxai.netlify.app) · [Source](https://github.com/Qaziaaaa/AI-Agency-app) |
 
 ```
-Stack: Next.js 15 · React 19 · Genkit AI · Firebase · Framer Motion · Tailwind CSS
-
-- Google Genkit AI for intelligent user interactions
-- Parallax scrolling and flavor-specific carousels
-- Next.js 15 App Router with Turbopack for peak performance
+● AI-powered automation and predictive analytics dashboard
+● Glass morphism design with scroll-triggered Framer Motion animations
+● Multi-page app: React Router · React Hook Form · Zod validation
+● Fully responsive, mobile-first architecture
 ```
 
 <br/>
 
-**AI Portfolio — This Website** &nbsp; [Live](https://qaziahmad.vercel.app) &nbsp; [Code](https://github.com/Qaziaaaa/portfolio)
+### OLIPOP Creative — AI Product Experience
+**Next.js 15 · React 19 · Genkit AI · Firebase · Framer Motion · Tailwind CSS**
 
-Personal portfolio with a built-in RAG AI chatbot.
+| Status | Links |
+|---|---|
+| 🟢 **Production** | [Live](https://oliipop.netlify.app) · [Source](https://github.com/Qaziaaaa/Olipop-animated-site) |
 
 ```
-Stack: React 19 · TypeScript · GSAP · Jina AI · Groq LLaMA 3.1 · Vercel
+● Google Genkit AI integration for intelligent user interactions
+● Parallax scrolling and flavor-specific carousels
+● Next.js 15 App Router + Turbopack for peak performance
+```
 
-- RAG chatbot — Jina AI embeddings + Groq LLaMA 3.1 streaming responses
-- GSAP ScrollTrigger animations and 3D tilt cards
-- Horizontal scroll section with live iframe project previews
-- Google Search Console verified with Schema.org structured data
+<br/>
+
+### AI Portfolio — Personal Website
+**React 19 · TypeScript · GSAP · Jina AI · Groq LLaMA 3.1 · Vercel**
+
+| Status | Links |
+|---|---|
+| 🟢 **Production** | [Live](https://qaziahmad.vercel.app) · [Source](https://github.com/Qaziaaaa/portfolio) |
+
+```
+● RAG chatbot: Jina AI embeddings + Groq LLaMA 3.1 streaming responses
+● GSAP ScrollTrigger animations and 3D tilt cards
+● Horizontal scroll section with live iframe project previews
+● Google Search Console verified + Schema.org structured data
 ```
 
 <br/>
@@ -174,55 +162,13 @@ Stack: React 19 · TypeScript · GSAP · Jina AI · Groq LLaMA 3.1 · Vercel
 
 <br/>
 
-## GitHub Stats
+## Current Focus
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Qaziaaaa&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&ring_color=ffffff"/>
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaziaaaa&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&hide=html,css"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Qaziaaaa&theme=github-dark-blue&hide_border=true&background=0d0d0d&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666&sideNums=ffffff&currStreakNum=ffffff"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Qaziaaaa&bg_color=0d0d0d&color=ffffff&line=333333&point=ffffff&area_color=111111&area=true&hide_border=true&custom_title=Contribution+Activity+—+Qazi+Farhan+Ahmad)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qaziaaaa/Qaziaaaa/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qaziaaaa/Qaziaaaa/output/github-snake.svg"/>
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Qaziaaaa/Qaziaaaa/output/github-snake-dark.svg" width="100%"/>
-</picture>
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## Currently Building
+**Real Estate Rental Platform** — MERN stack, in development
 
 ```
-Real Estate Rental Platform (MERN Stack)
-
-├── JWT Auth with role-based access — tenant, landlord, admin
-├── Property listing and booking system
+├── JWT Auth with role-based access (tenant · landlord · admin)
+├── Property listing & booking system
 ├── Stripe payment integration
 ├── Email notifications
 └── Map integration for property locations
@@ -234,27 +180,52 @@ Real Estate Rental Platform (MERN Stack)
 
 <br/>
 
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Qaziaaaa&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&ring_color=ffffff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaziaaaa&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&hide=html,css" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Qaziaaaa&theme=github-dark-blue&hide_border=true&background=0d0d0d&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666&sideNums=ffffff&currStreakNum=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qaziaaaa&bg_color=0d0d0d&color=ffffff&line=333333&point=ffffff&area_color=111111&area=true&hide_border=true&custom_title=Contribution+Activity" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qaziaaaa/Qaziaaaa/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qaziaaaa/Qaziaaaa/output/github-snake.svg" />
+    <img alt="Contribution Graph" src="https://raw.githubusercontent.com/Qaziaaaa/Qaziaaaa/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
 <div align="center">
 
 ### Let's Build Something Together
 
-**Qazi Farhan Ahmad**
-AI Web Developer · MERN Stack Expert · University of Peshawar · Pakistan
+**Qazi Farhan Ahmad** · AI Web Developer · MERN Stack Expert · University of Peshawar
 
 <br/>
 
-<a href="https://qaziahmad.vercel.app"><img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/qazi-farhan-ahmad/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="mailto:qazithekingston@gmail.com"><img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-&nbsp;
-<a href="https://wa.me/923141935787"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://qaziahmad.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/qazi-farhan-ahmad/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:qazithekingston@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/923141935787"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 <br/><br/>
 
-*"Write code that others enjoy reading. Build products that users love using."*
+> *"Write code that others enjoy reading. Build products that users love using."*
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:111111,100:000000&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:0a0a0a,100:000000&height=120&section=footer"/>
