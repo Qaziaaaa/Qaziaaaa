@@ -249,25 +249,8 @@ Smart AI + IoT hydroponic farming solution for automated crop monitoring, enviro
 
 ---
 
-## 🏆 Achievements
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Preethamn15&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Preethamn15/Preethamn15/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 ## 🌐 Let's Connect
 
