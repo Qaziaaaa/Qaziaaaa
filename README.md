@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Preetham
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=Associate+Software+Developer+%40+SAP;Backend+Developer;Cloud+Native+Engineer;Java+%7C+Go+%7C+Kubernetes;Building+Scalable+Systems;Open+Source+Enthusiast;Always+Learning+Something+New+🚀" />
+<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=Associate+Software+Developer+%40+SAP;Backend+Developer;Cloud+Native+Engineer;Java+%7C+Go+%7C+Kubernetes;Building+Scalable+Systems;Open+Source+Enthusiast;Always+Learning+Something+New+🚀](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=Associate+Software+Developer+%40+SAP;Backend+Developer;Cloud+Native+Engineer;Java+%7C+Go+%7C+Kubernetes;Building+Scalable+Systems;Open+Source+Enthusiast)" />
 
 <p align="center">
 
