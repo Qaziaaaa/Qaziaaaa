@@ -29,11 +29,11 @@ Currently working as an <b>Associate Software Developer at SAP</b>, building ent
 
 <div align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhwMXRoc2VxZW80Y3E0MnVxNGRtaXhwM3JjNGNyem1qOTlqMGQ3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif" width="700"/>
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="700"/>
 
 </div>
----
 
+---
 ## 👨‍💻 About Me
 
 ```yaml
