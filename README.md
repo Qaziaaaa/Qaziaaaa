@@ -201,19 +201,21 @@ View Repository →
 <div align="center">
 
 <a href="https://github.com/Preethamn15/Build2Hire">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Preethamn15&repo=Build2Hire&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preethamn15&repo=Build2Hire&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/Preethamn15/AI-Placement-Roadmap">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Preethamn15&repo=AI-Placement-Roadmap&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preethamn15&repo=AI-Placement-Roadmap&theme=tokyonight&hide_border=true" />
 </a>
 
+<br><br>
+
 <a href="https://github.com/Preethamn15/ATS-Resume-Kit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Preethamn15&repo=ATS-Resume-Kit&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preethamn15&repo=ATS-Resume-Kit&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/Preethamn15/THE-365-DAY-PLACEMENT-COMEBACK-BLUEPRINT">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Preethamn15&repo=THE-365-DAY-PLACEMENT-COMEBACK-BLUEPRINT&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preethamn15&repo=THE-365-DAY-PLACEMENT-COMEBACK-BLUEPRINT&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
