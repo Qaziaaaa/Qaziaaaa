@@ -24,49 +24,40 @@ Currently working as an Associate Software Developer at SAP, building enterprise
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
+```yaml
+Name        : Preetham
+Role        : Associate Software Developer @ SAP
+Education   : B.E. AI & Machine Learning
+College     : RV College of Engineering
 
-<td width="55%" valign="top">
+Languages   : Java • Go • Python • C • PHP
 
-<pre>
-<b>Name</b>        : Preetham
-<b>Role</b>        : Associate Software Developer @ SAP
-<b>Education</b>   : B.E. AI & Machine Learning
-<b>College</b>     : RV College of Engineering
+Backend     : Spring Boot
+              REST APIs
+              Microservices
 
-<b>Languages</b>   : Java • Go • Python • C • PHP
-<b>Backend</b>     : Spring Boot • REST APIs • Microservices
-<b>Cloud</b>       : Docker • Kubernetes • Redis
-<b>Databases</b>   : PostgreSQL • MySQL
+Cloud       : Docker
+              Kubernetes
+              Redis
 
-<b>Interests</b>
-• Backend Engineering
-• Distributed Systems
-• Cloud Native Development
-• Artificial Intelligence
-• Open Source
+Databases   : PostgreSQL
+              MySQL
 
-<b>2026 Goals</b>
-• Master Distributed Systems
-• Learn Cloud Architecture
-• Contribute to Open Source
-</pre>
+Interests
+ • Backend Engineering
+ • Distributed Systems
+ • Cloud Native
+ • Artificial Intelligence
+ • Open Source
+```
 
-</td>
+<div align="center">
 
-<td width="45%" align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Preethamn15&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Preethamn15&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Preethamn15&theme=tokyonight&hide_border=true"/>
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Preethamn15&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 ## 🚀 Featured Projects
