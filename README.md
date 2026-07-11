@@ -25,33 +25,15 @@ Currently working as an Associate Software Developer at SAP, building enterprise
 
 <div align="center">
 
-## 💻 Terminal
+<div align="center">
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=1200&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=180&lines=%24+initialize+profile.sh;Loading+Java...............100%25;Loading+Go.................100%25;Loading+Kubernetes.........100%25;Connecting+to+SAP..........SUCCESS;Status%3A+READY+%E2%9C%94" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,30:203A43,60:2C5364,100:00F7FF&height=2&section=header&reversal=true"/>
 
 </div>
-
-```console
-preetham@github:~$ whoami
-
-👤 Name        :: Preetham
-
-💼 Role        :: Associate Software Developer @ SAP
-
-🎓 Education   :: B.E. AI & Machine Learning
-
-⚙ Backend     :: Java • Go • Spring Boot
-
-☁ Cloud       :: Kubernetes • Docker • SAP BTP
-
-🗄 Database    :: PostgreSQL • Redis • MySQL
-
-🧠 Interests   :: Distributed Systems
-                  Artificial Intelligence
-                  Cloud Native
-
-🚀 Status      :: Building. Learning. Growing.
-
-preetham@github:~$
-```
 
 ## 👨‍💻 About Me
 
