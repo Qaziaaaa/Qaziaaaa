@@ -57,7 +57,7 @@ Currently working as an Associate Software Developer at SAP, building enterprise
 
 <td width="45%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Preethamn15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Preethamn15&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <br><br>
 
