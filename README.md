@@ -79,7 +79,7 @@ Interests:
 
 <p align="center">
 
-AI-powered fitness platform featuring real-time exercise tracking, posture correction, YOLO-based food composition analysis, personalized meal planning, and fitness analytics.
+AI-powered fitness platform featuring real-time exercise tracking, posture correction, YOLO-based food composition analysis, personalized workout insights, and nutrition assistance.
 
 <br><br>
 
@@ -94,44 +94,12 @@ AI-powered fitness platform featuring real-time exercise tracking, posture corre
 <p align="center">
 
 <a href="https://github.com/Preethamn15/Smart-AI-Gym-Trainer-With-RealTime-Exercise-Tracking-and-Nutrition-Assistant">
-View Repository →
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 </td>
-
-<td width="50%">
-
-<h3 align="center">📈 Indian Stock Prediction Model</h3>
-
-<p align="center">
-
-Hybrid Machine Learning system for stock market prediction using Random Forest models, technical indicators, multi-horizon forecasting, and an interactive Streamlit dashboard.
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Random%20Forest-ML-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge&logo=streamlit"/>
-
-<img src="https://img.shields.io/badge/Python-Analytics-yellow?style=for-the-badge&logo=python"/>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Preethamn15/Indian-Stock-Prediction-Model">
-View Repository →
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
 
 <td width="50%">
 
@@ -139,7 +107,7 @@ View Repository →
 
 <p align="center">
 
-Real-time AI-powered trading engine using Apache Kafka streaming, Random Forest models, technical indicators, and SHAP explainability for transparent trading decisions.
+Real-time AI-powered trading platform using Apache Kafka, Random Forest models, technical indicators, and SHAP explainability for transparent BUY/SELL predictions.
 
 <br><br>
 
@@ -154,7 +122,39 @@ Real-time AI-powered trading engine using Apache Kafka streaming, Random Forest 
 <p align="center">
 
 <a href="https://github.com/Preethamn15/Autonomous-Streaming-Trading-System-with-Explainable-AI">
-View Repository →
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🎓 EduFused AI Learning Platform</h3>
+
+<p align="center">
+
+AI-powered adaptive learning platform featuring intelligent chatbot support, personalized study paths, quizzes, and interactive learning experiences.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NLP-AI-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PHP-Full%20Stack-777BB4?style=for-the-badge&logo=php"/>
+
+<img src="https://img.shields.io/badge/Chatbot-Adaptive%20Learning-green?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Preethamn15/EduFused-AI-Powered-Adaptive-Learning-Platform">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -167,7 +167,7 @@ View Repository →
 
 <p align="center">
 
-AI + IoT based smart hydroponic farming solution using sensors, ESP32, automated monitoring, environmental control, and plant disease detection.
+Smart AI + IoT hydroponic farming solution for automated crop monitoring, environmental control, sensor integration, and plant disease detection.
 
 <br><br>
 
@@ -182,7 +182,7 @@ AI + IoT based smart hydroponic farming solution using sensors, ESP32, automated
 <p align="center">
 
 <a href="https://github.com/Preethamn15/AI-Controlled-Automated-Hydroponic-Farming-System">
-View Repository →
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -192,31 +192,6 @@ View Repository →
 </tr>
 
 </table>
-
-</div>
-
----
-## ⭐ Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/Preethamn15/Autonomous-Streaming-Trading-System-with-Explainable-AI">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethamn15&repo=Autonomous-Streaming-Trading-System-with-Explainable-AI&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Preethamn15/Smart-AI-Gym-Trainer-With-RealTime-Exercise-Tracking-and-Nutrition-Assistant">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethamn15&repo=Smart-AI-Gym-Trainer-With-RealTime-Exercise-Tracking-and-Nutrition-Assistant&theme=tokyonight&hide_border=true" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/Preethamn15/EduFused-AI-Powered-Adaptive-Learning-Platform">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethamn15&repo=EduFused-AI-Powered-Adaptive-Learning-Platform&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Preethamn15/AI-Controlled-Automated-Hydroponic-Farming-System">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethamn15&repo=AI-Controlled-Automated-Hydroponic-Farming-System&theme=tokyonight&hide_border=true" />
-</a>
 
 </div>
 
