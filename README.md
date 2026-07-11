@@ -196,32 +196,31 @@ View Repository →
 </div>
 
 ---
-## ⭐ Pinned Repositories
+## ⭐ Featured Repositories
 
 <div align="center">
 
-<a href="https://github.com/Preethamn15/Build2Hire">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preethamn15&repo=Build2Hire&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Preethamn15/Autonomous-Streaming-Trading-System-with-Explainable-AI">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethamn15&repo=Autonomous-Streaming-Trading-System-with-Explainable-AI&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/Preethamn15/AI-Placement-Roadmap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preethamn15&repo=AI-Placement-Roadmap&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Preethamn15/Smart-AI-Gym-Trainer-With-RealTime-Exercise-Tracking-and-Nutrition-Assistant">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethamn15&repo=Smart-AI-Gym-Trainer-With-RealTime-Exercise-Tracking-and-Nutrition-Assistant&theme=tokyonight&hide_border=true" />
 </a>
 
 <br><br>
 
-<a href="https://github.com/Preethamn15/ATS-Resume-Kit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preethamn15&repo=ATS-Resume-Kit&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Preethamn15/EduFused-AI-Powered-Adaptive-Learning-Platform">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethamn15&repo=EduFused-AI-Powered-Adaptive-Learning-Platform&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/Preethamn15/THE-365-DAY-PLACEMENT-COMEBACK-BLUEPRINT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preethamn15&repo=THE-365-DAY-PLACEMENT-COMEBACK-BLUEPRINT&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Preethamn15/AI-Controlled-Automated-Hydroponic-Farming-System">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethamn15&repo=AI-Controlled-Automated-Hydroponic-Farming-System&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
 ---
-
 ## ⚒️ Tech Stack
 
 <div align="center">
