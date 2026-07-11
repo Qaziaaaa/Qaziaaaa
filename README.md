@@ -29,16 +29,9 @@ Currently working as an <b>Associate Software Developer at SAP</b>, building ent
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=850&lines=%24+whoami;Associate+Software+Developer+%40+SAP;Backend+Engineer;Cloud+Native+Developer;Java+%7C+Go+%7C+Kubernetes;Building+Scalable+Software+%F0%9F%9A%80" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhwMXRoc2VxZW80Y3E0MnVxNGRtaXhwM3JjNGNyem1qOTlqMGQ3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif" width="700"/>
 
 </div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:203A43,100:0F2027&height=3"/>
-
-</div>
-
 ---
 
 ## 👨‍💻 About Me
