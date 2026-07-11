@@ -265,18 +265,30 @@ Smart AI + IoT hydroponic farming solution for automated crop monitoring, enviro
 
 ---
 
+---
+
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+## 🚀 Let's Build Something Amazing Together
+
+Always open to collaborating on innovative projects, open source contributions, and exciting opportunities.
+
+<br>
+
+<a href="mailto:preethamn2004@gmail.com">
+<img src="https://img.shields.io/badge/Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/preetham-n-672951284/">
+<img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Preethamn15&style=for-the-badge&color=0e75b6"/>
+*"Code. Learn. Build. Repeat."* 💻
 
 <br><br>
 
-*"Code. Learn. Build. Repeat."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
 
 </div>
