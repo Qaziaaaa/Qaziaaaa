@@ -22,6 +22,37 @@ Currently working as an Associate Software Developer at SAP, building enterprise
 
 ---
 
+
+<div align="center">
+
+## 💻 Terminal
+
+</div>
+
+```console
+preetham@github:~$ whoami
+
+👤 Name        :: Preetham
+
+💼 Role        :: Associate Software Developer @ SAP
+
+🎓 Education   :: B.E. AI & Machine Learning
+
+⚙ Backend     :: Java • Go • Spring Boot
+
+☁ Cloud       :: Kubernetes • Docker • SAP BTP
+
+🗄 Database    :: PostgreSQL • Redis • MySQL
+
+🧠 Interests   :: Distributed Systems
+                  Artificial Intelligence
+                  Cloud Native
+
+🚀 Status      :: Building. Learning. Growing.
+
+preetham@github:~$
+```
+
 ## 👨‍💻 About Me
 
 ```yaml
