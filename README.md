@@ -16,24 +16,30 @@
 ---
 
 <p align="center">
-Passionate software engineer building scalable backend systems, distributed applications, and cloud-native solutions.<br>
-Currently working as an Associate Software Developer at SAP, building enterprise software and cloud-native applications while continuously exploring backend engineering, distributed systems, and scalable architectures.
+
+Passionate software engineer building scalable backend systems, distributed applications, and cloud-native solutions.
+
+<br>
+
+Currently working as an <b>Associate Software Developer at SAP</b>, building enterprise software and cloud-native applications while continuously exploring backend engineering, distributed systems, and scalable architectures.
+
 </p>
 
 ---
 
-
 <div align="center">
 
-<div align="center">
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=1200&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=180&lines=%24+initialize+profile.sh;Loading+Java...............100%25;Loading+Go.................100%25;Loading+Kubernetes.........100%25;Connecting+to+SAP..........SUCCESS;Status%3A+READY+%E2%9C%94" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,30:203A43,60:2C5364,100:00F7FF&height=2&section=header&reversal=true"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=850&lines=%24+whoami;Associate+Software+Developer+%40+SAP;Backend+Engineer;Cloud+Native+Developer;Java+%7C+Go+%7C+Kubernetes;Building+Scalable+Software+%F0%9F%9A%80" />
 
 </div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:203A43,100:0F2027&height=3"/>
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
@@ -66,14 +72,15 @@ Interests
 
 <div align="center">
 
-
-
 <img height="170" src="https://streak-stats.demolab.com?user=Preethamn15&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
+
 ## 🚀 Featured Projects
+
+
 
 <div align="center">
 
@@ -102,7 +109,9 @@ AI-powered fitness platform featuring real-time exercise tracking, posture corre
 <p align="center">
 
 <a href="https://github.com/Preethamn15/Smart-AI-Gym-Trainer-With-RealTime-Exercise-Tracking-and-Nutrition-Assistant">
+
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 </p>
@@ -130,7 +139,9 @@ Real-time AI-powered trading platform using Apache Kafka, Random Forest models, 
 <p align="center">
 
 <a href="https://github.com/Preethamn15/Autonomous-Streaming-Trading-System-with-Explainable-AI">
+
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 </p>
@@ -162,7 +173,9 @@ AI-powered adaptive learning platform featuring intelligent chatbot support, per
 <p align="center">
 
 <a href="https://github.com/Preethamn15/EduFused-AI-Powered-Adaptive-Learning-Platform">
+
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 </p>
@@ -190,7 +203,9 @@ Smart AI + IoT hydroponic farming solution for automated crop monitoring, enviro
 <p align="center">
 
 <a href="https://github.com/Preethamn15/AI-Controlled-Automated-Hydroponic-Farming-System">
+
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 </p>
@@ -204,37 +219,62 @@ Smart AI + IoT hydroponic farming solution for automated crop monitoring, enviro
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=Technology%20Stack&fontSize=28&fontColor=00F7FF&animation=fadeIn"/>
+
+</div>
+
 ## ⚒️ Tech Stack
 
 <div align="center">
 
-**Languages**
+### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=java,go,python,c,php,html,css,js&theme=dark"/>
 
-**Backend & Frameworks**
+<br><br>
+
+### ⚙️ Backend & Frameworks
 
 <img src="https://skillicons.dev/icons?i=spring,maven,nodejs&theme=dark"/>
+
+<br>
+
 <img src="https://img.shields.io/badge/SAP-BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Apache-Kafka-black?style=for-the-badge&logo=apachekafka"/>
 
-**Cloud & DevOps**
+<br><br>
+
+### ☁️ Cloud & DevOps
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux,bash&theme=dark"/>
 
-**Databases**
+<br><br>
+
+### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark"/>
 
-**AI / ML**
+<br><br>
+
+### 🤖 AI / ML
 
 <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-blue?style=for-the-badge&logo=opencv"/>
+
 <img src="https://img.shields.io/badge/MediaPipe-Pose-green?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/scikit--learn-ML-orange?style=for-the-badge&logo=scikitlearn"/>
+
 <img src="https://img.shields.io/badge/Pandas-Data-blue?style=for-the-badge&logo=pandas"/>
+
 <img src="https://img.shields.io/badge/NumPy-Scientific-black?style=for-the-badge&logo=numpy"/>
 
-**Tools**
+<br><br>
+
+### 🛠️ Tools
 
 <img src="https://skillicons.dev/icons?i=vscode,idea,figma,postman&theme=dark"/>
 
@@ -242,14 +282,16 @@ Smart AI + IoT hydroponic farming solution for automated crop monitoring, enviro
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preethamn15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Preethamn15&theme=tokyonight"/>
 
-<br>
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Preethamn15&theme=tokyo-night&hide_border=true"/>
 
@@ -257,17 +299,55 @@ Smart AI + IoT hydroponic farming solution for automated crop monitoring, enviro
 
 ---
 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Live%20Developer%20Quote&fontSize=28&fontColor=00F7FF&animation=fadeIn"/>
 
-
+</div>
 
 <div align="center">
 
-## 🚀 Let's Build Something Amazing Together
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-Always open to collaborating on innovative projects, open source contributions, and exciting opportunities.
+</div>
 
-<br>
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Visitor%20Counter&fontSize=28&fontColor=00F7FF&animation=fadeIn"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Preethamn15&style=for-the-badge&color=0e75b6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Random%20Developer%20Joke&fontSize=28&fontColor=00F7FF&animation=fadeIn"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Let's%20Connect&fontSize=28&fontColor=00F7FF&animation=fadeIn"/>
+
+</div>
+
+<div align="center">
 
 <a href="mailto:preethamn2004@gmail.com">
 <img src="https://img.shields.io/badge/Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -277,12 +357,10 @@ Always open to collaborating on innovative projects, open source contributions, 
 <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br>
-
-*"Code. Learn. Build. Repeat."* 💻
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
+<a href="https://github.com/Preethamn15">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
+
+---
