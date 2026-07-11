@@ -17,7 +17,7 @@
 
 <p align="center">
 Passionate software engineer building scalable backend systems, distributed applications, and cloud-native solutions.<br>
-Currently working as an <b>Associate Software Developer at SAP</b> — Go, Java, Kubernetes, Redis, PostgreSQL.
+Currently working as an Associate Software Developer at SAP, building enterprise software and cloud-native applications while continuously exploring backend engineering, distributed systems, and scalable architectures.
 </p>
 
 ---
@@ -68,48 +68,154 @@ Interests:
 ## 🚀 Featured Projects
 
 <div align="center">
+
 <table>
+
 <tr>
 
 <td width="50%">
-<h3 align="center">🏋️ AI Smart Gym Trainer</h3>
+
+<h3 align="center">🏋️ Smart AI Gym Trainer</h3>
+
 <p align="center">
-AI-powered fitness assistant with posture detection, rep counting, and exercise analytics using Computer Vision.
+
+AI-powered fitness platform featuring real-time exercise tracking, posture correction, YOLO-based food composition analysis, personalized meal planning, and fitness analytics.
+
 <br><br>
+
 <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-blue?style=for-the-badge&logo=opencv"/>
-<img src="https://img.shields.io/badge/Python-AI-yellow?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/MediaPipe-Pose-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/YOLO-Object%20Detection-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql"/>
+
 </p>
+
+<p align="center">
+
+<a href="https://github.com/Preethamn15/Smart-AI-Gym-Trainer-With-RealTime-Exercise-Tracking-and-Nutrition-Assistant">
+View Repository →
+</a>
+
+</p>
+
 </td>
 
+<td width="50%">
+
+<h3 align="center">📈 Indian Stock Prediction Model</h3>
+
+<p align="center">
+
+Hybrid Machine Learning system for stock market prediction using Random Forest models, technical indicators, multi-horizon forecasting, and an interactive Streamlit dashboard.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Random%20Forest-ML-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge&logo=streamlit"/>
+
+<img src="https://img.shields.io/badge/Python-Analytics-yellow?style=for-the-badge&logo=python"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Preethamn15/Indian-Stock-Prediction-Model">
+View Repository →
+</a>
+
+</p>
+
+</td>
 
 </tr>
+
 <tr>
 
 <td width="50%">
-<h3 align="center">⚡ Build2Hire</h3>
+
+<h3 align="center">🤖 Autonomous Streaming Trading System</h3>
+
 <p align="center">
-Complete Software Engineering roadmap — Java, Spring Boot, DSA, System Design, DevOps, and Interview Prep.
+
+Real-time AI-powered trading engine using Apache Kafka streaming, Random Forest models, technical indicators, and SHAP explainability for transparent trading decisions.
+
 <br><br>
-<img src="https://img.shields.io/badge/Java-Learning-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System%20Design-Advanced-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20Source-GitHub-black?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Apache-Kafka-black?style=for-the-badge&logo=apachekafka"/>
+
+<img src="https://img.shields.io/badge/SHAP-Explainable%20AI-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python-AI-yellow?style=for-the-badge&logo=python"/>
+
 </p>
+
+<p align="center">
+
+<a href="https://github.com/Preethamn15/Autonomous-Streaming-Trading-System-with-Explainable-AI">
+View Repository →
+</a>
+
+</p>
+
 </td>
 
 <td width="50%">
-<h3 align="center">🤖 AI & ML Projects</h3>
+
+<h3 align="center">🌱 AI Hydroponic Farming System</h3>
+
 <p align="center">
-Collection of ML, Deep Learning, NLP, and Computer Vision apps solving real-world problems.
+
+AI + IoT based smart hydroponic farming solution using sensors, ESP32, automated monitoring, environmental control, and plant disease detection.
+
 <br><br>
-<img src="https://img.shields.io/badge/Machine%20Learning-AI-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-Python-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ESP32-IoT-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-Smart%20Agriculture-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Sensors-Automation-orange?style=for-the-badge"/>
+
 </p>
+
+<p align="center">
+
+<a href="https://github.com/Preethamn15/AI-Controlled-Automated-Hydroponic-Farming-System">
+View Repository →
+</a>
+
+</p>
+
 </td>
 
 </tr>
+
 </table>
+
+</div>
+
+---
+## ⭐ Pinned Repositories
+
+<div align="center">
+
+<a href="https://github.com/Preethamn15/Build2Hire">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Preethamn15&repo=Build2Hire&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/Preethamn15/AI-Placement-Roadmap">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Preethamn15&repo=AI-Placement-Roadmap&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/Preethamn15/ATS-Resume-Kit">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Preethamn15&repo=ATS-Resume-Kit&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/Preethamn15/THE-365-DAY-PLACEMENT-COMEBACK-BLUEPRINT">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Preethamn15&repo=THE-365-DAY-PLACEMENT-COMEBACK-BLUEPRINT&theme=tokyonight"/>
+</a>
+
 </div>
 
 ---
