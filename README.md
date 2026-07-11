@@ -82,16 +82,6 @@ AI-powered fitness assistant with posture detection, rep counting, and exercise 
 </p>
 </td>
 
-<td width="50%">
-<h3 align="center">☁️ Enterprise Data Synchronizer</h3>
-<p align="center">
-Cloud-native sync engine in Go using Redis Streams and PostgreSQL for scalable enterprise event processing.
-<br><br>
-<img src="https://img.shields.io/badge/Go-Backend-00ADD8?style=for-the-badge&logo=go"/>
-<img src="https://img.shields.io/badge/Redis-Streams-red?style=for-the-badge&logo=redis"/>
-<img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql"/>
-</p>
-</td>
 
 </tr>
 <tr>
