@@ -99,9 +99,15 @@ Full-stack MERN eCommerce with OTP auth, Stripe payments, admin analytics, and p
 
 <p align="center">
 
+<a href="https://ecommerce-store-one-ochre.vercel.app">
+
+<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
 <a href="https://github.com/Qaziaaaa/ecommerce-system">
 
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github"/>
 
 </a>
 
@@ -131,7 +137,7 @@ MERN-powered RAG chatbot with Groq LLaMA 3.1 streaming responses and Jina AI emb
 
 <a href="https://github.com/Qaziaaaa/RAG-chatbot">
 
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github"/>
 
 </a>
 
@@ -165,7 +171,7 @@ MERN hotel booking platform with room management, reservations, secure authentic
 
 <a href="https://github.com/Qaziaaaa/Hotel-Booking-System">
 
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github"/>
 
 </a>
 
@@ -193,9 +199,15 @@ Full-stack social media with news feed, real-time interactions, user profiles, a
 
 <p align="center">
 
+<a href="https://forge-social.vercel.app">
+
+<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
 <a href="https://github.com/Qaziaaaa/Social-Media-platform">
 
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github"/>
 
 </a>
 
@@ -227,9 +239,15 @@ Patient management system with diagnostic assistance, medical data analytics, an
 
 <p align="center">
 
+<a href="https://medical-ai-saas.vercel.app">
+
+<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
 <a href="https://github.com/Qaziaaaa/medical-Ai-saas">
 
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github"/>
 
 </a>
 
@@ -257,9 +275,15 @@ AI-powered study productivity platform with smart scheduling, task management, a
 
 <p align="center">
 
+<a href="https://studyflow-ai-three.vercel.app">
+
+<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
 <a href="https://github.com/Qaziaaaa/StudyFLow-AI">
 
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github"/>
 
 </a>
 
