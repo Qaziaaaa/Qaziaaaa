@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Full%20Stack-MERN%20%7C%20TypeScript-00F7FF?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full%20Stack-MERN%20%7C%20TypeScript-0097A7?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI-Web%20Developer-9b59b6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/University%20of%20Peshawar-BS%20Software%20Eng-326CE5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Open%20Source-GitHub-black?style=for-the-badge&logo=github"/>
