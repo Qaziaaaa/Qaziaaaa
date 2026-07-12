@@ -123,6 +123,7 @@ MERN-powered RAG chatbot with Groq LLaMA 3.1 streaming responses and Jina AI emb
 </p>
 
 <p align="center">
+<a href="https://mydocchat.vercel.app"><img src="https://img.shields.io/badge/Live-0097A7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/Qaziaaaa/RAG-chatbot"><img src="https://img.shields.io/badge/Source-212641?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -151,6 +152,7 @@ MERN hotel booking platform with room management, reservations, secure authentic
 </p>
 
 <p align="center">
+<a href="https://ai-hotel-booking-system.vercel.app"><img src="https://img.shields.io/badge/Live-0097A7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/Qaziaaaa/Hotel-Booking-System"><img src="https://img.shields.io/badge/Source-212641?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
