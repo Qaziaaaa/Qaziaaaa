@@ -103,7 +103,7 @@ Full-stack MERN eCommerce with OTP auth, Stripe payments, admin analytics, and p
 
 <a href="https://ecommerce-store-one-ochre.vercel.app">
 
-<img src="https://img.shields.io/badge/%F0%9F%9A%80%20Live%20Demo-00E676?style=for-the-badge&logo=vercel&logoColor=black&labelColor=00C853"/>
+<img src="https://img.shields.io/badge/Live%20Demo-0097A7?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </a>
 
@@ -111,7 +111,7 @@ Full-stack MERN eCommerce with OTP auth, Stripe payments, admin analytics, and p
 
 <a href="https://github.com/Qaziaaaa/ecommerce-system">
 
-<img src="https://img.shields.io/badge/%F0%9F%94%84%20Source-212641?style=for-the-badge&logo=github&logoColor=white&labelColor=30363D"/>
+<img src="https://img.shields.io/badge/Source-212641?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -143,7 +143,7 @@ MERN-powered RAG chatbot with Groq LLaMA 3.1 streaming responses and Jina AI emb
 
 <a href="https://github.com/Qaziaaaa/RAG-chatbot">
 
-<img src="https://img.shields.io/badge/%F0%9F%94%84%20Source-212641?style=for-the-badge&logo=github&logoColor=white&labelColor=30363D"/>
+<img src="https://img.shields.io/badge/Source-212641?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -179,7 +179,7 @@ MERN hotel booking platform with room management, reservations, secure authentic
 
 <a href="https://github.com/Qaziaaaa/Hotel-Booking-System">
 
-<img src="https://img.shields.io/badge/%F0%9F%94%84%20Source-212641?style=for-the-badge&logo=github&logoColor=white&labelColor=30363D"/>
+<img src="https://img.shields.io/badge/Source-212641?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -211,7 +211,7 @@ Full-stack social media with news feed, real-time interactions, user profiles, a
 
 <a href="https://forge-social.vercel.app">
 
-<img src="https://img.shields.io/badge/%F0%9F%9A%80%20Live%20Demo-00E676?style=for-the-badge&logo=vercel&logoColor=black&labelColor=00C853"/>
+<img src="https://img.shields.io/badge/Live%20Demo-0097A7?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </a>
 
@@ -219,7 +219,7 @@ Full-stack social media with news feed, real-time interactions, user profiles, a
 
 <a href="https://github.com/Qaziaaaa/Social-Media-platform">
 
-<img src="https://img.shields.io/badge/%F0%9F%94%84%20Source-212641?style=for-the-badge&logo=github&logoColor=white&labelColor=30363D"/>
+<img src="https://img.shields.io/badge/Source-212641?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -255,7 +255,7 @@ Patient management system with diagnostic assistance, medical data analytics, an
 
 <a href="https://medical-ai-saas.vercel.app">
 
-<img src="https://img.shields.io/badge/%F0%9F%9A%80%20Live%20Demo-00E676?style=for-the-badge&logo=vercel&logoColor=black&labelColor=00C853"/>
+<img src="https://img.shields.io/badge/Live%20Demo-0097A7?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </a>
 
@@ -263,7 +263,7 @@ Patient management system with diagnostic assistance, medical data analytics, an
 
 <a href="https://github.com/Qaziaaaa/medical-Ai-saas">
 
-<img src="https://img.shields.io/badge/%F0%9F%94%84%20Source-212641?style=for-the-badge&logo=github&logoColor=white&labelColor=30363D"/>
+<img src="https://img.shields.io/badge/Source-212641?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -295,7 +295,7 @@ AI-powered study productivity platform with smart scheduling, task management, a
 
 <a href="https://studyflow-ai-three.vercel.app">
 
-<img src="https://img.shields.io/badge/%F0%9F%9A%80%20Live%20Demo-00E676?style=for-the-badge&logo=vercel&logoColor=black&labelColor=00C853"/>
+<img src="https://img.shields.io/badge/Live%20Demo-0097A7?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </a>
 
@@ -303,7 +303,7 @@ AI-powered study productivity platform with smart scheduling, task management, a
 
 <a href="https://github.com/Qaziaaaa/StudyFLow-AI">
 
-<img src="https://img.shields.io/badge/%F0%9F%94%84%20Source-212641?style=for-the-badge&logo=github&logoColor=white&labelColor=30363D"/>
+<img src="https://img.shields.io/badge/Source-212641?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
