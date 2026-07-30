@@ -1,5 +1,24 @@
 <div align="center">
 
+<h3><code>qazi@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
+
+<br><br>
+
+<h3><code>qazi@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./qazi-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Qazi Farhan Ahmad
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=AI+Web+Developer+%7C+MERN+Stack+Expert;Full-Stack+%7C+TypeScript+%7C+React+%2B+Node.js;Building+AI-Powered+Web+Applications;Always+Learning+Something+New" />
