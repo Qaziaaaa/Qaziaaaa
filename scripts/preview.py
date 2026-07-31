@@ -5,7 +5,7 @@ import os
 B.PHOTO = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "profile.jpg")
 
 img = B.load_and_crop()
-gray = B.preprocess(img)
+gray = B.ascii_gray(img)
 mask = B.segment_mask(img)
 cells = B.ascii_cells(gray, mask)
 

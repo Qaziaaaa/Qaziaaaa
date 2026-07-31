@@ -32,11 +32,11 @@ LOOP_BEGIN = 3.2
 LOOP_DUR = 14.2
 KT = [0, 0.2113, 0.3028, 0.4437, 0.5352, 0.6761, 0.7676, 0.9085, 1]
 
-ACOLS = 66
-AROWS = 45
-FONT_SIZE = 10.5
-CELL_W = 6.3
-CELL_H = 10.5
+ACOLS = 77
+AROWS = 52
+FONT_SIZE = 9.0
+CELL_W = 5.4
+CELL_H = 9.0
 CHAR_RAMP = " .:-=+*#%@"
 
 DARK = {
@@ -118,9 +118,16 @@ def segment_mask(img_rgb):
     return mask
 
 
+def ascii_gray(img):
+    g = ImageOps.autocontrast(img, cutoff=1)
+    g = ImageEnhance.Contrast(g).enhance(1.15)
+    return np.asarray(g.convert("L"), dtype=np.float64)
+
+
 def ascii_cells(gray, mask):
+    m_full = ndi.binary_erosion(mask, iterations=1)
     g = Image.fromarray(gray.astype(np.uint8)).resize((ACOLS, AROWS), Image.BILINEAR)
-    m = Image.fromarray((mask * 255).astype(np.uint8)).resize((ACOLS, AROWS), Image.NEAREST)
+    m = Image.fromarray((m_full * 255).astype(np.uint8)).resize((ACOLS, AROWS), Image.NEAREST)
     g = np.asarray(g, dtype=np.float64)
     m = np.asarray(m) > 128
     vals = g[m]
@@ -360,7 +367,7 @@ def build(theme, cells):
 
 def main():
     img = load_and_crop()
-    gray = preprocess(img)
+    gray = ascii_gray(img)
     mask = segment_mask(img)
     cells = ascii_cells(gray, mask)
 
