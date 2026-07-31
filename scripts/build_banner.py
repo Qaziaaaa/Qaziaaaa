@@ -277,54 +277,29 @@ def info_panel(theme):
 
 
 def portrait_layer(theme, cells):
-    cells = list(cells)
-    random.Random(7).shuffle(cells)
-
-    bands = [[] for _ in range(N_BANDS)]
-    for i, cell in enumerate(cells):
-        bands[i % N_BANDS].append(cell)
-
-    def cell_xy(r, c):
-        return PORT_X + c * CELL_W + CELL_W / 2, PORT_Y + r * CELL_H + CELL_H * 0.8
-
-    def centroid(band):
-        sx = sy = 0.0
-        for (r, c, _) in band:
-            x, y = cell_xy(r, c)
-            sx += x
-            sy += y
-        n = max(1, len(band))
-        return sx / n, sy / n
+    grid = [[" "] * ACOLS for _ in range(AROWS)]
+    for (r, c, ch) in cells:
+        grid[r][c] = ch
 
     kt = ";".join(f"{t:.4f}" for t in KT)
     out = []
-    for b in range(N_BANDS):
-        band = bands[b]
-        if not band:
+    out.append(f'<g font-family="monospace" font-size="{FONT_SIZE}" fill="{theme["dots"]}">')
+    out.append(f'<animate attributeName="opacity" values="1;1;0.12;0.12;0.12;0.12;0.12;0.12;1" '
+               f'keyTimes="{kt}" begin="{LOOP_BEGIN}s" dur="{LOOP_DUR}s" repeatCount="indefinite"/>')
+    out.append(f'<animateTransform attributeName="transform" type="translate" '
+               f'values="0 0;0 0;6 -5;6 -5;6 -5;6 -5;6 -5;6 -5;0 0" '
+               f'keyTimes="{kt}" begin="{LOOP_BEGIN}s" dur="{LOOP_DUR}s" repeatCount="indefinite"/>')
+    for r in range(AROWS):
+        line = "".join(grid[r]).rstrip()
+        if not line.strip():
             continue
-        bcx, bcy = centroid(band)
-        dx = (PORT_CX - bcx) * 0.42 + random.gauss(0, 4)
-        dy = (PORT_CY - bcy) * 0.42 + random.gauss(0, 4)
-        vals_o = "1;1;0.12;0.12;0.12;0.12;0.12;0.12;1"
-        vals_t = ";".join(["0 0", "0 0", f"{dx:.1f} {dy:.1f}", f"{dx:.1f} {dy:.1f}",
-                           f"{dx:.1f} {dy:.1f}", f"{dx:.1f} {dy:.1f}",
-                           f"{dx:.1f} {dy:.1f}", f"{dx:.1f} {dy:.1f}", "0 0"])
-        chars = []
-        for (r, c, ch) in band:
-            x = PORT_X + c * CELL_W
-            y = PORT_Y + r * CELL_H + CELL_H * 0.8
-            chars.append(f'<text x="{x:.1f}" y="{y:.1f}" font-size="{FONT_SIZE}">{ch}</text>')
-        out.append(f'<g>')
-        out.append(f'<animate attributeName="opacity" values="{vals_o}" keyTimes="{kt}" '
-                   f'begin="{LOOP_BEGIN}s" dur="{LOOP_DUR}s" repeatCount="indefinite"/>')
-        out.append(f'<animateTransform attributeName="transform" type="translate" values="{vals_t}" '
-                   f'keyTimes="{kt}" begin="{LOOP_BEGIN}s" dur="{LOOP_DUR}s" repeatCount="indefinite"/>')
-        out.append(f'<g fill="{theme["dots"]}" font-family="{FONT}" opacity="0">')
-        out.append(f'<animate attributeName="opacity" from="0" to="1" begin="{b * 33}ms" '
-                   f'dur="400ms" fill="freeze"/>')
-        out += chars
-        out.append(f'</g>')
-        out.append(f'</g>')
+        out.append(f'<text x="{PORT_X:.1f}" y="{PORT_Y + r * CELL_H + CELL_H * 0.8:.1f}" '
+                   f'textLength="{PORT_W:.1f}" xml:space="preserve" opacity="0">')
+        out.append(f'<animate attributeName="opacity" from="0" to="1" begin="{r * 33}ms" '
+                   f'dur="300ms" fill="freeze"/>')
+        out.append(esc(line))
+        out.append(f'</text>')
+    out.append(f'</g>')
     return out
 
 
