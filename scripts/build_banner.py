@@ -32,12 +32,12 @@ LOOP_BEGIN = 3.2
 LOOP_DUR = 14.2
 KT = [0, 0.2113, 0.3028, 0.4437, 0.5352, 0.6761, 0.7676, 0.9085, 1]
 
-ACOLS = 70
-AROWS = 42
-FONT_SIZE = 12.5
-CELL_W = 7.5
-CELL_H = 12.5
-CHAR_RAMP = "@%#*+=-:. "
+ACOLS = 67
+AROWS = 40
+FONT_SIZE = 13.0
+CELL_W = 7.8
+CELL_H = 13.0
+CHAR_RAMP = "@*+-:. "
 
 DARK = {
     "bg": "#1a1b26", "panel": "#16161e", "border": "#24283b",
@@ -119,13 +119,14 @@ def segment_mask(img_rgb):
 
 
 def ascii_cells(gray, mask):
-    m_full = ndi.binary_erosion(mask, iterations=1)
+    m_full = ndi.binary_erosion(mask, iterations=2)
     g = Image.fromarray(gray.astype(np.uint8)).resize((ACOLS, AROWS), Image.BILINEAR)
     m = Image.fromarray((m_full * 255).astype(np.uint8)).resize((ACOLS, AROWS), Image.NEAREST)
     g = np.asarray(g, dtype=np.float64)
     m = np.asarray(m) > 128
+    g = ndi.gaussian_filter(g, 0.7)
     vals = g[m]
-    lo, hi = np.percentile(vals, 2), np.percentile(vals, 98)
+    lo, hi = np.percentile(vals, 3), np.percentile(vals, 97)
     span = max(hi - lo, 1e-6)
     cells = []
     for r in range(AROWS):
