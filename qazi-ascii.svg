@@ -1,434 +1,217 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480.0 507.59999999999997" width="480.0" height="507.59999999999997">
 <rect width="100%" height="100%" fill="#0d1117"/>
-<style>
-@keyframes typeRow{0%{clip-path:inset(0 100% 0 0)}100%{clip-path:inset(0 0 0 0)}}
-@keyframes cursorBlink{0%,100%{opacity:1}50%{opacity:0}}
-@keyframes fadeIn{0%{opacity:0}100%{opacity:1}}
-</style>
 <g font-family="monospace" font-size="8" fill="#c9d1d9">
 <text x="0" y="10.0" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="0ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="0ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 0ms both">                                                                                                    </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="0ms" dur="500ms" fill="freeze"/>
+                                                                                                    
 </text>
 <text x="0" y="19.2" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="30ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="30ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 30ms both">                                                                                                    </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="30ms" dur="500ms" fill="freeze"/>
+                                                                                                    
 </text>
 <text x="0" y="28.4" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="60ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="60ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 60ms both">                                                                                                    </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="60ms" dur="500ms" fill="freeze"/>
+                                                                                                    
 </text>
 <text x="0" y="37.599999999999994" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="90ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="90ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 90ms both">                                                                                                    </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="90ms" dur="500ms" fill="freeze"/>
+                                                                                                    
 </text>
 <text x="0" y="46.8" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="120ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="120ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 120ms both">                                            .............                                           </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="120ms" dur="500ms" fill="freeze"/>
+                                            .............                                           
 </text>
 <text x="0" y="56.0" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="150ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="150ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 150ms both">                                    ............................                                    </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="150ms" dur="500ms" fill="freeze"/>
+                                    ............................                                    
 </text>
 <text x="0" y="65.19999999999999" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="180ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="180ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 180ms both">                                ....................................                                </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="180ms" dur="500ms" fill="freeze"/>
+                                ....................................                                
 </text>
 <text x="0" y="74.39999999999999" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="210ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="210ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 210ms both">                             ...........................................                            </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="210ms" dur="500ms" fill="freeze"/>
+                             ...........................................                            
 </text>
 <text x="0" y="83.6" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="240ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="240ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 240ms both">                           ......................`````.....................                         </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="240ms" dur="500ms" fill="freeze"/>
+                           ......................`````.....................                         
 </text>
 <text x="0" y="92.8" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="270ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="270ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 270ms both">                        ................`..``::-:::``........................                       </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="270ms" dur="500ms" fill="freeze"/>
+                        ................`..``::-:::``........................                       
 </text>
 <text x="0" y="102.0" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="300ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="300ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 300ms both">                       ............```````::::::``....       ..................                     </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="300ms" dur="500ms" fill="freeze"/>
+                       ............```````::::::``....       ..................                     
 </text>
 <text x="0" y="111.19999999999999" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="330ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="330ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 330ms both">                     ............````````:::.`::````...        .```..............                   </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="330ms" dur="500ms" fill="freeze"/>
+                     ............````````:::.`::````...        .```..............                   
 </text>
 <text x="0" y="120.39999999999999" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="360ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="360ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 360ms both">                   ............````````:``.`-*ccccccc*++=-::``   .`````...........                  </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="360ms" dur="500ms" fill="freeze"/>
+                   ............````````:``.`-*ccccccc*++=-::``   .`````...........                  
 </text>
 <text x="0" y="129.6" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="390ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="390ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 390ms both">                  ...........`````````:`.`=c#ss#####ssssccc*++-.  .``````...........                </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="390ms" dur="500ms" fill="freeze"/>
+                  ...........`````````:`.`=c#ss#####ssssccc*++-.  .``````...........                
 </text>
 <text x="0" y="138.79999999999998" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="420ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="420ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 420ms both">                 .........```````````::`-+s%#sss#ssssscccc***++=.  ````````..........               </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="420ms" dur="500ms" fill="freeze"/>
+                 .........```````````::`-+s%#sss#ssssscccc***++=.  ````````..........               
 </text>
 <text x="0" y="148.0" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="450ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="450ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 450ms both">                .........``````````::--=**s#########sssccc**++==:. .`````````.........              </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="450ms" dur="500ms" fill="freeze"/>
+                .........``````````::--=**s#########sssccc**++==:. .`````````.........              
 </text>
 <text x="0" y="157.2" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="480ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="480ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 480ms both">               .........````````:::::-=*cs###sccccsssssssccc*+=-:. `:`````````.........             </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="480ms" dur="500ms" fill="freeze"/>
+               .........````````:::::-=*cs###sccccsssssssccc*+=-:. `:`````````.........             
 </text>
 <text x="0" y="166.39999999999998" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="510ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="510ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 510ms both">              .........````````::::::=*c##sc+=::::-+cc*+=::::-==-`.`:`````````..........            </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="510ms" dur="500ms" fill="freeze"/>
+              .........````````::::::=*c##sc+=::::-+cc*+=::::-==-`.`:`````````..........            
 </text>
 <text x="0" y="175.6" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="540ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="540ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 540ms both">             .........```````:::::::-=*s##c+++=-:--*sc=::`::``:-=:.:::::```````..........           </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="540ms" dur="500ms" fill="freeze"/>
+             .........```````:::::::-=*s##c+++=-:--*sc=::`::``:-=:.:::::```````..........           
 </text>
 <text x="0" y="184.79999999999998" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="570ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="570ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 570ms both">            .........```````::::::-+cscs##s*+-:`::+css-.``.``:--=:`::::::```````.........           </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="570ms" dur="500ms" fill="freeze"/>
+            .........```````::::::-+cscs##s*+-:`::+css-.``.``:--=:`::::::```````.........           
 </text>
 <text x="0" y="194.0" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="600ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="600ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 600ms both">            ........```````:::::::+*sss####ssc**ccsssc=-::````:-=::-::::::```````........           </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="600ms" dur="500ms" fill="freeze"/>
+            ........```````:::::::+*sss####ssc**ccsssc=-::````:-=::-::::::```````........           
 </text>
 <text x="0" y="203.2" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="630ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="630ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 630ms both">           .........```````:::::::*sc+cs#####s#sss#ssc+=+++++++==--::::::::``````.........          </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="630ms" dur="500ms" fill="freeze"/>
+           .........```````:::::::*sc+cs#####s#sss#ssc+=+++++++==--::::::::``````.........          
 </text>
 <text x="0" y="212.39999999999998" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="660ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="660ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 660ms both">           ........```````::::::::*s*sc+#ssssc+*cc*cc+==+*ccc*+==--:-::::::```````........          </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="660ms" dur="500ms" fill="freeze"/>
+           ........```````::::::::*s*sc+#ssssc+*cc*cc+==+*ccc*+==--:-::::::```````........          
 </text>
 <text x="0" y="221.6" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="690ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="690ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 690ms both">           ........```````::::::::=s##c=csc**++cc=-=-``-=+**++==:`---:::::::``````.........         </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="690ms" dur="500ms" fill="freeze"/>
+           ........```````::::::::=s##c=csc**++cc=-=-``-=+**++==:`---:::::::``````.........         
 </text>
 <text x="0" y="230.79999999999998" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="720ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="720ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 720ms both">          .........``````::::::::-:=**=++*ccc*::-::``..`:=+====-`---::::::::```````.......          </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="720ms" dur="500ms" fill="freeze"/>
+          .........``````::::::::-:=**=++*ccc*::-::``..`:=+====-`---::::::::```````.......          
 </text>
 <text x="0" y="239.99999999999997" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="750ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="750ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 750ms both">          .........``````::::::::--::--=**csc+-+*++=-:``.`==--:`-==-::::::::```````........         </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="750ms" dur="500ms" fill="freeze"/>
+          .........``````::::::::--::--=**csc+-+*++=-:``.`==--:`-==-::::::::```````........         
 </text>
 <text x="0" y="249.2" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="780ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="780ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 780ms both">          ........```````::::::::-------=+*cc*csc+---::::----:::--::::::::::```````........         </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="780ms" dur="500ms" fill="freeze"/>
+          ........```````::::::::-------=+*cc*csc+---::::----:::--::::::::::```````........         
 </text>
 <text x="0" y="258.4" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="810ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="810ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 810ms both">          .........``````::::::::------++:=++*ccc*=::-------:::---::::::::::``````.........         </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="810ms" dur="500ms" fill="freeze"/>
+          .........``````::::::::------++:=++*ccc*=::-------:::---::::::::::``````.........         
 </text>
 <text x="0" y="267.59999999999997" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="840ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="840ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 840ms both">           ........```````:::::::------=s+:``:=**ccc*++-::::`:----:::::::::```````.........         </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="840ms" dur="500ms" fill="freeze"/>
+           ........```````:::::::------=s+:``:=**ccc*++-::::`:----:::::::::```````.........         
 </text>
 <text x="0" y="276.79999999999995" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="870ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="870ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 870ms both">           ........```````::::::::------cs*=:.```:::::`. .``:----:::::::::````````........          </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="870ms" dur="500ms" fill="freeze"/>
+           ........```````::::::::------cs*=:.```:::::`. .``:----:::::::::````````........          
 </text>
 <text x="0" y="286.0" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="900ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="900ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 900ms both">           ........```````:::::::::-----ccccc+-`..     ..`::--:-::::::::::````````........          </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="900ms" dur="500ms" fill="freeze"/>
+           ........```````:::::::::-----ccccc+-`..     ..`::--:-::::::::::````````........          
 </text>
 <text x="0" y="295.2" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="930ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="930ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 930ms both">            ........```````:::::::::----*cccccc+=-:```::::::--:::::::::::````````.........          </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="930ms" dur="500ms" fill="freeze"/>
+            ........```````:::::::::----*cccccc+=-:```::::::--:::::::::::````````.........          
 </text>
 <text x="0" y="304.4" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="960ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="960ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 960ms both">            .........````````::::::::-::*scccc***=---:-::::---=-:`::::::````````.........           </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="960ms" dur="500ms" fill="freeze"/>
+            .........````````::::::::-::*scccc***=---:-::::---=-:`::::::````````.........           
 </text>
 <text x="0" y="313.59999999999997" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="990ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="990ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 990ms both">             .........````````:::::::`:+cscc****+=----::::----:+*+=:```````````..........           </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="990ms" dur="500ms" fill="freeze"/>
+             .........````````:::::::`:+cscc****+=----::::----:+*+=:```````````..........           
 </text>
 <text x="0" y="322.79999999999995" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="1020ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="1020ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 1020ms both">              .........````````````:=css#scc****+==-----------:+ss#cc+=-:`..............            </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="1020ms" dur="500ms" fill="freeze"/>
+              .........````````````:=css#scc****+==-----------:+ss#cc+=-:`..............            
 </text>
 <text x="0" y="332.0" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="1050ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="1050ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 1050ms both">              ..........````..`:-+s%@@%s#scc****++=----------:=cccss#%%%#s*=:`.  ......             </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="1050ms" dur="500ms" fill="freeze"/>
+              ..........````..`:-+s%@@%s#scc****++=----------:=cccss#%%%#s*=:`.  ......             
 </text>
 <text x="0" y="341.2" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="1080ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="1080ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 1080ms both">               ............`-*s#@@@@@@@#ssc***+++==--------::=ccss######%%%@%#s*-`.    .            </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="1080ms" dur="500ms" fill="freeze"/>
+               ............`-*s#@@@@@@@#ssc***+++==--------::=ccss######%%%@%#s*-`.    .            
 </text>
 <text x="0" y="350.4" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="1110ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="1110ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 1110ms both">                ...   .`-*s%@@%@@%@@@@@@scc***+=========---=*sss########%%#%%%@@@%#*=`.             </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="1110ms" dur="500ms" fill="freeze"/>
+                ...   .`-*s%@@%@@%@@@@@@scc***+=========---=*sss########%%#%%%@@@%#*=`.             
 </text>
 <text x="0" y="359.59999999999997" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="1140ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="1140ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 1140ms both">                   `-*s%@@@@%%%@@@@%%@@@@%scc*+====++++++*s####%###%###%%%#%%%%%%%@@@%#*`           </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="1140ms" dur="500ms" fill="freeze"/>
+                   `-*s%@@@@%%%@@@@%%@@@@%scc*+====++++++*s####%###%###%%%#%%%%%%%@@@%#*`           
 </text>
 <text x="0" y="368.79999999999995" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="1170ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="1170ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 1170ms both">                :+#@@@@@@@@%#%%@@@@%@@%@@@@%%#s****ccsss#%%%%#%####%###%%%%%@%%%%%%%#%%%%+.         </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="1170ms" dur="500ms" fill="freeze"/>
+                :+#@@@@@@@@%#%%@@@@%@@%@@@@%%#s****ccsss#%%%%#%####%###%%%%%@%%%%%%%#%%%%+.         
 </text>
 <text x="0" y="378.0" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="1200ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="1200ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 1200ms both">              :#@@@@@%%%@@%#%%%@@@@%@%%@@%%@@@%%%%##%%%%%%####%###%%###%%%%%@%%%%%@##%###%s`        </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="1200ms" dur="500ms" fill="freeze"/>
+              :#@@@@@%%%@@%#%%%@@@@%@%%@@%%@@@%%%%##%%%%%%####%###%%###%%%%%@%%%%%@##%###%s`        
 </text>
 <text x="0" y="387.2" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="1230ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="1230ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 1230ms both">             *@@@%%%@%%%@%#%%%@@%@%%%%%@%%%%%%%%%%%%###%%%s#%%%##%%%###%%%%%%#%%%@%s###%ss#s`       </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="1230ms" dur="500ms" fill="freeze"/>
+             *@@@%%%@%%%@%#%%%@@%@%%%%%@%%%%%%%%%%%%###%%%s#%%%##%%%###%%%%%%#%%%@%s###%ss#s`       
 </text>
 <text x="0" y="396.4" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="1260ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="1260ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 1260ms both">            c@@%@%#%@%%@%##%%%@@%%%%%%%%%%%%%%%%%%####%%%##%%%###%%%%#%%%%%@%#%%%@#s##%ss#s#s:      </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="1260ms" dur="500ms" fill="freeze"/>
+            c@@%@%#%@%%@%##%%%@@%%%%%%%%%%%%%%%%%%####%%%##%%%###%%%%#%%%%%@%#%%%@#s##%ss#s#s:      
 </text>
 <text x="0" y="405.59999999999997" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="1290ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="1290ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 1290ms both">           s@%%%%%#%%%%@##%%%@@%%@%%%%%%%%#%%%%%#####%%%###%%%##%%%%%#%%%%%@##%#%@ss#%ss%###ss.     </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="1290ms" dur="500ms" fill="freeze"/>
+           s@%%%%%#%%%%@##%%%@@%%@%%%%%%%%#%%%%%#####%%%###%%%##%%%%%#%%%%%@##%#%@ss#%ss%###ss.     
 </text>
 <text x="0" y="414.79999999999995" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="1320ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="1320ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 1320ms both">          c@%%%%%%##%%%%##%%%@%%%%%%%%%%%%##%%%#####%%%###%%%##%%%%%%##%%%%%##%#@%s#%#s%%scscs=     </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="1320ms" dur="500ms" fill="freeze"/>
+          c@%%%%%%##%%%%##%%%@%%%%%%%%%%%%##%%%#####%%%###%%%##%%%%%%##%%%%%##%#@%s#%#s%%scscs=     
 </text>
 <text x="0" y="423.99999999999994" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="1350ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="1350ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 1350ms both">         =@%@%%%%%%#%%%###%%%%%%%%%%%%%%%%###%%#####%%####%%%##%%%%%%##%%#%%s##%@#s%#s%%scs#csc     </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="1350ms" dur="500ms" fill="freeze"/>
+         =@%@%%%%%%#%%%###%%%%%%%%%%%%%%%%###%%#####%%####%%%##%%%%%%##%%#%%s##%@#s%#s%%scs#csc     
 </text>
 <text x="0" y="433.2" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="1380ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="1380ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 1380ms both">         %@%%%%%%%%##%%#s#%%%%%%%%%#%%%%%%#########%%%###%%%%##%%%%%%%##%#%%s##%@s##s%%#cs#scss-    </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="1380ms" dur="500ms" fill="freeze"/>
+         %@%%%%%%%%##%%#s#%%%%%%%%%#%%%%%%#########%%%###%%%%##%%%%%%%##%#%%s##%@s##s%%#cs#scss-    
 </text>
 <text x="0" y="442.4" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="1410ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="1410ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 1410ms both">        =@%%%%%%%%%###%#s#%%%%%%%%#%%%%%%%#########%%##%#%%%###%%#%%%%##%#%#s#%%%s##%%#ccs#ccss*    </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="1410ms" dur="500ms" fill="freeze"/>
+        =@%%%%%%%%%###%#s#%%%%%%%%#%%%%%%%#########%%##%#%%%###%%#%%%%##%#%#s#%%%s##%%#ccs#ccss*    
 </text>
 <text x="0" y="451.59999999999997" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="1440ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="1440ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 1440ms both">        s@%%%%##%%%###%###%%%%%%%%#%%%%%%######s##%%%##%%%%%###%%#%%#######ss#%@#s##%%scs##ccssc.   </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="1440ms" dur="500ms" fill="freeze"/>
+        s@%%%%##%%%###%###%%%%%%%%#%%%%%%######s##%%%##%%%%%###%%#%%#######ss#%@#s##%%scs##ccssc.   
 </text>
 <text x="0" y="460.79999999999995" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="1470ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="1470ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 1470ms both">       :@%%%%%%###%###%####%%%%%%%%%%%%%%#####s###%%###%%%%####%##%#####sssss#%%ss##%scs##ccs#ss-   </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="1470ms" dur="500ms" fill="freeze"/>
+       :@%%%%%%###%###%####%%%%%%%%%%%%%%#####s###%%###%%%%####%##%#####sssss#%%ss##%scs##ccs#ss-   
 </text>
 <text x="0" y="469.99999999999994" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="1500ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="1500ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 1500ms both">       c@%%%%###############%%%%%%%%%%############%%##%%%%%############ss#sss#%%cs#%#cs#%scs#sss*   </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="1500ms" dur="500ms" fill="freeze"/>
+       c@%%%%###############%%%%%%%%%%############%%##%%%%%############ss#sss#%%cs#%#cs#%scs#sss*   
 </text>
 <text x="0" y="479.2" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="1530ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="1530ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 1530ms both">      `@%%%%%%####s####%###%%%%%%%%%#######sssss##%###%%%%%###########ssssss#%%#cs%#cs#%sccs##css`  </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="1530ms" dur="500ms" fill="freeze"/>
+      `@%%%%%%####s####%###%%%%%%%%%#######sssss##%###%%%%%###########ssssss#%%#cs%#cs#%sccs##css`  
 </text>
 <text x="0" y="488.4" xml:space="preserve">
-<tspan>
-<set attributeName="visibility" to="hidden" begin="0s"/>
-<animate attributeName="visibility" to="visible" begin="1560ms" dur="1ms" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="1560ms" dur="400ms" fill="freeze"/>
-</tspan>
-<tspan x="0" dy="0" style="animation:fadeIn 400ms ease 1560ms both">      *@%%%%%%%########%###%%%%%%##########ssssss%%##%%%%%############ssssss#%%sc%#cs#%#ccs##ssss=  </tspan>
+<animate attributeName="opacity" from="0" to="1" begin="1560ms" dur="500ms" fill="freeze"/>
+      *@%%%%%%%########%###%%%%%%##########ssssss%%##%%%%%############ssssss#%%sc%#cs#%#ccs##ssss=  
 </text>
 </g>
 </svg>

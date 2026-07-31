@@ -23,6 +23,8 @@ def main():
         count = int(rect.get("data-level", "0"))
         days.append({"date": date, "count": count})
 
+    days.sort(key=lambda x: x["date"])
+
     total = sum(d["count"] for d in days)
     best_day = max(days, key=lambda x: x["count"]) if days else {}
 

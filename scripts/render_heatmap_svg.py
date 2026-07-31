@@ -15,7 +15,7 @@ CELL = 12
 GAP = 2
 LABEL_W = 30
 HEADER_H = 40
-FOOTER_H = 40
+FOOTER_H = 50
 PAD = 20
 
 MONTH_LABELS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
@@ -48,9 +48,6 @@ def build_svg(days, total, streak, longest_streak, best_day):
     lines = []
     lines.append(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}">')
     lines.append(f'<rect width="100%" height="100%" fill="{BG}"/>')
-    lines.append("<style>")
-    lines.append("@keyframes reveal{0%{opacity:0;transform:scale(0.3)}100%{opacity:1;transform:scale(1)}}")
-    lines.append("</style>")
 
     x_off = LABEL_W + PAD
     y_off = HEADER_H + PAD
@@ -61,21 +58,25 @@ def build_svg(days, total, streak, longest_streak, best_day):
             y = y_off + dy * (CELL + GAP) + CELL // 2 + 4
             lines.append(f'<text x="{PAD + 4}" y="{y}" font-family="monospace" font-size="9" fill="{DIM}">{label}</text>')
 
-    # Month labels
-    prev_month = ""
-    month_col_x = {}
+    # Month labels - first week of each distinct (year, month)
+    prev_key = None
+    month_positions = []
     for i, d in enumerate(days):
-        month = d["date"][5:7]
-        if month != prev_month:
+        key = (d["date"][:4], d["date"][5:7])
+        if key != prev_key:
             col = i // 7
             mx = x_off + col * (CELL + GAP)
-            month_label = MONTH_LABELS[int(month) - 1]
-            if month_label not in month_col_x:
-                month_col_x[month_label] = mx
-            prev_month = month
+            month_positions.append((mx, MONTH_LABELS[int(key[1]) - 1]))
+            prev_key = key
 
-    for ml, mx in month_col_x.items():
+    seen = set()
+    last_col = -1
+    for mx, ml in month_positions:
+        col_key = int(mx)
+        if col_key in seen:
+            continue
         lines.append(f'<text x="{mx}" y="{HEADER_H + PAD - 8}" font-family="monospace" font-size="9" fill="{DIM}">{ml}</text>')
+        seen.add(col_key)
 
     # Cells
     for i, d in enumerate(days):
@@ -85,10 +86,11 @@ def build_svg(days, total, streak, longest_streak, best_day):
         y = y_off + day * (CELL + GAP)
         lv = level(d["count"])
         color = PALETTE[lv]
-        delay = (week * 3 + day * 2) * 15
-        lines.append(f'<rect x="{x}" y="{y}" width="{CELL}" height="{CELL}" rx="3" fill="{color}" '
-                     f'style="animation:reveal 0.4s ease {delay}ms both"/>'
-                     f'<title>{d["date"]}: {d["count"]} contributions</title>')
+        delay = (week * 3 + day * 2) * 12
+        lines.append(f'<rect x="{x}" y="{y}" width="{CELL}" height="{CELL}" rx="3" fill="{color}">')
+        lines.append(f'<animate attributeName="opacity" from="0" to="1" begin="{delay}ms" dur="400ms" fill="freeze"/>')
+        lines.append(f'<title>{d["date"]}: {d["count"]} contributions</title>')
+        lines.append(f'</rect>')
 
     # Legend
     leg_x = x_off + cols - 120
@@ -101,14 +103,15 @@ def build_svg(days, total, streak, longest_streak, best_day):
 
     # Stats footer
     fty = y_off + 7 * (CELL + GAP) + 40
-    lines.append(f'<text x="{PAD}" y="{fty}" font-family="monospace" font-size="12" fill="{FG}" font-weight="bold">')
-    lines.append(f'<tspan fill="{ACCENT}">{total}</tspan>')
+    best_str = f'{best_day.get("date", "")} ({best_day.get("count", 0)})' if best_day else "N/A"
+    lines.append(f'<text x="{PAD}" y="{fty}" font-family="monospace" font-size="12" fill="{FG}">')
+    lines.append(f'<tspan fill="{ACCENT}" font-weight="bold">{total}</tspan>')
     lines.append(f'<tspan fill="{DIM}"> contributions in the last year</tspan>')
     lines.append(f'</text>')
     lines.append(f'<text x="{PAD}" y="{fty + 18}" font-family="monospace" font-size="10" fill="{DIM}">')
-    lines.append(f'<tspan fill="{GREEN}">{streak}</tspan> day streak &middot; ')
-    lines.append(f'<tspan fill="{GREEN}">{longest_streak}</tspan> longest &middot; ')
-    lines.append(f'Best day: {best_day.get("date", "")} ({best_day.get("count", 0)})')
+    lines.append(f'<tspan fill="{GREEN}">{streak}</tspan> day streak &#183; ')
+    lines.append(f'<tspan fill="{GREEN}">{longest_streak}</tspan> longest &#183; ')
+    lines.append(f'Best day: {best_str}')
     lines.append(f'</text>')
 
     lines.append("</svg>")
