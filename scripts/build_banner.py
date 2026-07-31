@@ -281,24 +281,14 @@ def portrait_layer(theme, cells):
     for (r, c, ch) in cells:
         grid[r][c] = ch
 
-    kt = ";".join(f"{t:.4f}" for t in KT)
     out = []
     out.append(f'<g font-family="monospace" font-size="{FONT_SIZE}" fill="{theme["dots"]}">')
-    out.append(f'<animate attributeName="opacity" values="1;1;0.9;0.9;0.9;0.9;0.9;0.9;1" '
-               f'keyTimes="{kt}" begin="{LOOP_BEGIN}s" dur="{LOOP_DUR}s" repeatCount="indefinite"/>')
-    out.append(f'<animateTransform attributeName="transform" type="translate" '
-               f'values="0 0;0 0;6 -5;6 -5;6 -5;6 -5;6 -5;6 -5;0 0" '
-               f'keyTimes="{kt}" begin="{LOOP_BEGIN}s" dur="{LOOP_DUR}s" repeatCount="indefinite"/>')
     for r in range(AROWS):
         line = "".join(grid[r]).rstrip()
         if not line.strip():
             continue
         out.append(f'<text x="{PORT_X:.1f}" y="{PORT_Y + r * CELL_H + CELL_H * 0.8:.1f}" '
-                   f'textLength="{PORT_W:.1f}" xml:space="preserve" opacity="0">')
-        out.append(f'<animate attributeName="opacity" from="0" to="1" begin="{r * 33}ms" '
-                   f'dur="300ms" fill="freeze"/>')
-        out.append(esc(line))
-        out.append(f'</text>')
+                   f'textLength="{PORT_W:.1f}" xml:space="preserve">{esc(line)}</text>')
     out.append(f'</g>')
     return out
 
@@ -335,7 +325,6 @@ def build(theme, cells):
     parts += portrait_frame(theme)
     parts += info_panel(theme)
     parts += portrait_layer(theme, cells)
-    parts += traveler_layer(theme)
     parts.append("</svg>")
     return "\n".join(parts)
 
