@@ -284,7 +284,7 @@ def portrait_layer(theme, cells):
     kt = ";".join(f"{t:.4f}" for t in KT)
     out = []
     out.append(f'<g font-family="monospace" font-size="{FONT_SIZE}" fill="{theme["dots"]}">')
-    out.append(f'<animate attributeName="opacity" values="1;1;0.12;0.12;0.12;0.12;0.12;0.12;1" '
+    out.append(f'<animate attributeName="opacity" values="1;1;0.9;0.9;0.9;0.9;0.9;0.9;1" '
                f'keyTimes="{kt}" begin="{LOOP_BEGIN}s" dur="{LOOP_DUR}s" repeatCount="indefinite"/>')
     out.append(f'<animateTransform attributeName="transform" type="translate" '
                f'values="0 0;0 0;6 -5;6 -5;6 -5;6 -5;6 -5;6 -5;0 0" '

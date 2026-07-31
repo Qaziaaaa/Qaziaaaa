@@ -69,7 +69,7 @@
 <rect x="974" y="566" width="150" height="20" rx="10" fill="#0b8494" opacity="0.15"/>
 <text x="1049" y="581" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b8494">@Qaziaaaa</text>
 <g font-family="monospace" font-size="9.0" fill="#7C3AED">
-<animate attributeName="opacity" values="1;1;0.12;0.12;0.12;0.12;0.12;0.12;1" keyTimes="0.0000;0.2113;0.3028;0.4437;0.5352;0.6761;0.7676;0.9085;1.0000" begin="3.2s" dur="14.2s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="1;1;0.9;0.9;0.9;0.9;0.9;0.9;1" keyTimes="0.0000;0.2113;0.3028;0.4437;0.5352;0.6761;0.7676;0.9085;1.0000" begin="3.2s" dur="14.2s" repeatCount="indefinite"/>
 <animateTransform attributeName="transform" type="translate" values="0 0;0 0;6 -5;6 -5;6 -5;6 -5;6 -5;6 -5;0 0" keyTimes="0.0000;0.2113;0.3028;0.4437;0.5352;0.6761;0.7676;0.9085;1.0000" begin="3.2s" dur="14.2s" repeatCount="indefinite"/>
 <text x="30.0" y="155.2" textLength="420.0" xml:space="preserve" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="231ms" dur="300ms" fill="freeze"/>
