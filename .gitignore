@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+profile.jpg
+scripts/preview_*.svg
+scripts/preview_*.png

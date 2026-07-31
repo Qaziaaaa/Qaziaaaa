@@ -1,5 +1,11 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qaziaaaa/Qaziaaaa/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qaziaaaa/Qaziaaaa/main/light.svg">
+  <img alt="Qazi Farhan Ahmad" src="https://raw.githubusercontent.com/Qaziaaaa/Qaziaaaa/main/light.svg">
+</picture>
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Qazi Farhan Ahmad
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=AI+Web+Developer+%7C+MERN+Stack+Expert;Full-Stack+%7C+TypeScript+%7C+React+%2B+Node.js;Building+AI-Powered+Web+Applications;Always+Learning+Something+New" />
