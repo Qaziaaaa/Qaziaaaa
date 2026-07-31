@@ -4,8 +4,10 @@ import os
 
 B.PHOTO = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "profile.jpg")
 
+import numpy as np
+
 img = B.load_and_crop()
-gray = B.ascii_gray(img)
+gray = np.asarray(img.convert("L"), dtype=np.float64)
 mask = B.segment_mask(img)
 cells = B.ascii_cells(gray, mask)
 

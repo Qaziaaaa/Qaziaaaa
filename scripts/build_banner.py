@@ -13,15 +13,15 @@ WINDOW_H = 610
 TITLE_H = 40
 
 PORT_X = 30
-PORT_Y = 85
-CS = 1.4
+PORT_Y = 72
+CS = 1.75
 GRID_W = 300
-GRID_H = 340
+GRID_H = 300
 PORT_W = GRID_W * CS
 PORT_H = GRID_H * CS
 
-INFO_X = 474
-INFO_RIGHT = 1140
+INFO_X = 600
+INFO_RIGHT = 1150
 
 FONT = "'JetBrains Mono','Fira Code',monospace"
 
@@ -32,12 +32,12 @@ LOOP_BEGIN = 3.2
 LOOP_DUR = 14.2
 KT = [0, 0.2113, 0.3028, 0.4437, 0.5352, 0.6761, 0.7676, 0.9085, 1]
 
-ACOLS = 77
-AROWS = 52
-FONT_SIZE = 9.0
-CELL_W = 5.4
-CELL_H = 9.0
-CHAR_RAMP = " .:-=+*#%@"
+ACOLS = 70
+AROWS = 42
+FONT_SIZE = 12.5
+CELL_W = 7.5
+CELL_H = 12.5
+CHAR_RAMP = "@%#*+=-:. "
 
 DARK = {
     "bg": "#1a1b26", "panel": "#16161e", "border": "#24283b",
@@ -116,12 +116,6 @@ def segment_mask(img_rgb):
         sizes = ndi.sum(mask, lbl, range(1, n + 1))
         mask = lbl == (int(np.argmax(sizes)) + 1)
     return mask
-
-
-def ascii_gray(img):
-    g = ImageOps.autocontrast(img, cutoff=1)
-    g = ImageEnhance.Contrast(g).enhance(1.15)
-    return np.asarray(g.convert("L"), dtype=np.float64)
 
 
 def ascii_cells(gray, mask):
@@ -277,18 +271,11 @@ def info_panel(theme):
 
 
 def portrait_layer(theme, cells):
-    grid = [[" "] * ACOLS for _ in range(AROWS)]
+    out = [f'<g font-family="monospace" font-size="{FONT_SIZE}" fill="{theme["dots"]}">']
     for (r, c, ch) in cells:
-        grid[r][c] = ch
-
-    out = []
-    out.append(f'<g font-family="monospace" font-size="{FONT_SIZE}" fill="{theme["dots"]}">')
-    for r in range(AROWS):
-        line = "".join(grid[r]).rstrip()
-        if not line.strip():
-            continue
-        out.append(f'<text x="{PORT_X:.1f}" y="{PORT_Y + r * CELL_H + CELL_H * 0.8:.1f}" '
-                   f'textLength="{PORT_W:.1f}" xml:space="preserve">{esc(line)}</text>')
+        x = PORT_X + c * CELL_W
+        y = PORT_Y + r * CELL_H + CELL_H * 0.8
+        out.append(f'<text x="{x:.1f}" y="{y:.1f}">{ch}</text>')
     out.append(f'</g>')
     return out
 
@@ -331,7 +318,7 @@ def build(theme, cells):
 
 def main():
     img = load_and_crop()
-    gray = ascii_gray(img)
+    gray = np.asarray(img.convert("L"), dtype=np.float64)
     mask = segment_mask(img)
     cells = ascii_cells(gray, mask)
 

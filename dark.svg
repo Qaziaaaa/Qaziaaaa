@@ -9,110 +9,1788 @@
 <text x="590" y="29" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" text-anchor="middle">profile.sh --live</text>
 <text x="1150" y="29" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13" fill="#00F7FF" text-anchor="end">qazi@github</text>
 <text x="28" y="70" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13" fill="#3b4261"><tspan fill="#00F7FF">VISUAL</tspan>.MAP</text>
-<text x="474" y="68" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13" fill="#3b4261"><tspan fill="#00F7FF">SYSTEM</tspan>.INFO</text>
+<text x="600" y="68" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13" fill="#3b4261"><tspan fill="#00F7FF">SYSTEM</tspan>.INFO</text>
 <g>
 <rect x="1070" y="56" width="66" height="24" rx="12" fill="#f7768e" opacity="0.15"/>
 <circle cx="1082" cy="68" r="4" fill="#f7768e"><animate attributeName="opacity" values="1;0.25;1" dur="1.4s" repeatCount="indefinite"/></circle>
 <text x="1092" y="72" font-family="'JetBrains Mono','Fira Code',monospace" font-size="12" font-weight="bold" fill="#f7768e">LIVE</text>
 </g>
-<path d="M 540.8 116 H 989.2" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="474" y="116" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="58.800000000000004" lengthAdjust="spacingAndGlyphs">Subject</text>
-<text x="1140" y="116" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="142.8" lengthAdjust="spacingAndGlyphs">Qazi Farhan Ahmad</text>
-<path d="M 515.6 139 H 938.8" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="474" y="139" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="33.6" lengthAdjust="spacingAndGlyphs">Role</text>
-<text x="1140" y="139" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="193.20000000000002" lengthAdjust="spacingAndGlyphs">AI Web Developer + MERN</text>
-<path d="M 532.4 162 H 980.8" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="474" y="162" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="50.400000000000006" lengthAdjust="spacingAndGlyphs">Origin</text>
-<text x="1140" y="162" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="151.20000000000002" lengthAdjust="spacingAndGlyphs">Peshawar, Pakistan</text>
-<path d="M 557.6 185 H 922.0" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="474" y="185" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="75.60000000000001" lengthAdjust="spacingAndGlyphs">Education</text>
-<text x="1140" y="185" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="210.0" lengthAdjust="spacingAndGlyphs">BS SE - Univ. of Peshawar</text>
-<path d="M 532.4 208 H 880.0" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="474" y="208" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="50.400000000000006" lengthAdjust="spacingAndGlyphs">Status</text>
-<text x="1140" y="208" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="252.0" lengthAdjust="spacingAndGlyphs">Building + Learning + Shipping</text>
-<path d="M 557.6 231 H 896.8" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="474" y="231" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="75.60000000000001" lengthAdjust="spacingAndGlyphs">ToolChain</text>
-<text x="1140" y="231" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="235.20000000000002" lengthAdjust="spacingAndGlyphs">VS Code, Git, Docker, Vercel</text>
-<path d="M 557.6 254 H 880.0" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="474" y="254" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="75.60000000000001" lengthAdjust="spacingAndGlyphs">Core.Lang</text>
-<text x="1140" y="254" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="252.0" lengthAdjust="spacingAndGlyphs">TypeScript, JavaScript, Python</text>
-<path d="M 591.2 277 H 880.0" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="474" y="277" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="109.2" lengthAdjust="spacingAndGlyphs">Core.Frontend</text>
-<text x="1140" y="277" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="252.0" lengthAdjust="spacingAndGlyphs">React, Next.js, Vite, Tailwind</text>
-<path d="M 582.8 300 H 972.4" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="474" y="300" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="100.80000000000001" lengthAdjust="spacingAndGlyphs">Core.Backend</text>
-<text x="1140" y="300" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="159.6" lengthAdjust="spacingAndGlyphs">Node.js, Express.js</text>
-<path d="M 591.2 323 H 913.6" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="474" y="323" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="109.2" lengthAdjust="spacingAndGlyphs">Core.Database</text>
-<text x="1140" y="323" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="218.4" lengthAdjust="spacingAndGlyphs">MongoDB, PostgreSQL, Redis</text>
-<path d="M 566.0 346 H 930.4" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="474" y="346" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="84.0" lengthAdjust="spacingAndGlyphs">Core.Infra</text>
-<text x="1140" y="346" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="201.60000000000002" lengthAdjust="spacingAndGlyphs">Vercel, Docker, Firebase</text>
-<path d="M 557.6 369 H 922.0" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="474" y="369" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="75.60000000000001" lengthAdjust="spacingAndGlyphs">Grid.Mail</text>
-<text x="1140" y="369" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="210.0" lengthAdjust="spacingAndGlyphs">qazithekingston@gmail.com</text>
-<path d="M 599.6 392 H 964.0" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="474" y="392" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="117.60000000000001" lengthAdjust="spacingAndGlyphs">Grid.Portfolio</text>
-<text x="1140" y="392" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="168.0" lengthAdjust="spacingAndGlyphs">qaziahmad.vercel.app</text>
-<path d="M 591.2 415 H 854.8" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="474" y="415" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="109.2" lengthAdjust="spacingAndGlyphs">Grid.LinkedIn</text>
-<text x="1140" y="415" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="277.2" lengthAdjust="spacingAndGlyphs">linkedin.com/in/qazi-farhan-ahmad</text>
-<path d="M 574.4 438 H 972.4" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="474" y="438" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="92.4" lengthAdjust="spacingAndGlyphs">Grid.GitHub</text>
-<text x="1140" y="438" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="159.6" lengthAdjust="spacingAndGlyphs">github.com/Qaziaaaa</text>
-<path d="M 574.4 461 H 930.4" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="474" y="461" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="92.4" lengthAdjust="spacingAndGlyphs">Grid.Social</text>
-<text x="1140" y="461" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="201.60000000000002" lengthAdjust="spacingAndGlyphs">WhatsApp +92 314 1935787</text>
-<rect x="474" y="558" width="666" height="36" rx="6" fill="#16161e" stroke="#24283b" stroke-width="1.5"/>
-<circle cx="488" cy="576" r="4" fill="#9ece6a"/>
-<text x="500" y="580" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13" fill="#565f89">ready · qazi@github:~/profile</text>
+<path d="M 666.8 116 H 999.2" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="600" y="116" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="58.800000000000004" lengthAdjust="spacingAndGlyphs">Subject</text>
+<text x="1150" y="116" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="142.8" lengthAdjust="spacingAndGlyphs">Qazi Farhan Ahmad</text>
+<path d="M 641.6 139 H 948.8" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="600" y="139" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="33.6" lengthAdjust="spacingAndGlyphs">Role</text>
+<text x="1150" y="139" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="193.20000000000002" lengthAdjust="spacingAndGlyphs">AI Web Developer + MERN</text>
+<path d="M 658.4 162 H 990.8" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="600" y="162" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="50.400000000000006" lengthAdjust="spacingAndGlyphs">Origin</text>
+<text x="1150" y="162" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="151.20000000000002" lengthAdjust="spacingAndGlyphs">Peshawar, Pakistan</text>
+<path d="M 683.6 185 H 932.0" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="600" y="185" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="75.60000000000001" lengthAdjust="spacingAndGlyphs">Education</text>
+<text x="1150" y="185" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="210.0" lengthAdjust="spacingAndGlyphs">BS SE - Univ. of Peshawar</text>
+<path d="M 658.4 208 H 890.0" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="600" y="208" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="50.400000000000006" lengthAdjust="spacingAndGlyphs">Status</text>
+<text x="1150" y="208" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="252.0" lengthAdjust="spacingAndGlyphs">Building + Learning + Shipping</text>
+<path d="M 683.6 231 H 906.8" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="600" y="231" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="75.60000000000001" lengthAdjust="spacingAndGlyphs">ToolChain</text>
+<text x="1150" y="231" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="235.20000000000002" lengthAdjust="spacingAndGlyphs">VS Code, Git, Docker, Vercel</text>
+<path d="M 683.6 254 H 890.0" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="600" y="254" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="75.60000000000001" lengthAdjust="spacingAndGlyphs">Core.Lang</text>
+<text x="1150" y="254" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="252.0" lengthAdjust="spacingAndGlyphs">TypeScript, JavaScript, Python</text>
+<path d="M 717.2 277 H 890.0" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="600" y="277" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="109.2" lengthAdjust="spacingAndGlyphs">Core.Frontend</text>
+<text x="1150" y="277" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="252.0" lengthAdjust="spacingAndGlyphs">React, Next.js, Vite, Tailwind</text>
+<path d="M 708.8 300 H 982.4" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="600" y="300" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="100.80000000000001" lengthAdjust="spacingAndGlyphs">Core.Backend</text>
+<text x="1150" y="300" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="159.6" lengthAdjust="spacingAndGlyphs">Node.js, Express.js</text>
+<path d="M 717.2 323 H 923.6" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="600" y="323" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="109.2" lengthAdjust="spacingAndGlyphs">Core.Database</text>
+<text x="1150" y="323" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="218.4" lengthAdjust="spacingAndGlyphs">MongoDB, PostgreSQL, Redis</text>
+<path d="M 692.0 346 H 940.4" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="600" y="346" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="84.0" lengthAdjust="spacingAndGlyphs">Core.Infra</text>
+<text x="1150" y="346" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="201.60000000000002" lengthAdjust="spacingAndGlyphs">Vercel, Docker, Firebase</text>
+<path d="M 683.6 369 H 932.0" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="600" y="369" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="75.60000000000001" lengthAdjust="spacingAndGlyphs">Grid.Mail</text>
+<text x="1150" y="369" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="210.0" lengthAdjust="spacingAndGlyphs">qazithekingston@gmail.com</text>
+<path d="M 725.6 392 H 974.0" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="600" y="392" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="117.60000000000001" lengthAdjust="spacingAndGlyphs">Grid.Portfolio</text>
+<text x="1150" y="392" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="168.0" lengthAdjust="spacingAndGlyphs">qaziahmad.vercel.app</text>
+<path d="M 717.2 415 H 864.8" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="600" y="415" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="109.2" lengthAdjust="spacingAndGlyphs">Grid.LinkedIn</text>
+<text x="1150" y="415" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="277.2" lengthAdjust="spacingAndGlyphs">linkedin.com/in/qazi-farhan-ahmad</text>
+<path d="M 700.4 438 H 982.4" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="600" y="438" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="92.4" lengthAdjust="spacingAndGlyphs">Grid.GitHub</text>
+<text x="1150" y="438" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="159.6" lengthAdjust="spacingAndGlyphs">github.com/Qaziaaaa</text>
+<path d="M 700.4 461 H 940.4" stroke="#3b4261" stroke-width="2" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="600" y="461" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#565f89" textLength="92.4" lengthAdjust="spacingAndGlyphs">Grid.Social</text>
+<text x="1150" y="461" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" fill="#a9b1d6" text-anchor="end" textLength="201.60000000000002" lengthAdjust="spacingAndGlyphs">WhatsApp +92 314 1935787</text>
+<rect x="600" y="558" width="550" height="36" rx="6" fill="#16161e" stroke="#24283b" stroke-width="1.5"/>
+<circle cx="614" cy="576" r="4" fill="#9ece6a"/>
+<text x="626" y="580" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13" fill="#565f89">ready · qazi@github:~/profile</text>
 <rect x="974" y="566" width="150" height="20" rx="10" fill="#9ece6a" opacity="0.15"/>
 <text x="1049" y="581" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13" font-weight="bold" text-anchor="middle" fill="#9ece6a">@Qaziaaaa</text>
-<g font-family="monospace" font-size="9.0" fill="#bb9af7">
-<text x="30.0" y="155.2" textLength="420.0" xml:space="preserve">                                        @@</text>
-<text x="30.0" y="164.2" textLength="420.0" xml:space="preserve">                             %%%%%%%%%%%%%%%@@@</text>
-<text x="30.0" y="173.2" textLength="420.0" xml:space="preserve">                         %%%%%%%%%#####%%%@@@@@@@%%%@</text>
-<text x="30.0" y="182.2" textLength="420.0" xml:space="preserve">                       %%%%%%%%######%%%@@@@@@@@@@%%%%%</text>
-<text x="30.0" y="191.2" textLength="420.0" xml:space="preserve">                     %%%%%%%%%###%#*****#%%%@@@@@@@%%%%%%</text>
-<text x="30.0" y="200.2" textLength="420.0" xml:space="preserve">                   %%%%%%%%%##%%#+-:::::::-==+**#%@@@%%%%%%%</text>
-<text x="30.0" y="209.2" textLength="420.0" xml:space="preserve">                 %%%%%%%%%%##%#+-........::::--==+%@@%%%%%%%%@</text>
-<text x="30.0" y="218.2" textLength="420.0" xml:space="preserve">                %%%%%%%%%####*+-.........::::--==+*@@%%%%%%%%%%</text>
-<text x="30.0" y="227.2" textLength="420.0" xml:space="preserve">               %%%%%%%#####**=-: .........::::-==+*%@@%%%%%%%%%%</text>
-<text x="30.0" y="236.2" textLength="420.0" xml:space="preserve">              %%%%%%%######*=-...:-====-::::--===+*#@%###%%%%%%%%</text>
-<text x="30.0" y="245.2" textLength="420.0" xml:space="preserve">             %%%%%%%#######+-:..:=+****+--=+##%%#***%%####%%%%%%%</text>
-<text x="30.0" y="254.2" textLength="420.0" xml:space="preserve">            %%%%%%%######*+=-...-++*##*=::*#######**%######%%%%%%%</text>
-<text x="30.0" y="263.2" textLength="420.0" xml:space="preserve">           %%%%%%%######*=-.:...:-=**+=:.:*%%%%%%#**########%%%%%%%</text>
-<text x="30.0" y="272.2" textLength="420.0" xml:space="preserve">           %%%%%%#######+-:::. ...:::::..:+*+*****++**#######%%%%%%</text>
-<text x="30.0" y="281.2" textLength="420.0" xml:space="preserve">          %%%%%%%#######+:--::....:::::.:-++=---==++*#*#######%%%%%%</text>
-<text x="30.0" y="290.2" textLength="420.0" xml:space="preserve">          %%%%%%########+::.--..::-=--===+**=---==+****#######%%%%%%</text>
-<text x="30.0" y="299.2" textLength="420.0" xml:space="preserve">         @%%%%%%#######**=::-=-:--===+*##%%#+===++*##**#######%%%%%%%</text>
-<text x="30.0" y="308.2" textLength="420.0" xml:space="preserve">         @%%%%%%#######****+*==-::=#*+**#%%%#++++*#***########%%%%%%%</text>
-<text x="30.0" y="317.2" textLength="420.0" xml:space="preserve">         %%%%%%########******+=-::----=+*##%#*+**##***########%%%%%%%</text>
-<text x="30.0" y="326.2" textLength="420.0" xml:space="preserve">          %%%%%%#######******++=---::-+###******##****########%%%%%%</text>
-<text x="30.0" y="335.2" textLength="420.0" xml:space="preserve">         @%%%%%%#######******==***+-:--=+++****###***#########%%%%%%</text>
-<text x="30.0" y="344.2" textLength="420.0" xml:space="preserve">         @%%%%%%########*****+:-*#%#*+++++*#%%%%#****#########%%%%%%</text>
-<text x="30.0" y="353.2" textLength="420.0" xml:space="preserve">          %%%%%%%#######*****+::-=*%%%%@@@@@@%#*****#########%%%%%%%</text>
-<text x="30.0" y="362.2" textLength="420.0" xml:space="preserve">           %%%%%%########*****:::--=*#%@@@%####**############%%%%%%@</text>
-<text x="30.0" y="371.2" textLength="420.0" xml:space="preserve">           %%%%%%%#########***-::----+*#######*****#########%%%%%%%</text>
-<text x="30.0" y="380.2" textLength="420.0" xml:space="preserve">           %%%%%%%%#########*+:::----=+***####****++*#####%%%%%%%%</text>
-<text x="30.0" y="389.2" textLength="420.0" xml:space="preserve">            %%%%%%%%######*+=:.::---==+***********=::-+*##%%%%%%%</text>
-<text x="30.0" y="398.2" textLength="420.0" xml:space="preserve">              %%%%%%%%##+-. ...::---==++*********+-::....:-+#%%%</text>
-<text x="30.0" y="407.2" textLength="420.0" xml:space="preserve">               %%%%#*=:.     ..:---==++**********-::...      .-+</text>
-<text x="30.0" y="416.2" textLength="420.0" xml:space="preserve">                #+-.          ::---=++++++++***+-:... .          .-</text>
-<text x="30.0" y="425.2" textLength="420.0" xml:space="preserve">               :               .:--=++++===+=-:..                    .=</text>
-<text x="30.0" y="434.2" textLength="420.0" xml:space="preserve">           -.                    .::===--:::.                           -</text>
-<text x="30.0" y="443.2" textLength="420.0" xml:space="preserve">        -.                           ...                                 :</text>
-<text x="30.0" y="452.2" textLength="420.0" xml:space="preserve">       .                                      .                    .    ..:</text>
-<text x="30.0" y="461.2" textLength="420.0" xml:space="preserve">                                             .                     .   ....:</text>
-<text x="30.0" y="470.2" textLength="420.0" xml:space="preserve">                                            .                      .  .. ...</text>
-<text x="30.0" y="479.2" textLength="420.0" xml:space="preserve">    .           .                                                 ..  .  ..:</text>
-<text x="30.0" y="488.2" textLength="420.0" xml:space="preserve">   :            .                                            .    .  .  ::.:</text>
-<text x="30.0" y="497.2" textLength="420.0" xml:space="preserve">                .               ..  .                        ..   . .  .:..:</text>
-<text x="30.0" y="506.2" textLength="420.0" xml:space="preserve">               ..               ..  .                        ..   ..  .::..:</text>
-<text x="30.0" y="515.2" textLength="420.0" xml:space="preserve">  .            ..               .. ..                     .....  ..   ::. ::</text>
-<text x="30.0" y="524.2" textLength="420.0" xml:space="preserve">                                .....                    .....   ..  .:. .:.</text>
-<text x="30.0" y="533.2" textLength="420.0" xml:space="preserve"> :        .  .                  .....                   ......   :. .:. .::.</text>
-<text x="30.0" y="542.2" textLength="420.0" xml:space="preserve">          .. .                 ......                  .......  .:  :.  ::..</text>
-<text x="30.0" y="551.2" textLength="420.0" xml:space="preserve">          .. .                ........                ...:....  :. :.  .::.</text>
+<g font-family="monospace" font-size="12.5" fill="#bb9af7">
+<text x="262.5" y="144.5"> </text>
+<text x="270.0" y="144.5"> </text>
+<text x="277.5" y="144.5"> </text>
+<text x="285.0" y="144.5"> </text>
+<text x="292.5" y="144.5"> </text>
+<text x="300.0" y="144.5"> </text>
+<text x="307.5" y="144.5"> </text>
+<text x="315.0" y="144.5"> </text>
+<text x="225.0" y="157.0"> </text>
+<text x="232.5" y="157.0">.</text>
+<text x="240.0" y="157.0">.</text>
+<text x="247.5" y="157.0">.</text>
+<text x="255.0" y="157.0">.</text>
+<text x="262.5" y="157.0">.</text>
+<text x="270.0" y="157.0">.</text>
+<text x="277.5" y="157.0">.</text>
+<text x="285.0" y="157.0">.</text>
+<text x="292.5" y="157.0">.</text>
+<text x="300.0" y="157.0">.</text>
+<text x="307.5" y="157.0">.</text>
+<text x="315.0" y="157.0">.</text>
+<text x="322.5" y="157.0">.</text>
+<text x="330.0" y="157.0">.</text>
+<text x="337.5" y="157.0">.</text>
+<text x="345.0" y="157.0">.</text>
+<text x="352.5" y="157.0"> </text>
+<text x="360.0" y="157.0"> </text>
+<text x="195.0" y="169.5"> </text>
+<text x="202.5" y="169.5">.</text>
+<text x="210.0" y="169.5">.</text>
+<text x="217.5" y="169.5">.</text>
+<text x="225.0" y="169.5">.</text>
+<text x="232.5" y="169.5">.</text>
+<text x="240.0" y="169.5">.</text>
+<text x="247.5" y="169.5">.</text>
+<text x="255.0" y="169.5">.</text>
+<text x="262.5" y="169.5">.</text>
+<text x="270.0" y="169.5">:</text>
+<text x="277.5" y="169.5">:</text>
+<text x="285.0" y="169.5">:</text>
+<text x="292.5" y="169.5">.</text>
+<text x="300.0" y="169.5">.</text>
+<text x="307.5" y="169.5">.</text>
+<text x="315.0" y="169.5"> </text>
+<text x="322.5" y="169.5"> </text>
+<text x="330.0" y="169.5"> </text>
+<text x="337.5" y="169.5"> </text>
+<text x="345.0" y="169.5">.</text>
+<text x="352.5" y="169.5">.</text>
+<text x="360.0" y="169.5">.</text>
+<text x="367.5" y="169.5">.</text>
+<text x="375.0" y="169.5">.</text>
+<text x="382.5" y="169.5">.</text>
+<text x="187.5" y="182.0">.</text>
+<text x="195.0" y="182.0">.</text>
+<text x="202.5" y="182.0">.</text>
+<text x="210.0" y="182.0">.</text>
+<text x="217.5" y="182.0">.</text>
+<text x="225.0" y="182.0">.</text>
+<text x="232.5" y="182.0">.</text>
+<text x="240.0" y="182.0">.</text>
+<text x="247.5" y="182.0">:</text>
+<text x="255.0" y="182.0">:</text>
+<text x="262.5" y="182.0">:</text>
+<text x="270.0" y="182.0">:</text>
+<text x="277.5" y="182.0">:</text>
+<text x="285.0" y="182.0">.</text>
+<text x="292.5" y="182.0">.</text>
+<text x="300.0" y="182.0">.</text>
+<text x="307.5" y="182.0"> </text>
+<text x="315.0" y="182.0"> </text>
+<text x="322.5" y="182.0"> </text>
+<text x="330.0" y="182.0"> </text>
+<text x="337.5" y="182.0"> </text>
+<text x="345.0" y="182.0"> </text>
+<text x="352.5" y="182.0"> </text>
+<text x="360.0" y="182.0">.</text>
+<text x="367.5" y="182.0">.</text>
+<text x="375.0" y="182.0">.</text>
+<text x="382.5" y="182.0">.</text>
+<text x="390.0" y="182.0">.</text>
+<text x="397.5" y="182.0">.</text>
+<text x="405.0" y="182.0"> </text>
+<text x="172.5" y="194.5">.</text>
+<text x="180.0" y="194.5">.</text>
+<text x="187.5" y="194.5">.</text>
+<text x="195.0" y="194.5">.</text>
+<text x="202.5" y="194.5">.</text>
+<text x="210.0" y="194.5">.</text>
+<text x="217.5" y="194.5">.</text>
+<text x="225.0" y="194.5">.</text>
+<text x="232.5" y="194.5">.</text>
+<text x="240.0" y="194.5">:</text>
+<text x="247.5" y="194.5">:</text>
+<text x="255.0" y="194.5">:</text>
+<text x="262.5" y="194.5">-</text>
+<text x="270.0" y="194.5">=</text>
+<text x="277.5" y="194.5">=</text>
+<text x="285.0" y="194.5">=</text>
+<text x="292.5" y="194.5">=</text>
+<text x="300.0" y="194.5">=</text>
+<text x="307.5" y="194.5">-</text>
+<text x="315.0" y="194.5">:</text>
+<text x="322.5" y="194.5">:</text>
+<text x="330.0" y="194.5">.</text>
+<text x="337.5" y="194.5">.</text>
+<text x="345.0" y="194.5"> </text>
+<text x="352.5" y="194.5"> </text>
+<text x="360.0" y="194.5"> </text>
+<text x="367.5" y="194.5">.</text>
+<text x="375.0" y="194.5">.</text>
+<text x="382.5" y="194.5">.</text>
+<text x="390.0" y="194.5">.</text>
+<text x="397.5" y="194.5">.</text>
+<text x="405.0" y="194.5">.</text>
+<text x="412.5" y="194.5">.</text>
+<text x="157.5" y="207.0"> </text>
+<text x="165.0" y="207.0">.</text>
+<text x="172.5" y="207.0">.</text>
+<text x="180.0" y="207.0">.</text>
+<text x="187.5" y="207.0">.</text>
+<text x="195.0" y="207.0">.</text>
+<text x="202.5" y="207.0">.</text>
+<text x="210.0" y="207.0">.</text>
+<text x="217.5" y="207.0">.</text>
+<text x="225.0" y="207.0">:</text>
+<text x="232.5" y="207.0">:</text>
+<text x="240.0" y="207.0">.</text>
+<text x="247.5" y="207.0">:</text>
+<text x="255.0" y="207.0">+</text>
+<text x="262.5" y="207.0">#</text>
+<text x="270.0" y="207.0">#</text>
+<text x="277.5" y="207.0">%</text>
+<text x="285.0" y="207.0">%</text>
+<text x="292.5" y="207.0">%</text>
+<text x="300.0" y="207.0">#</text>
+<text x="307.5" y="207.0">#</text>
+<text x="315.0" y="207.0">*</text>
+<text x="322.5" y="207.0">*</text>
+<text x="330.0" y="207.0">+</text>
+<text x="337.5" y="207.0">+</text>
+<text x="345.0" y="207.0">=</text>
+<text x="352.5" y="207.0">-</text>
+<text x="360.0" y="207.0"> </text>
+<text x="367.5" y="207.0"> </text>
+<text x="375.0" y="207.0"> </text>
+<text x="382.5" y="207.0">.</text>
+<text x="390.0" y="207.0">.</text>
+<text x="397.5" y="207.0">.</text>
+<text x="405.0" y="207.0">.</text>
+<text x="412.5" y="207.0">.</text>
+<text x="420.0" y="207.0">.</text>
+<text x="427.5" y="207.0">.</text>
+<text x="150.0" y="219.5">.</text>
+<text x="157.5" y="219.5">.</text>
+<text x="165.0" y="219.5">.</text>
+<text x="172.5" y="219.5">.</text>
+<text x="180.0" y="219.5">.</text>
+<text x="187.5" y="219.5">.</text>
+<text x="195.0" y="219.5">.</text>
+<text x="202.5" y="219.5">.</text>
+<text x="210.0" y="219.5">:</text>
+<text x="217.5" y="219.5">:</text>
+<text x="225.0" y="219.5">:</text>
+<text x="232.5" y="219.5">:</text>
+<text x="240.0" y="219.5">-</text>
+<text x="247.5" y="219.5">*</text>
+<text x="255.0" y="219.5">%</text>
+<text x="262.5" y="219.5">%</text>
+<text x="270.0" y="219.5">%</text>
+<text x="277.5" y="219.5">%</text>
+<text x="285.0" y="219.5">%</text>
+<text x="292.5" y="219.5">%</text>
+<text x="300.0" y="219.5">#</text>
+<text x="307.5" y="219.5">#</text>
+<text x="315.0" y="219.5">#</text>
+<text x="322.5" y="219.5">#</text>
+<text x="330.0" y="219.5">*</text>
+<text x="337.5" y="219.5">*</text>
+<text x="345.0" y="219.5">+</text>
+<text x="352.5" y="219.5">=</text>
+<text x="360.0" y="219.5">-</text>
+<text x="367.5" y="219.5"> </text>
+<text x="375.0" y="219.5"> </text>
+<text x="382.5" y="219.5">.</text>
+<text x="390.0" y="219.5">.</text>
+<text x="397.5" y="219.5">.</text>
+<text x="405.0" y="219.5">.</text>
+<text x="412.5" y="219.5">.</text>
+<text x="420.0" y="219.5">.</text>
+<text x="427.5" y="219.5">.</text>
+<text x="435.0" y="219.5">.</text>
+<text x="442.5" y="219.5"> </text>
+<text x="135.0" y="232.0"> </text>
+<text x="142.5" y="232.0">.</text>
+<text x="150.0" y="232.0">.</text>
+<text x="157.5" y="232.0">.</text>
+<text x="165.0" y="232.0">.</text>
+<text x="172.5" y="232.0">.</text>
+<text x="180.0" y="232.0">.</text>
+<text x="187.5" y="232.0">.</text>
+<text x="195.0" y="232.0">:</text>
+<text x="202.5" y="232.0">:</text>
+<text x="210.0" y="232.0">:</text>
+<text x="217.5" y="232.0">:</text>
+<text x="225.0" y="232.0">-</text>
+<text x="232.5" y="232.0">=</text>
+<text x="240.0" y="232.0">*</text>
+<text x="247.5" y="232.0">#</text>
+<text x="255.0" y="232.0">%</text>
+<text x="262.5" y="232.0">%</text>
+<text x="270.0" y="232.0">%</text>
+<text x="277.5" y="232.0">%</text>
+<text x="285.0" y="232.0">%</text>
+<text x="292.5" y="232.0">%</text>
+<text x="300.0" y="232.0">%</text>
+<text x="307.5" y="232.0">#</text>
+<text x="315.0" y="232.0">#</text>
+<text x="322.5" y="232.0">#</text>
+<text x="330.0" y="232.0">*</text>
+<text x="337.5" y="232.0">*</text>
+<text x="345.0" y="232.0">+</text>
+<text x="352.5" y="232.0">=</text>
+<text x="360.0" y="232.0">-</text>
+<text x="367.5" y="232.0">.</text>
+<text x="375.0" y="232.0"> </text>
+<text x="382.5" y="232.0">.</text>
+<text x="390.0" y="232.0">.</text>
+<text x="397.5" y="232.0">.</text>
+<text x="405.0" y="232.0">.</text>
+<text x="412.5" y="232.0">.</text>
+<text x="420.0" y="232.0">.</text>
+<text x="427.5" y="232.0">.</text>
+<text x="435.0" y="232.0">.</text>
+<text x="442.5" y="232.0">.</text>
+<text x="135.0" y="244.5">.</text>
+<text x="142.5" y="244.5">.</text>
+<text x="150.0" y="244.5">.</text>
+<text x="157.5" y="244.5">.</text>
+<text x="165.0" y="244.5">.</text>
+<text x="172.5" y="244.5">.</text>
+<text x="180.0" y="244.5">:</text>
+<text x="187.5" y="244.5">:</text>
+<text x="195.0" y="244.5">:</text>
+<text x="202.5" y="244.5">:</text>
+<text x="210.0" y="244.5">:</text>
+<text x="217.5" y="244.5">:</text>
+<text x="225.0" y="244.5">=</text>
+<text x="232.5" y="244.5">*</text>
+<text x="240.0" y="244.5">#</text>
+<text x="247.5" y="244.5">%</text>
+<text x="255.0" y="244.5">#</text>
+<text x="262.5" y="244.5">*</text>
+<text x="270.0" y="244.5">=</text>
+<text x="277.5" y="244.5">=</text>
+<text x="285.0" y="244.5">=</text>
+<text x="292.5" y="244.5">+</text>
+<text x="300.0" y="244.5">*</text>
+<text x="307.5" y="244.5">#</text>
+<text x="315.0" y="244.5">*</text>
+<text x="322.5" y="244.5">+</text>
+<text x="330.0" y="244.5">+</text>
+<text x="337.5" y="244.5">=</text>
+<text x="345.0" y="244.5">=</text>
+<text x="352.5" y="244.5">=</text>
+<text x="360.0" y="244.5">-</text>
+<text x="367.5" y="244.5">:</text>
+<text x="375.0" y="244.5"> </text>
+<text x="382.5" y="244.5">.</text>
+<text x="390.0" y="244.5">:</text>
+<text x="397.5" y="244.5">:</text>
+<text x="405.0" y="244.5">.</text>
+<text x="412.5" y="244.5">.</text>
+<text x="420.0" y="244.5">.</text>
+<text x="427.5" y="244.5">.</text>
+<text x="435.0" y="244.5">.</text>
+<text x="442.5" y="244.5">.</text>
+<text x="450.0" y="244.5">.</text>
+<text x="127.5" y="257.0">.</text>
+<text x="135.0" y="257.0">.</text>
+<text x="142.5" y="257.0">.</text>
+<text x="150.0" y="257.0">.</text>
+<text x="157.5" y="257.0">.</text>
+<text x="165.0" y="257.0">.</text>
+<text x="172.5" y="257.0">:</text>
+<text x="180.0" y="257.0">:</text>
+<text x="187.5" y="257.0">:</text>
+<text x="195.0" y="257.0">:</text>
+<text x="202.5" y="257.0">:</text>
+<text x="210.0" y="257.0">:</text>
+<text x="217.5" y="257.0">-</text>
+<text x="225.0" y="257.0">+</text>
+<text x="232.5" y="257.0">#</text>
+<text x="240.0" y="257.0">%</text>
+<text x="247.5" y="257.0">#</text>
+<text x="255.0" y="257.0">+</text>
+<text x="262.5" y="257.0">=</text>
+<text x="270.0" y="257.0">=</text>
+<text x="277.5" y="257.0">-</text>
+<text x="285.0" y="257.0">-</text>
+<text x="292.5" y="257.0">=</text>
+<text x="300.0" y="257.0">*</text>
+<text x="307.5" y="257.0">*</text>
+<text x="315.0" y="257.0">-</text>
+<text x="322.5" y="257.0">:</text>
+<text x="330.0" y="257.0">:</text>
+<text x="337.5" y="257.0">:</text>
+<text x="345.0" y="257.0">:</text>
+<text x="352.5" y="257.0">:</text>
+<text x="360.0" y="257.0">-</text>
+<text x="367.5" y="257.0">-</text>
+<text x="375.0" y="257.0">.</text>
+<text x="382.5" y="257.0">:</text>
+<text x="390.0" y="257.0">:</text>
+<text x="397.5" y="257.0">:</text>
+<text x="405.0" y="257.0">:</text>
+<text x="412.5" y="257.0">:</text>
+<text x="420.0" y="257.0">.</text>
+<text x="427.5" y="257.0">.</text>
+<text x="435.0" y="257.0">.</text>
+<text x="442.5" y="257.0">.</text>
+<text x="450.0" y="257.0">.</text>
+<text x="457.5" y="257.0">.</text>
+<text x="127.5" y="269.5">.</text>
+<text x="135.0" y="269.5">.</text>
+<text x="142.5" y="269.5">.</text>
+<text x="150.0" y="269.5">.</text>
+<text x="157.5" y="269.5">.</text>
+<text x="165.0" y="269.5">:</text>
+<text x="172.5" y="269.5">:</text>
+<text x="180.0" y="269.5">:</text>
+<text x="187.5" y="269.5">:</text>
+<text x="195.0" y="269.5">:</text>
+<text x="202.5" y="269.5">:</text>
+<text x="210.0" y="269.5">=</text>
+<text x="217.5" y="269.5">*</text>
+<text x="225.0" y="269.5">#</text>
+<text x="232.5" y="269.5">#</text>
+<text x="240.0" y="269.5">%</text>
+<text x="247.5" y="269.5">%</text>
+<text x="255.0" y="269.5">*</text>
+<text x="262.5" y="269.5">+</text>
+<text x="270.0" y="269.5">-</text>
+<text x="277.5" y="269.5">:</text>
+<text x="285.0" y="269.5">-</text>
+<text x="292.5" y="269.5">+</text>
+<text x="300.0" y="269.5">#</text>
+<text x="307.5" y="269.5">*</text>
+<text x="315.0" y="269.5">:</text>
+<text x="322.5" y="269.5">.</text>
+<text x="330.0" y="269.5">.</text>
+<text x="337.5" y="269.5">.</text>
+<text x="345.0" y="269.5">.</text>
+<text x="352.5" y="269.5">:</text>
+<text x="360.0" y="269.5">-</text>
+<text x="367.5" y="269.5">-</text>
+<text x="375.0" y="269.5">:</text>
+<text x="382.5" y="269.5">:</text>
+<text x="390.0" y="269.5">:</text>
+<text x="397.5" y="269.5">:</text>
+<text x="405.0" y="269.5">:</text>
+<text x="412.5" y="269.5">:</text>
+<text x="420.0" y="269.5">:</text>
+<text x="427.5" y="269.5">.</text>
+<text x="435.0" y="269.5">.</text>
+<text x="442.5" y="269.5">.</text>
+<text x="450.0" y="269.5">.</text>
+<text x="457.5" y="269.5">.</text>
+<text x="465.0" y="269.5"> </text>
+<text x="120.0" y="282.0">.</text>
+<text x="127.5" y="282.0">.</text>
+<text x="135.0" y="282.0">.</text>
+<text x="142.5" y="282.0">.</text>
+<text x="150.0" y="282.0">.</text>
+<text x="157.5" y="282.0">.</text>
+<text x="165.0" y="282.0">:</text>
+<text x="172.5" y="282.0">:</text>
+<text x="180.0" y="282.0">:</text>
+<text x="187.5" y="282.0">:</text>
+<text x="195.0" y="282.0">:</text>
+<text x="202.5" y="282.0">-</text>
+<text x="210.0" y="282.0">*</text>
+<text x="217.5" y="282.0">#</text>
+<text x="225.0" y="282.0">#</text>
+<text x="232.5" y="282.0">#</text>
+<text x="240.0" y="282.0">%</text>
+<text x="247.5" y="282.0">%</text>
+<text x="255.0" y="282.0">%</text>
+<text x="262.5" y="282.0">#</text>
+<text x="270.0" y="282.0">*</text>
+<text x="277.5" y="282.0">*</text>
+<text x="285.0" y="282.0">#</text>
+<text x="292.5" y="282.0">#</text>
+<text x="300.0" y="282.0">#</text>
+<text x="307.5" y="282.0">*</text>
+<text x="315.0" y="282.0">=</text>
+<text x="322.5" y="282.0">-</text>
+<text x="330.0" y="282.0">-</text>
+<text x="337.5" y="282.0">-</text>
+<text x="345.0" y="282.0">:</text>
+<text x="352.5" y="282.0">-</text>
+<text x="360.0" y="282.0">-</text>
+<text x="367.5" y="282.0">-</text>
+<text x="375.0" y="282.0">:</text>
+<text x="382.5" y="282.0">-</text>
+<text x="390.0" y="282.0">:</text>
+<text x="397.5" y="282.0">:</text>
+<text x="405.0" y="282.0">:</text>
+<text x="412.5" y="282.0">:</text>
+<text x="420.0" y="282.0">:</text>
+<text x="427.5" y="282.0">.</text>
+<text x="435.0" y="282.0">.</text>
+<text x="442.5" y="282.0">.</text>
+<text x="450.0" y="282.0">.</text>
+<text x="457.5" y="282.0">.</text>
+<text x="465.0" y="282.0">.</text>
+<text x="112.5" y="294.5">.</text>
+<text x="120.0" y="294.5">.</text>
+<text x="127.5" y="294.5">.</text>
+<text x="135.0" y="294.5">.</text>
+<text x="142.5" y="294.5">.</text>
+<text x="150.0" y="294.5">.</text>
+<text x="157.5" y="294.5">:</text>
+<text x="165.0" y="294.5">:</text>
+<text x="172.5" y="294.5">:</text>
+<text x="180.0" y="294.5">:</text>
+<text x="187.5" y="294.5">:</text>
+<text x="195.0" y="294.5">:</text>
+<text x="202.5" y="294.5">-</text>
+<text x="210.0" y="294.5">*</text>
+<text x="217.5" y="294.5">*</text>
+<text x="225.0" y="294.5">*</text>
+<text x="232.5" y="294.5">*</text>
+<text x="240.0" y="294.5">%</text>
+<text x="247.5" y="294.5">%</text>
+<text x="255.0" y="294.5">%</text>
+<text x="262.5" y="294.5">#</text>
+<text x="270.0" y="294.5">*</text>
+<text x="277.5" y="294.5">*</text>
+<text x="285.0" y="294.5">#</text>
+<text x="292.5" y="294.5">#</text>
+<text x="300.0" y="294.5">#</text>
+<text x="307.5" y="294.5">+</text>
+<text x="315.0" y="294.5">=</text>
+<text x="322.5" y="294.5">+</text>
+<text x="330.0" y="294.5">*</text>
+<text x="337.5" y="294.5">*</text>
+<text x="345.0" y="294.5">+</text>
+<text x="352.5" y="294.5">+</text>
+<text x="360.0" y="294.5">=</text>
+<text x="367.5" y="294.5">-</text>
+<text x="375.0" y="294.5">-</text>
+<text x="382.5" y="294.5">:</text>
+<text x="390.0" y="294.5">:</text>
+<text x="397.5" y="294.5">:</text>
+<text x="405.0" y="294.5">:</text>
+<text x="412.5" y="294.5">:</text>
+<text x="420.0" y="294.5">:</text>
+<text x="427.5" y="294.5">:</text>
+<text x="435.0" y="294.5">.</text>
+<text x="442.5" y="294.5">.</text>
+<text x="450.0" y="294.5">.</text>
+<text x="457.5" y="294.5">.</text>
+<text x="465.0" y="294.5">.</text>
+<text x="472.5" y="294.5"> </text>
+<text x="112.5" y="307.0">.</text>
+<text x="120.0" y="307.0">.</text>
+<text x="127.5" y="307.0">.</text>
+<text x="135.0" y="307.0">.</text>
+<text x="142.5" y="307.0">.</text>
+<text x="150.0" y="307.0">.</text>
+<text x="157.5" y="307.0">:</text>
+<text x="165.0" y="307.0">:</text>
+<text x="172.5" y="307.0">:</text>
+<text x="180.0" y="307.0">:</text>
+<text x="187.5" y="307.0">:</text>
+<text x="195.0" y="307.0">:</text>
+<text x="202.5" y="307.0">-</text>
+<text x="210.0" y="307.0">*</text>
+<text x="217.5" y="307.0">#</text>
+<text x="225.0" y="307.0">#</text>
+<text x="232.5" y="307.0">+</text>
+<text x="240.0" y="307.0">#</text>
+<text x="247.5" y="307.0">#</text>
+<text x="255.0" y="307.0">*</text>
+<text x="262.5" y="307.0">*</text>
+<text x="270.0" y="307.0">+</text>
+<text x="277.5" y="307.0">*</text>
+<text x="285.0" y="307.0">+</text>
+<text x="292.5" y="307.0">=</text>
+<text x="300.0" y="307.0">=</text>
+<text x="307.5" y="307.0">:</text>
+<text x="315.0" y="307.0">:</text>
+<text x="322.5" y="307.0">=</text>
+<text x="330.0" y="307.0">+</text>
+<text x="337.5" y="307.0">+</text>
+<text x="345.0" y="307.0">+</text>
+<text x="352.5" y="307.0">+</text>
+<text x="360.0" y="307.0">=</text>
+<text x="367.5" y="307.0">:</text>
+<text x="375.0" y="307.0">-</text>
+<text x="382.5" y="307.0">-</text>
+<text x="390.0" y="307.0">:</text>
+<text x="397.5" y="307.0">:</text>
+<text x="405.0" y="307.0">:</text>
+<text x="412.5" y="307.0">:</text>
+<text x="420.0" y="307.0">:</text>
+<text x="427.5" y="307.0">:</text>
+<text x="435.0" y="307.0">.</text>
+<text x="442.5" y="307.0">.</text>
+<text x="450.0" y="307.0">.</text>
+<text x="457.5" y="307.0">.</text>
+<text x="465.0" y="307.0">.</text>
+<text x="472.5" y="307.0">.</text>
+<text x="112.5" y="319.5">.</text>
+<text x="120.0" y="319.5">.</text>
+<text x="127.5" y="319.5">.</text>
+<text x="135.0" y="319.5">.</text>
+<text x="142.5" y="319.5">.</text>
+<text x="150.0" y="319.5">:</text>
+<text x="157.5" y="319.5">:</text>
+<text x="165.0" y="319.5">:</text>
+<text x="172.5" y="319.5">:</text>
+<text x="180.0" y="319.5">:</text>
+<text x="187.5" y="319.5">:</text>
+<text x="195.0" y="319.5">:</text>
+<text x="202.5" y="319.5">-</text>
+<text x="210.0" y="319.5">-</text>
+<text x="217.5" y="319.5">+</text>
+<text x="225.0" y="319.5">+</text>
+<text x="232.5" y="319.5">=</text>
+<text x="240.0" y="319.5">+</text>
+<text x="247.5" y="319.5">*</text>
+<text x="255.0" y="319.5">*</text>
+<text x="262.5" y="319.5">*</text>
+<text x="270.0" y="319.5">-</text>
+<text x="277.5" y="319.5">-</text>
+<text x="285.0" y="319.5">-</text>
+<text x="292.5" y="319.5">:</text>
+<text x="300.0" y="319.5">:</text>
+<text x="307.5" y="319.5">.</text>
+<text x="315.0" y="319.5">.</text>
+<text x="322.5" y="319.5">:</text>
+<text x="330.0" y="319.5">=</text>
+<text x="337.5" y="319.5">=</text>
+<text x="345.0" y="319.5">=</text>
+<text x="352.5" y="319.5">=</text>
+<text x="360.0" y="319.5">-</text>
+<text x="367.5" y="319.5">:</text>
+<text x="375.0" y="319.5">-</text>
+<text x="382.5" y="319.5">-</text>
+<text x="390.0" y="319.5">:</text>
+<text x="397.5" y="319.5">:</text>
+<text x="405.0" y="319.5">:</text>
+<text x="412.5" y="319.5">:</text>
+<text x="420.0" y="319.5">:</text>
+<text x="427.5" y="319.5">:</text>
+<text x="435.0" y="319.5">.</text>
+<text x="442.5" y="319.5">.</text>
+<text x="450.0" y="319.5">.</text>
+<text x="457.5" y="319.5">.</text>
+<text x="465.0" y="319.5">.</text>
+<text x="472.5" y="319.5">.</text>
+<text x="112.5" y="332.0">.</text>
+<text x="120.0" y="332.0">.</text>
+<text x="127.5" y="332.0">.</text>
+<text x="135.0" y="332.0">.</text>
+<text x="142.5" y="332.0">.</text>
+<text x="150.0" y="332.0">:</text>
+<text x="157.5" y="332.0">:</text>
+<text x="165.0" y="332.0">:</text>
+<text x="172.5" y="332.0">:</text>
+<text x="180.0" y="332.0">:</text>
+<text x="187.5" y="332.0">:</text>
+<text x="195.0" y="332.0">-</text>
+<text x="202.5" y="332.0">-</text>
+<text x="210.0" y="332.0">-</text>
+<text x="217.5" y="332.0">-</text>
+<text x="225.0" y="332.0">-</text>
+<text x="232.5" y="332.0">=</text>
+<text x="240.0" y="332.0">+</text>
+<text x="247.5" y="332.0">*</text>
+<text x="255.0" y="332.0">#</text>
+<text x="262.5" y="332.0">*</text>
+<text x="270.0" y="332.0">+</text>
+<text x="277.5" y="332.0">*</text>
+<text x="285.0" y="332.0">+</text>
+<text x="292.5" y="332.0">=</text>
+<text x="300.0" y="332.0">-</text>
+<text x="307.5" y="332.0">:</text>
+<text x="315.0" y="332.0">:</text>
+<text x="322.5" y="332.0">.</text>
+<text x="330.0" y="332.0">-</text>
+<text x="337.5" y="332.0">-</text>
+<text x="345.0" y="332.0">-</text>
+<text x="352.5" y="332.0">:</text>
+<text x="360.0" y="332.0">:</text>
+<text x="367.5" y="332.0">-</text>
+<text x="375.0" y="332.0">-</text>
+<text x="382.5" y="332.0">-</text>
+<text x="390.0" y="332.0">:</text>
+<text x="397.5" y="332.0">:</text>
+<text x="405.0" y="332.0">:</text>
+<text x="412.5" y="332.0">:</text>
+<text x="420.0" y="332.0">:</text>
+<text x="427.5" y="332.0">:</text>
+<text x="435.0" y="332.0">.</text>
+<text x="442.5" y="332.0">.</text>
+<text x="450.0" y="332.0">.</text>
+<text x="457.5" y="332.0">.</text>
+<text x="465.0" y="332.0">.</text>
+<text x="472.5" y="332.0">.</text>
+<text x="112.5" y="344.5">.</text>
+<text x="120.0" y="344.5">.</text>
+<text x="127.5" y="344.5">.</text>
+<text x="135.0" y="344.5">.</text>
+<text x="142.5" y="344.5">.</text>
+<text x="150.0" y="344.5">:</text>
+<text x="157.5" y="344.5">:</text>
+<text x="165.0" y="344.5">:</text>
+<text x="172.5" y="344.5">:</text>
+<text x="180.0" y="344.5">:</text>
+<text x="187.5" y="344.5">:</text>
+<text x="195.0" y="344.5">:</text>
+<text x="202.5" y="344.5">-</text>
+<text x="210.0" y="344.5">-</text>
+<text x="217.5" y="344.5">-</text>
+<text x="225.0" y="344.5">-</text>
+<text x="232.5" y="344.5">=</text>
+<text x="240.0" y="344.5">=</text>
+<text x="247.5" y="344.5">=</text>
+<text x="255.0" y="344.5">+</text>
+<text x="262.5" y="344.5">*</text>
+<text x="270.0" y="344.5">*</text>
+<text x="277.5" y="344.5">*</text>
+<text x="285.0" y="344.5">+</text>
+<text x="292.5" y="344.5">-</text>
+<text x="300.0" y="344.5">:</text>
+<text x="307.5" y="344.5">-</text>
+<text x="315.0" y="344.5">-</text>
+<text x="322.5" y="344.5">-</text>
+<text x="330.0" y="344.5">-</text>
+<text x="337.5" y="344.5">-</text>
+<text x="345.0" y="344.5">:</text>
+<text x="352.5" y="344.5">:</text>
+<text x="360.0" y="344.5">-</text>
+<text x="367.5" y="344.5">-</text>
+<text x="375.0" y="344.5">-</text>
+<text x="382.5" y="344.5">:</text>
+<text x="390.0" y="344.5">:</text>
+<text x="397.5" y="344.5">:</text>
+<text x="405.0" y="344.5">:</text>
+<text x="412.5" y="344.5">:</text>
+<text x="420.0" y="344.5">:</text>
+<text x="427.5" y="344.5">:</text>
+<text x="435.0" y="344.5">.</text>
+<text x="442.5" y="344.5">.</text>
+<text x="450.0" y="344.5">.</text>
+<text x="457.5" y="344.5">.</text>
+<text x="465.0" y="344.5">.</text>
+<text x="472.5" y="344.5">.</text>
+<text x="112.5" y="357.0">.</text>
+<text x="120.0" y="357.0">.</text>
+<text x="127.5" y="357.0">.</text>
+<text x="135.0" y="357.0">.</text>
+<text x="142.5" y="357.0">.</text>
+<text x="150.0" y="357.0">.</text>
+<text x="157.5" y="357.0">:</text>
+<text x="165.0" y="357.0">:</text>
+<text x="172.5" y="357.0">:</text>
+<text x="180.0" y="357.0">:</text>
+<text x="187.5" y="357.0">:</text>
+<text x="195.0" y="357.0">:</text>
+<text x="202.5" y="357.0">-</text>
+<text x="210.0" y="357.0">-</text>
+<text x="217.5" y="357.0">-</text>
+<text x="225.0" y="357.0">-</text>
+<text x="232.5" y="357.0">=</text>
+<text x="240.0" y="357.0">*</text>
+<text x="247.5" y="357.0">-</text>
+<text x="255.0" y="357.0">:</text>
+<text x="262.5" y="357.0">-</text>
+<text x="270.0" y="357.0">=</text>
+<text x="277.5" y="357.0">*</text>
+<text x="285.0" y="357.0">*</text>
+<text x="292.5" y="357.0">+</text>
+<text x="300.0" y="357.0">+</text>
+<text x="307.5" y="357.0">=</text>
+<text x="315.0" y="357.0">-</text>
+<text x="322.5" y="357.0">:</text>
+<text x="330.0" y="357.0">:</text>
+<text x="337.5" y="357.0">:</text>
+<text x="345.0" y="357.0">:</text>
+<text x="352.5" y="357.0">:</text>
+<text x="360.0" y="357.0">-</text>
+<text x="367.5" y="357.0">-</text>
+<text x="375.0" y="357.0">-</text>
+<text x="382.5" y="357.0">:</text>
+<text x="390.0" y="357.0">:</text>
+<text x="397.5" y="357.0">:</text>
+<text x="405.0" y="357.0">:</text>
+<text x="412.5" y="357.0">:</text>
+<text x="420.0" y="357.0">:</text>
+<text x="427.5" y="357.0">:</text>
+<text x="435.0" y="357.0">.</text>
+<text x="442.5" y="357.0">.</text>
+<text x="450.0" y="357.0">.</text>
+<text x="457.5" y="357.0">.</text>
+<text x="465.0" y="357.0">.</text>
+<text x="472.5" y="357.0">.</text>
+<text x="112.5" y="369.5">.</text>
+<text x="120.0" y="369.5">.</text>
+<text x="127.5" y="369.5">.</text>
+<text x="135.0" y="369.5">.</text>
+<text x="142.5" y="369.5">.</text>
+<text x="150.0" y="369.5">.</text>
+<text x="157.5" y="369.5">:</text>
+<text x="165.0" y="369.5">:</text>
+<text x="172.5" y="369.5">:</text>
+<text x="180.0" y="369.5">:</text>
+<text x="187.5" y="369.5">:</text>
+<text x="195.0" y="369.5">:</text>
+<text x="202.5" y="369.5">-</text>
+<text x="210.0" y="369.5">-</text>
+<text x="217.5" y="369.5">-</text>
+<text x="225.0" y="369.5">-</text>
+<text x="232.5" y="369.5">-</text>
+<text x="240.0" y="369.5">*</text>
+<text x="247.5" y="369.5">*</text>
+<text x="255.0" y="369.5">=</text>
+<text x="262.5" y="369.5">:</text>
+<text x="270.0" y="369.5">:</text>
+<text x="277.5" y="369.5">:</text>
+<text x="285.0" y="369.5">:</text>
+<text x="292.5" y="369.5">:</text>
+<text x="300.0" y="369.5">:</text>
+<text x="307.5" y="369.5">.</text>
+<text x="315.0" y="369.5">.</text>
+<text x="322.5" y="369.5"> </text>
+<text x="330.0" y="369.5">.</text>
+<text x="337.5" y="369.5">.</text>
+<text x="345.0" y="369.5">:</text>
+<text x="352.5" y="369.5">-</text>
+<text x="360.0" y="369.5">-</text>
+<text x="367.5" y="369.5">-</text>
+<text x="375.0" y="369.5">:</text>
+<text x="382.5" y="369.5">:</text>
+<text x="390.0" y="369.5">:</text>
+<text x="397.5" y="369.5">:</text>
+<text x="405.0" y="369.5">:</text>
+<text x="412.5" y="369.5">:</text>
+<text x="420.0" y="369.5">:</text>
+<text x="427.5" y="369.5">:</text>
+<text x="435.0" y="369.5">.</text>
+<text x="442.5" y="369.5">.</text>
+<text x="450.0" y="369.5">.</text>
+<text x="457.5" y="369.5">.</text>
+<text x="465.0" y="369.5">.</text>
+<text x="472.5" y="369.5"> </text>
+<text x="112.5" y="382.0"> </text>
+<text x="120.0" y="382.0">.</text>
+<text x="127.5" y="382.0">.</text>
+<text x="135.0" y="382.0">.</text>
+<text x="142.5" y="382.0">.</text>
+<text x="150.0" y="382.0">.</text>
+<text x="157.5" y="382.0">:</text>
+<text x="165.0" y="382.0">:</text>
+<text x="172.5" y="382.0">:</text>
+<text x="180.0" y="382.0">:</text>
+<text x="187.5" y="382.0">:</text>
+<text x="195.0" y="382.0">:</text>
+<text x="202.5" y="382.0">:</text>
+<text x="210.0" y="382.0">-</text>
+<text x="217.5" y="382.0">-</text>
+<text x="225.0" y="382.0">-</text>
+<text x="232.5" y="382.0">-</text>
+<text x="240.0" y="382.0">*</text>
+<text x="247.5" y="382.0">*</text>
+<text x="255.0" y="382.0">*</text>
+<text x="262.5" y="382.0">*</text>
+<text x="270.0" y="382.0">=</text>
+<text x="277.5" y="382.0">-</text>
+<text x="285.0" y="382.0">.</text>
+<text x="292.5" y="382.0">.</text>
+<text x="300.0" y="382.0"> </text>
+<text x="307.5" y="382.0"> </text>
+<text x="315.0" y="382.0">.</text>
+<text x="322.5" y="382.0">:</text>
+<text x="330.0" y="382.0">:</text>
+<text x="337.5" y="382.0">:</text>
+<text x="345.0" y="382.0">-</text>
+<text x="352.5" y="382.0">-</text>
+<text x="360.0" y="382.0">-</text>
+<text x="367.5" y="382.0">:</text>
+<text x="375.0" y="382.0">:</text>
+<text x="382.5" y="382.0">:</text>
+<text x="390.0" y="382.0">:</text>
+<text x="397.5" y="382.0">:</text>
+<text x="405.0" y="382.0">:</text>
+<text x="412.5" y="382.0">:</text>
+<text x="420.0" y="382.0">:</text>
+<text x="427.5" y="382.0">.</text>
+<text x="435.0" y="382.0">.</text>
+<text x="442.5" y="382.0">.</text>
+<text x="450.0" y="382.0">.</text>
+<text x="457.5" y="382.0">.</text>
+<text x="465.0" y="382.0">.</text>
+<text x="472.5" y="382.0"> </text>
+<text x="120.0" y="394.5">.</text>
+<text x="127.5" y="394.5">.</text>
+<text x="135.0" y="394.5">.</text>
+<text x="142.5" y="394.5">.</text>
+<text x="150.0" y="394.5">.</text>
+<text x="157.5" y="394.5">.</text>
+<text x="165.0" y="394.5">:</text>
+<text x="172.5" y="394.5">:</text>
+<text x="180.0" y="394.5">:</text>
+<text x="187.5" y="394.5">:</text>
+<text x="195.0" y="394.5">:</text>
+<text x="202.5" y="394.5">:</text>
+<text x="210.0" y="394.5">:</text>
+<text x="217.5" y="394.5">:</text>
+<text x="225.0" y="394.5">-</text>
+<text x="232.5" y="394.5">-</text>
+<text x="240.0" y="394.5">*</text>
+<text x="247.5" y="394.5">*</text>
+<text x="255.0" y="394.5">*</text>
+<text x="262.5" y="394.5">*</text>
+<text x="270.0" y="394.5">*</text>
+<text x="277.5" y="394.5">+</text>
+<text x="285.0" y="394.5">=</text>
+<text x="292.5" y="394.5">-</text>
+<text x="300.0" y="394.5">:</text>
+<text x="307.5" y="394.5">:</text>
+<text x="315.0" y="394.5">:</text>
+<text x="322.5" y="394.5">:</text>
+<text x="330.0" y="394.5">:</text>
+<text x="337.5" y="394.5">-</text>
+<text x="345.0" y="394.5">-</text>
+<text x="352.5" y="394.5">-</text>
+<text x="360.0" y="394.5">-</text>
+<text x="367.5" y="394.5">:</text>
+<text x="375.0" y="394.5">:</text>
+<text x="382.5" y="394.5">:</text>
+<text x="390.0" y="394.5">:</text>
+<text x="397.5" y="394.5">:</text>
+<text x="405.0" y="394.5">:</text>
+<text x="412.5" y="394.5">:</text>
+<text x="420.0" y="394.5">.</text>
+<text x="427.5" y="394.5">.</text>
+<text x="435.0" y="394.5">.</text>
+<text x="442.5" y="394.5">.</text>
+<text x="450.0" y="394.5">.</text>
+<text x="457.5" y="394.5">.</text>
+<text x="465.0" y="394.5">.</text>
+<text x="120.0" y="407.0"> </text>
+<text x="127.5" y="407.0">.</text>
+<text x="135.0" y="407.0">.</text>
+<text x="142.5" y="407.0">.</text>
+<text x="150.0" y="407.0">.</text>
+<text x="157.5" y="407.0">.</text>
+<text x="165.0" y="407.0">.</text>
+<text x="172.5" y="407.0">:</text>
+<text x="180.0" y="407.0">:</text>
+<text x="187.5" y="407.0">:</text>
+<text x="195.0" y="407.0">:</text>
+<text x="202.5" y="407.0">:</text>
+<text x="210.0" y="407.0">:</text>
+<text x="217.5" y="407.0">:</text>
+<text x="225.0" y="407.0">-</text>
+<text x="232.5" y="407.0">=</text>
+<text x="240.0" y="407.0">#</text>
+<text x="247.5" y="407.0">#</text>
+<text x="255.0" y="407.0">*</text>
+<text x="262.5" y="407.0">*</text>
+<text x="270.0" y="407.0">*</text>
+<text x="277.5" y="407.0">+</text>
+<text x="285.0" y="407.0">=</text>
+<text x="292.5" y="407.0">-</text>
+<text x="300.0" y="407.0">-</text>
+<text x="307.5" y="407.0">-</text>
+<text x="315.0" y="407.0">:</text>
+<text x="322.5" y="407.0">:</text>
+<text x="330.0" y="407.0">-</text>
+<text x="337.5" y="407.0">-</text>
+<text x="345.0" y="407.0">-</text>
+<text x="352.5" y="407.0">-</text>
+<text x="360.0" y="407.0">=</text>
+<text x="367.5" y="407.0">+</text>
+<text x="375.0" y="407.0">=</text>
+<text x="382.5" y="407.0">-</text>
+<text x="390.0" y="407.0">:</text>
+<text x="397.5" y="407.0">:</text>
+<text x="405.0" y="407.0">:</text>
+<text x="412.5" y="407.0">.</text>
+<text x="420.0" y="407.0">.</text>
+<text x="427.5" y="407.0">.</text>
+<text x="435.0" y="407.0">.</text>
+<text x="442.5" y="407.0">.</text>
+<text x="450.0" y="407.0">.</text>
+<text x="457.5" y="407.0">.</text>
+<text x="127.5" y="419.5"> </text>
+<text x="135.0" y="419.5">.</text>
+<text x="142.5" y="419.5">.</text>
+<text x="150.0" y="419.5">.</text>
+<text x="157.5" y="419.5">.</text>
+<text x="165.0" y="419.5">.</text>
+<text x="172.5" y="419.5">.</text>
+<text x="180.0" y="419.5">.</text>
+<text x="187.5" y="419.5">:</text>
+<text x="195.0" y="419.5">:</text>
+<text x="202.5" y="419.5">:</text>
+<text x="210.0" y="419.5">=</text>
+<text x="217.5" y="419.5">*</text>
+<text x="225.0" y="419.5">#</text>
+<text x="232.5" y="419.5">#</text>
+<text x="240.0" y="419.5">%</text>
+<text x="247.5" y="419.5">#</text>
+<text x="255.0" y="419.5">*</text>
+<text x="262.5" y="419.5">*</text>
+<text x="270.0" y="419.5">*</text>
+<text x="277.5" y="419.5">+</text>
+<text x="285.0" y="419.5">=</text>
+<text x="292.5" y="419.5">=</text>
+<text x="300.0" y="419.5">-</text>
+<text x="307.5" y="419.5">-</text>
+<text x="315.0" y="419.5">-</text>
+<text x="322.5" y="419.5">-</text>
+<text x="330.0" y="419.5">-</text>
+<text x="337.5" y="419.5">-</text>
+<text x="345.0" y="419.5">-</text>
+<text x="352.5" y="419.5">-</text>
+<text x="360.0" y="419.5">+</text>
+<text x="367.5" y="419.5">#</text>
+<text x="375.0" y="419.5">#</text>
+<text x="382.5" y="419.5">#</text>
+<text x="390.0" y="419.5">*</text>
+<text x="397.5" y="419.5">+</text>
+<text x="405.0" y="419.5">=</text>
+<text x="412.5" y="419.5">:</text>
+<text x="420.0" y="419.5">:</text>
+<text x="427.5" y="419.5">.</text>
+<text x="435.0" y="419.5">.</text>
+<text x="442.5" y="419.5">.</text>
+<text x="450.0" y="419.5">.</text>
+<text x="135.0" y="432.0"> </text>
+<text x="142.5" y="432.0">.</text>
+<text x="150.0" y="432.0">.</text>
+<text x="157.5" y="432.0">.</text>
+<text x="165.0" y="432.0">.</text>
+<text x="172.5" y="432.0">.</text>
+<text x="180.0" y="432.0">:</text>
+<text x="187.5" y="432.0">=</text>
+<text x="195.0" y="432.0">*</text>
+<text x="202.5" y="432.0">%</text>
+<text x="210.0" y="432.0">@</text>
+<text x="217.5" y="432.0">@</text>
+<text x="225.0" y="432.0">@</text>
+<text x="232.5" y="432.0">%</text>
+<text x="240.0" y="432.0">#</text>
+<text x="247.5" y="432.0">#</text>
+<text x="255.0" y="432.0">*</text>
+<text x="262.5" y="432.0">*</text>
+<text x="270.0" y="432.0">+</text>
+<text x="277.5" y="432.0">+</text>
+<text x="285.0" y="432.0">=</text>
+<text x="292.5" y="432.0">=</text>
+<text x="300.0" y="432.0">-</text>
+<text x="307.5" y="432.0">-</text>
+<text x="315.0" y="432.0">-</text>
+<text x="322.5" y="432.0">-</text>
+<text x="330.0" y="432.0">-</text>
+<text x="337.5" y="432.0">-</text>
+<text x="345.0" y="432.0">-</text>
+<text x="352.5" y="432.0">=</text>
+<text x="360.0" y="432.0">#</text>
+<text x="367.5" y="432.0">#</text>
+<text x="375.0" y="432.0">#</text>
+<text x="382.5" y="432.0">%</text>
+<text x="390.0" y="432.0">%</text>
+<text x="397.5" y="432.0">@</text>
+<text x="405.0" y="432.0">@</text>
+<text x="412.5" y="432.0">%</text>
+<text x="420.0" y="432.0">#</text>
+<text x="427.5" y="432.0">*</text>
+<text x="435.0" y="432.0">=</text>
+<text x="442.5" y="432.0">:</text>
+<text x="150.0" y="444.5">.</text>
+<text x="157.5" y="444.5">-</text>
+<text x="165.0" y="444.5">+</text>
+<text x="172.5" y="444.5">#</text>
+<text x="180.0" y="444.5">@</text>
+<text x="187.5" y="444.5">@</text>
+<text x="195.0" y="444.5">@</text>
+<text x="202.5" y="444.5">@</text>
+<text x="210.0" y="444.5">@</text>
+<text x="217.5" y="444.5">@</text>
+<text x="225.0" y="444.5">@</text>
+<text x="232.5" y="444.5">@</text>
+<text x="240.0" y="444.5">#</text>
+<text x="247.5" y="444.5">#</text>
+<text x="255.0" y="444.5">*</text>
+<text x="262.5" y="444.5">*</text>
+<text x="270.0" y="444.5">+</text>
+<text x="277.5" y="444.5">=</text>
+<text x="285.0" y="444.5">=</text>
+<text x="292.5" y="444.5">=</text>
+<text x="300.0" y="444.5">=</text>
+<text x="307.5" y="444.5">=</text>
+<text x="315.0" y="444.5">=</text>
+<text x="322.5" y="444.5">-</text>
+<text x="330.0" y="444.5">-</text>
+<text x="337.5" y="444.5">-</text>
+<text x="345.0" y="444.5">+</text>
+<text x="352.5" y="444.5">#</text>
+<text x="360.0" y="444.5">#</text>
+<text x="367.5" y="444.5">%</text>
+<text x="375.0" y="444.5">%</text>
+<text x="382.5" y="444.5">%</text>
+<text x="390.0" y="444.5">%</text>
+<text x="397.5" y="444.5">%</text>
+<text x="405.0" y="444.5">@</text>
+<text x="412.5" y="444.5">@</text>
+<text x="420.0" y="444.5">@</text>
+<text x="427.5" y="444.5">@</text>
+<text x="435.0" y="444.5">@</text>
+<text x="442.5" y="444.5">@</text>
+<text x="450.0" y="444.5">%</text>
+<text x="457.5" y="444.5">*</text>
+<text x="142.5" y="457.0">*</text>
+<text x="150.0" y="457.0">%</text>
+<text x="157.5" y="457.0">@</text>
+<text x="165.0" y="457.0">@</text>
+<text x="172.5" y="457.0">@</text>
+<text x="180.0" y="457.0">@</text>
+<text x="187.5" y="457.0">@</text>
+<text x="195.0" y="457.0">@</text>
+<text x="202.5" y="457.0">@</text>
+<text x="210.0" y="457.0">@</text>
+<text x="217.5" y="457.0">@</text>
+<text x="225.0" y="457.0">@</text>
+<text x="232.5" y="457.0">@</text>
+<text x="240.0" y="457.0">@</text>
+<text x="247.5" y="457.0">%</text>
+<text x="255.0" y="457.0">#</text>
+<text x="262.5" y="457.0">*</text>
+<text x="270.0" y="457.0">+</text>
+<text x="277.5" y="457.0">=</text>
+<text x="285.0" y="457.0">=</text>
+<text x="292.5" y="457.0">=</text>
+<text x="300.0" y="457.0">+</text>
+<text x="307.5" y="457.0">+</text>
+<text x="315.0" y="457.0">+</text>
+<text x="322.5" y="457.0">+</text>
+<text x="330.0" y="457.0">*</text>
+<text x="337.5" y="457.0">#</text>
+<text x="345.0" y="457.0">%</text>
+<text x="352.5" y="457.0">%</text>
+<text x="360.0" y="457.0">%</text>
+<text x="367.5" y="457.0">%</text>
+<text x="375.0" y="457.0">@</text>
+<text x="382.5" y="457.0">@</text>
+<text x="390.0" y="457.0">%</text>
+<text x="397.5" y="457.0">%</text>
+<text x="405.0" y="457.0">@</text>
+<text x="412.5" y="457.0">@</text>
+<text x="420.0" y="457.0">@</text>
+<text x="427.5" y="457.0">@</text>
+<text x="435.0" y="457.0">@</text>
+<text x="442.5" y="457.0">@</text>
+<text x="450.0" y="457.0">@</text>
+<text x="457.5" y="457.0">@</text>
+<text x="465.0" y="457.0">@</text>
+<text x="472.5" y="457.0">%</text>
+<text x="480.0" y="457.0">#</text>
+<text x="120.0" y="469.5">#</text>
+<text x="127.5" y="469.5">@</text>
+<text x="135.0" y="469.5">@</text>
+<text x="142.5" y="469.5">@</text>
+<text x="150.0" y="469.5">@</text>
+<text x="157.5" y="469.5">@</text>
+<text x="165.0" y="469.5">@</text>
+<text x="172.5" y="469.5">@</text>
+<text x="180.0" y="469.5">@</text>
+<text x="187.5" y="469.5">@</text>
+<text x="195.0" y="469.5">@</text>
+<text x="202.5" y="469.5">@</text>
+<text x="210.0" y="469.5">@</text>
+<text x="217.5" y="469.5">@</text>
+<text x="225.0" y="469.5">@</text>
+<text x="232.5" y="469.5">@</text>
+<text x="240.0" y="469.5">@</text>
+<text x="247.5" y="469.5">@</text>
+<text x="255.0" y="469.5">@</text>
+<text x="262.5" y="469.5">@</text>
+<text x="270.0" y="469.5">%</text>
+<text x="277.5" y="469.5">#</text>
+<text x="285.0" y="469.5">*</text>
+<text x="292.5" y="469.5">#</text>
+<text x="300.0" y="469.5">#</text>
+<text x="307.5" y="469.5">#</text>
+<text x="315.0" y="469.5">%</text>
+<text x="322.5" y="469.5">%</text>
+<text x="330.0" y="469.5">@</text>
+<text x="337.5" y="469.5">%</text>
+<text x="345.0" y="469.5">@</text>
+<text x="352.5" y="469.5">@</text>
+<text x="360.0" y="469.5">%</text>
+<text x="367.5" y="469.5">%</text>
+<text x="375.0" y="469.5">@</text>
+<text x="382.5" y="469.5">@</text>
+<text x="390.0" y="469.5">%</text>
+<text x="397.5" y="469.5">@</text>
+<text x="405.0" y="469.5">@</text>
+<text x="412.5" y="469.5">@</text>
+<text x="420.0" y="469.5">@</text>
+<text x="427.5" y="469.5">@</text>
+<text x="435.0" y="469.5">@</text>
+<text x="442.5" y="469.5">@</text>
+<text x="450.0" y="469.5">@</text>
+<text x="457.5" y="469.5">@</text>
+<text x="465.0" y="469.5">@</text>
+<text x="472.5" y="469.5">@</text>
+<text x="480.0" y="469.5">@</text>
+<text x="487.5" y="469.5">@</text>
+<text x="495.0" y="469.5">*</text>
+<text x="105.0" y="482.0">%</text>
+<text x="112.5" y="482.0">@</text>
+<text x="120.0" y="482.0">@</text>
+<text x="127.5" y="482.0">@</text>
+<text x="135.0" y="482.0">@</text>
+<text x="142.5" y="482.0">@</text>
+<text x="150.0" y="482.0">@</text>
+<text x="157.5" y="482.0">@</text>
+<text x="165.0" y="482.0">@</text>
+<text x="172.5" y="482.0">@</text>
+<text x="180.0" y="482.0">@</text>
+<text x="187.5" y="482.0">@</text>
+<text x="195.0" y="482.0">@</text>
+<text x="202.5" y="482.0">@</text>
+<text x="210.0" y="482.0">@</text>
+<text x="217.5" y="482.0">@</text>
+<text x="225.0" y="482.0">@</text>
+<text x="232.5" y="482.0">@</text>
+<text x="240.0" y="482.0">@</text>
+<text x="247.5" y="482.0">@</text>
+<text x="255.0" y="482.0">@</text>
+<text x="262.5" y="482.0">@</text>
+<text x="270.0" y="482.0">@</text>
+<text x="277.5" y="482.0">@</text>
+<text x="285.0" y="482.0">@</text>
+<text x="292.5" y="482.0">@</text>
+<text x="300.0" y="482.0">@</text>
+<text x="307.5" y="482.0">@</text>
+<text x="315.0" y="482.0">@</text>
+<text x="322.5" y="482.0">@</text>
+<text x="330.0" y="482.0">@</text>
+<text x="337.5" y="482.0">%</text>
+<text x="345.0" y="482.0">@</text>
+<text x="352.5" y="482.0">@</text>
+<text x="360.0" y="482.0">%</text>
+<text x="367.5" y="482.0">%</text>
+<text x="375.0" y="482.0">@</text>
+<text x="382.5" y="482.0">@</text>
+<text x="390.0" y="482.0">%</text>
+<text x="397.5" y="482.0">@</text>
+<text x="405.0" y="482.0">@</text>
+<text x="412.5" y="482.0">@</text>
+<text x="420.0" y="482.0">@</text>
+<text x="427.5" y="482.0">@</text>
+<text x="435.0" y="482.0">@</text>
+<text x="442.5" y="482.0">@</text>
+<text x="450.0" y="482.0">@</text>
+<text x="457.5" y="482.0">@</text>
+<text x="465.0" y="482.0">%</text>
+<text x="472.5" y="482.0">@</text>
+<text x="480.0" y="482.0">@</text>
+<text x="487.5" y="482.0">%</text>
+<text x="495.0" y="482.0">%</text>
+<text x="502.5" y="482.0">#</text>
+<text x="97.5" y="494.5">@</text>
+<text x="105.0" y="494.5">@</text>
+<text x="112.5" y="494.5">@</text>
+<text x="120.0" y="494.5">@</text>
+<text x="127.5" y="494.5">@</text>
+<text x="135.0" y="494.5">@</text>
+<text x="142.5" y="494.5">@</text>
+<text x="150.0" y="494.5">@</text>
+<text x="157.5" y="494.5">@</text>
+<text x="165.0" y="494.5">@</text>
+<text x="172.5" y="494.5">@</text>
+<text x="180.0" y="494.5">@</text>
+<text x="187.5" y="494.5">@</text>
+<text x="195.0" y="494.5">@</text>
+<text x="202.5" y="494.5">@</text>
+<text x="210.0" y="494.5">@</text>
+<text x="217.5" y="494.5">@</text>
+<text x="225.0" y="494.5">@</text>
+<text x="232.5" y="494.5">@</text>
+<text x="240.0" y="494.5">@</text>
+<text x="247.5" y="494.5">@</text>
+<text x="255.0" y="494.5">@</text>
+<text x="262.5" y="494.5">@</text>
+<text x="270.0" y="494.5">@</text>
+<text x="277.5" y="494.5">@</text>
+<text x="285.0" y="494.5">@</text>
+<text x="292.5" y="494.5">@</text>
+<text x="300.0" y="494.5">%</text>
+<text x="307.5" y="494.5">@</text>
+<text x="315.0" y="494.5">@</text>
+<text x="322.5" y="494.5">@</text>
+<text x="330.0" y="494.5">%</text>
+<text x="337.5" y="494.5">%</text>
+<text x="345.0" y="494.5">@</text>
+<text x="352.5" y="494.5">@</text>
+<text x="360.0" y="494.5">%</text>
+<text x="367.5" y="494.5">@</text>
+<text x="375.0" y="494.5">@</text>
+<text x="382.5" y="494.5">@</text>
+<text x="390.0" y="494.5">%</text>
+<text x="397.5" y="494.5">@</text>
+<text x="405.0" y="494.5">@</text>
+<text x="412.5" y="494.5">@</text>
+<text x="420.0" y="494.5">@</text>
+<text x="427.5" y="494.5">@</text>
+<text x="435.0" y="494.5">@</text>
+<text x="442.5" y="494.5">@</text>
+<text x="450.0" y="494.5">@</text>
+<text x="457.5" y="494.5">@</text>
+<text x="465.0" y="494.5">%</text>
+<text x="472.5" y="494.5">%</text>
+<text x="480.0" y="494.5">@</text>
+<text x="487.5" y="494.5">%</text>
+<text x="495.0" y="494.5">%</text>
+<text x="502.5" y="494.5">%</text>
+<text x="510.0" y="494.5">*</text>
+<text x="90.0" y="507.0">@</text>
+<text x="97.5" y="507.0">@</text>
+<text x="105.0" y="507.0">@</text>
+<text x="112.5" y="507.0">@</text>
+<text x="120.0" y="507.0">@</text>
+<text x="127.5" y="507.0">@</text>
+<text x="135.0" y="507.0">@</text>
+<text x="142.5" y="507.0">@</text>
+<text x="150.0" y="507.0">@</text>
+<text x="157.5" y="507.0">%</text>
+<text x="165.0" y="507.0">@</text>
+<text x="172.5" y="507.0">@</text>
+<text x="180.0" y="507.0">@</text>
+<text x="187.5" y="507.0">@</text>
+<text x="195.0" y="507.0">@</text>
+<text x="202.5" y="507.0">@</text>
+<text x="210.0" y="507.0">@</text>
+<text x="217.5" y="507.0">@</text>
+<text x="225.0" y="507.0">@</text>
+<text x="232.5" y="507.0">@</text>
+<text x="240.0" y="507.0">@</text>
+<text x="247.5" y="507.0">@</text>
+<text x="255.0" y="507.0">@</text>
+<text x="262.5" y="507.0">@</text>
+<text x="270.0" y="507.0">@</text>
+<text x="277.5" y="507.0">@</text>
+<text x="285.0" y="507.0">%</text>
+<text x="292.5" y="507.0">%</text>
+<text x="300.0" y="507.0">%</text>
+<text x="307.5" y="507.0">@</text>
+<text x="315.0" y="507.0">@</text>
+<text x="322.5" y="507.0">%</text>
+<text x="330.0" y="507.0">%</text>
+<text x="337.5" y="507.0">@</text>
+<text x="345.0" y="507.0">@</text>
+<text x="352.5" y="507.0">%</text>
+<text x="360.0" y="507.0">%</text>
+<text x="367.5" y="507.0">@</text>
+<text x="375.0" y="507.0">@</text>
+<text x="382.5" y="507.0">@</text>
+<text x="390.0" y="507.0">%</text>
+<text x="397.5" y="507.0">@</text>
+<text x="405.0" y="507.0">@</text>
+<text x="412.5" y="507.0">@</text>
+<text x="420.0" y="507.0">@</text>
+<text x="427.5" y="507.0">@</text>
+<text x="435.0" y="507.0">@</text>
+<text x="442.5" y="507.0">@</text>
+<text x="450.0" y="507.0">@</text>
+<text x="457.5" y="507.0">%</text>
+<text x="465.0" y="507.0">%</text>
+<text x="472.5" y="507.0">@</text>
+<text x="480.0" y="507.0">%</text>
+<text x="487.5" y="507.0">%</text>
+<text x="495.0" y="507.0">%</text>
+<text x="502.5" y="507.0">%</text>
+<text x="510.0" y="507.0">#</text>
+<text x="517.5" y="507.0">+</text>
+<text x="82.5" y="519.5">%</text>
+<text x="90.0" y="519.5">@</text>
+<text x="97.5" y="519.5">@</text>
+<text x="105.0" y="519.5">@</text>
+<text x="112.5" y="519.5">@</text>
+<text x="120.0" y="519.5">@</text>
+<text x="127.5" y="519.5">@</text>
+<text x="135.0" y="519.5">@</text>
+<text x="142.5" y="519.5">@</text>
+<text x="150.0" y="519.5">@</text>
+<text x="157.5" y="519.5">%</text>
+<text x="165.0" y="519.5">@</text>
+<text x="172.5" y="519.5">@</text>
+<text x="180.0" y="519.5">@</text>
+<text x="187.5" y="519.5">@</text>
+<text x="195.0" y="519.5">@</text>
+<text x="202.5" y="519.5">@</text>
+<text x="210.0" y="519.5">@</text>
+<text x="217.5" y="519.5">@</text>
+<text x="225.0" y="519.5">@</text>
+<text x="232.5" y="519.5">@</text>
+<text x="240.0" y="519.5">@</text>
+<text x="247.5" y="519.5">@</text>
+<text x="255.0" y="519.5">%</text>
+<text x="262.5" y="519.5">@</text>
+<text x="270.0" y="519.5">@</text>
+<text x="277.5" y="519.5">%</text>
+<text x="285.0" y="519.5">%</text>
+<text x="292.5" y="519.5">%</text>
+<text x="300.0" y="519.5">@</text>
+<text x="307.5" y="519.5">@</text>
+<text x="315.0" y="519.5">@</text>
+<text x="322.5" y="519.5">%</text>
+<text x="330.0" y="519.5">@</text>
+<text x="337.5" y="519.5">@</text>
+<text x="345.0" y="519.5">@</text>
+<text x="352.5" y="519.5">%</text>
+<text x="360.0" y="519.5">@</text>
+<text x="367.5" y="519.5">@</text>
+<text x="375.0" y="519.5">@</text>
+<text x="382.5" y="519.5">@</text>
+<text x="390.0" y="519.5">%</text>
+<text x="397.5" y="519.5">@</text>
+<text x="405.0" y="519.5">@</text>
+<text x="412.5" y="519.5">@</text>
+<text x="420.0" y="519.5">@</text>
+<text x="427.5" y="519.5">%</text>
+<text x="435.0" y="519.5">@</text>
+<text x="442.5" y="519.5">@</text>
+<text x="450.0" y="519.5">@</text>
+<text x="457.5" y="519.5">%</text>
+<text x="465.0" y="519.5">%</text>
+<text x="472.5" y="519.5">%</text>
+<text x="480.0" y="519.5">%</text>
+<text x="487.5" y="519.5">@</text>
+<text x="495.0" y="519.5">#</text>
+<text x="502.5" y="519.5">#</text>
+<text x="510.0" y="519.5">#</text>
+<text x="517.5" y="519.5">#</text>
+<text x="82.5" y="532.0">@</text>
+<text x="90.0" y="532.0">@</text>
+<text x="97.5" y="532.0">@</text>
+<text x="105.0" y="532.0">@</text>
+<text x="112.5" y="532.0">@</text>
+<text x="120.0" y="532.0">@</text>
+<text x="127.5" y="532.0">@</text>
+<text x="135.0" y="532.0">@</text>
+<text x="142.5" y="532.0">@</text>
+<text x="150.0" y="532.0">%</text>
+<text x="157.5" y="532.0">%</text>
+<text x="165.0" y="532.0">@</text>
+<text x="172.5" y="532.0">@</text>
+<text x="180.0" y="532.0">@</text>
+<text x="187.5" y="532.0">@</text>
+<text x="195.0" y="532.0">@</text>
+<text x="202.5" y="532.0">@</text>
+<text x="210.0" y="532.0">@</text>
+<text x="217.5" y="532.0">@</text>
+<text x="225.0" y="532.0">@</text>
+<text x="232.5" y="532.0">@</text>
+<text x="240.0" y="532.0">@</text>
+<text x="247.5" y="532.0">%</text>
+<text x="255.0" y="532.0">%</text>
+<text x="262.5" y="532.0">%</text>
+<text x="270.0" y="532.0">@</text>
+<text x="277.5" y="532.0">%</text>
+<text x="285.0" y="532.0">%</text>
+<text x="292.5" y="532.0">@</text>
+<text x="300.0" y="532.0">@</text>
+<text x="307.5" y="532.0">@</text>
+<text x="315.0" y="532.0">%</text>
+<text x="322.5" y="532.0">@</text>
+<text x="330.0" y="532.0">@</text>
+<text x="337.5" y="532.0">@</text>
+<text x="345.0" y="532.0">@</text>
+<text x="352.5" y="532.0">%</text>
+<text x="360.0" y="532.0">@</text>
+<text x="367.5" y="532.0">@</text>
+<text x="375.0" y="532.0">@</text>
+<text x="382.5" y="532.0">@</text>
+<text x="390.0" y="532.0">@</text>
+<text x="397.5" y="532.0">%</text>
+<text x="405.0" y="532.0">@</text>
+<text x="412.5" y="532.0">@</text>
+<text x="420.0" y="532.0">@</text>
+<text x="427.5" y="532.0">%</text>
+<text x="435.0" y="532.0">%</text>
+<text x="442.5" y="532.0">@</text>
+<text x="450.0" y="532.0">@</text>
+<text x="457.5" y="532.0">%</text>
+<text x="465.0" y="532.0">%</text>
+<text x="472.5" y="532.0">%</text>
+<text x="480.0" y="532.0">@</text>
+<text x="487.5" y="532.0">%</text>
+<text x="495.0" y="532.0">#</text>
+<text x="502.5" y="532.0">%</text>
+<text x="510.0" y="532.0">#</text>
+<text x="517.5" y="532.0">#</text>
+<text x="525.0" y="532.0">=</text>
+<text x="75.0" y="544.5">%</text>
+<text x="82.5" y="544.5">@</text>
+<text x="90.0" y="544.5">@</text>
+<text x="97.5" y="544.5">@</text>
+<text x="105.0" y="544.5">@</text>
+<text x="112.5" y="544.5">@</text>
+<text x="120.0" y="544.5">@</text>
+<text x="127.5" y="544.5">@</text>
+<text x="135.0" y="544.5">%</text>
+<text x="142.5" y="544.5">@</text>
+<text x="150.0" y="544.5">%</text>
+<text x="157.5" y="544.5">%</text>
+<text x="165.0" y="544.5">@</text>
+<text x="172.5" y="544.5">@</text>
+<text x="180.0" y="544.5">@</text>
+<text x="187.5" y="544.5">@</text>
+<text x="195.0" y="544.5">@</text>
+<text x="202.5" y="544.5">@</text>
+<text x="210.0" y="544.5">@</text>
+<text x="217.5" y="544.5">@</text>
+<text x="225.0" y="544.5">@</text>
+<text x="232.5" y="544.5">@</text>
+<text x="240.0" y="544.5">@</text>
+<text x="247.5" y="544.5">%</text>
+<text x="255.0" y="544.5">%</text>
+<text x="262.5" y="544.5">%</text>
+<text x="270.0" y="544.5">%</text>
+<text x="277.5" y="544.5">%</text>
+<text x="285.0" y="544.5">%</text>
+<text x="292.5" y="544.5">@</text>
+<text x="300.0" y="544.5">@</text>
+<text x="307.5" y="544.5">%</text>
+<text x="315.0" y="544.5">@</text>
+<text x="322.5" y="544.5">@</text>
+<text x="330.0" y="544.5">@</text>
+<text x="337.5" y="544.5">@</text>
+<text x="345.0" y="544.5">@</text>
+<text x="352.5" y="544.5">%</text>
+<text x="360.0" y="544.5">@</text>
+<text x="367.5" y="544.5">@</text>
+<text x="375.0" y="544.5">@</text>
+<text x="382.5" y="544.5">@</text>
+<text x="390.0" y="544.5">@</text>
+<text x="397.5" y="544.5">%</text>
+<text x="405.0" y="544.5">@</text>
+<text x="412.5" y="544.5">%</text>
+<text x="420.0" y="544.5">@</text>
+<text x="427.5" y="544.5">%</text>
+<text x="435.0" y="544.5">%</text>
+<text x="442.5" y="544.5">@</text>
+<text x="450.0" y="544.5">@</text>
+<text x="457.5" y="544.5">%</text>
+<text x="465.0" y="544.5">%</text>
+<text x="472.5" y="544.5">@</text>
+<text x="480.0" y="544.5">%</text>
+<text x="487.5" y="544.5">#</text>
+<text x="495.0" y="544.5">#</text>
+<text x="502.5" y="544.5">%</text>
+<text x="510.0" y="544.5">#</text>
+<text x="517.5" y="544.5">#</text>
+<text x="525.0" y="544.5">*</text>
+<text x="75.0" y="557.0">@</text>
+<text x="82.5" y="557.0">@</text>
+<text x="90.0" y="557.0">@</text>
+<text x="97.5" y="557.0">@</text>
+<text x="105.0" y="557.0">@</text>
+<text x="112.5" y="557.0">@</text>
+<text x="120.0" y="557.0">@</text>
+<text x="127.5" y="557.0">%</text>
+<text x="135.0" y="557.0">%</text>
+<text x="142.5" y="557.0">@</text>
+<text x="150.0" y="557.0">%</text>
+<text x="157.5" y="557.0">%</text>
+<text x="165.0" y="557.0">@</text>
+<text x="172.5" y="557.0">@</text>
+<text x="180.0" y="557.0">@</text>
+<text x="187.5" y="557.0">@</text>
+<text x="195.0" y="557.0">@</text>
+<text x="202.5" y="557.0">@</text>
+<text x="210.0" y="557.0">@</text>
+<text x="217.5" y="557.0">@</text>
+<text x="225.0" y="557.0">@</text>
+<text x="232.5" y="557.0">@</text>
+<text x="240.0" y="557.0">@</text>
+<text x="247.5" y="557.0">%</text>
+<text x="255.0" y="557.0">%</text>
+<text x="262.5" y="557.0">%</text>
+<text x="270.0" y="557.0">%</text>
+<text x="277.5" y="557.0">%</text>
+<text x="285.0" y="557.0">%</text>
+<text x="292.5" y="557.0">@</text>
+<text x="300.0" y="557.0">@</text>
+<text x="307.5" y="557.0">%</text>
+<text x="315.0" y="557.0">@</text>
+<text x="322.5" y="557.0">@</text>
+<text x="330.0" y="557.0">@</text>
+<text x="337.5" y="557.0">@</text>
+<text x="345.0" y="557.0">%</text>
+<text x="352.5" y="557.0">%</text>
+<text x="360.0" y="557.0">@</text>
+<text x="367.5" y="557.0">@</text>
+<text x="375.0" y="557.0">@</text>
+<text x="382.5" y="557.0">@</text>
+<text x="390.0" y="557.0">@</text>
+<text x="397.5" y="557.0">%</text>
+<text x="405.0" y="557.0">%</text>
+<text x="412.5" y="557.0">%</text>
+<text x="420.0" y="557.0">%</text>
+<text x="427.5" y="557.0">#</text>
+<text x="435.0" y="557.0">%</text>
+<text x="442.5" y="557.0">@</text>
+<text x="450.0" y="557.0">%</text>
+<text x="457.5" y="557.0">%</text>
+<text x="465.0" y="557.0">%</text>
+<text x="472.5" y="557.0">@</text>
+<text x="480.0" y="557.0">#</text>
+<text x="487.5" y="557.0">#</text>
+<text x="495.0" y="557.0">%</text>
+<text x="502.5" y="557.0">#</text>
+<text x="510.0" y="557.0">#</text>
+<text x="517.5" y="557.0">#</text>
+<text x="525.0" y="557.0">#</text>
+<text x="67.5" y="569.5">*</text>
+<text x="75.0" y="569.5">@</text>
+<text x="82.5" y="569.5">@</text>
+<text x="90.0" y="569.5">@</text>
+<text x="97.5" y="569.5">@</text>
+<text x="105.0" y="569.5">@</text>
+<text x="112.5" y="569.5">%</text>
+<text x="120.0" y="569.5">%</text>
+<text x="127.5" y="569.5">%</text>
+<text x="135.0" y="569.5">%</text>
+<text x="142.5" y="569.5">%</text>
+<text x="150.0" y="569.5">%</text>
+<text x="157.5" y="569.5">%</text>
+<text x="165.0" y="569.5">%</text>
+<text x="172.5" y="569.5">@</text>
+<text x="180.0" y="569.5">@</text>
+<text x="187.5" y="569.5">@</text>
+<text x="195.0" y="569.5">@</text>
+<text x="202.5" y="569.5">@</text>
+<text x="210.0" y="569.5">@</text>
+<text x="217.5" y="569.5">@</text>
+<text x="225.0" y="569.5">@</text>
+<text x="232.5" y="569.5">@</text>
+<text x="240.0" y="569.5">@</text>
+<text x="247.5" y="569.5">%</text>
+<text x="255.0" y="569.5">%</text>
+<text x="262.5" y="569.5">%</text>
+<text x="270.0" y="569.5">%</text>
+<text x="277.5" y="569.5">%</text>
+<text x="285.0" y="569.5">%</text>
+<text x="292.5" y="569.5">@</text>
+<text x="300.0" y="569.5">@</text>
+<text x="307.5" y="569.5">%</text>
+<text x="315.0" y="569.5">@</text>
+<text x="322.5" y="569.5">@</text>
+<text x="330.0" y="569.5">@</text>
+<text x="337.5" y="569.5">@</text>
+<text x="345.0" y="569.5">%</text>
+<text x="352.5" y="569.5">@</text>
+<text x="360.0" y="569.5">@</text>
+<text x="367.5" y="569.5">%</text>
+<text x="375.0" y="569.5">@</text>
+<text x="382.5" y="569.5">@</text>
+<text x="390.0" y="569.5">%</text>
+<text x="397.5" y="569.5">%</text>
+<text x="405.0" y="569.5">%</text>
+<text x="412.5" y="569.5">%</text>
+<text x="420.0" y="569.5">#</text>
+<text x="427.5" y="569.5">#</text>
+<text x="435.0" y="569.5">@</text>
+<text x="442.5" y="569.5">@</text>
+<text x="450.0" y="569.5">#</text>
+<text x="457.5" y="569.5">%</text>
+<text x="465.0" y="569.5">@</text>
+<text x="472.5" y="569.5">%</text>
+<text x="480.0" y="569.5">#</text>
+<text x="487.5" y="569.5">%</text>
+<text x="495.0" y="569.5">%</text>
+<text x="502.5" y="569.5">#</text>
+<text x="510.0" y="569.5">#</text>
+<text x="517.5" y="569.5">%</text>
+<text x="525.0" y="569.5">#</text>
+<text x="67.5" y="582.0">@</text>
+<text x="75.0" y="582.0">@</text>
+<text x="82.5" y="582.0">@</text>
+<text x="90.0" y="582.0">@</text>
+<text x="97.5" y="582.0">@</text>
+<text x="105.0" y="582.0">%</text>
+<text x="112.5" y="582.0">%</text>
+<text x="120.0" y="582.0">%</text>
+<text x="127.5" y="582.0">%</text>
+<text x="135.0" y="582.0">%</text>
+<text x="142.5" y="582.0">%</text>
+<text x="150.0" y="582.0">@</text>
+<text x="157.5" y="582.0">%</text>
+<text x="165.0" y="582.0">%</text>
+<text x="172.5" y="582.0">@</text>
+<text x="180.0" y="582.0">@</text>
+<text x="187.5" y="582.0">@</text>
+<text x="195.0" y="582.0">@</text>
+<text x="202.5" y="582.0">@</text>
+<text x="210.0" y="582.0">@</text>
+<text x="217.5" y="582.0">@</text>
+<text x="225.0" y="582.0">@</text>
+<text x="232.5" y="582.0">%</text>
+<text x="240.0" y="582.0">%</text>
+<text x="247.5" y="582.0">%</text>
+<text x="255.0" y="582.0">%</text>
+<text x="262.5" y="582.0">%</text>
+<text x="270.0" y="582.0">%</text>
+<text x="277.5" y="582.0">%</text>
+<text x="285.0" y="582.0">%</text>
+<text x="292.5" y="582.0">@</text>
+<text x="300.0" y="582.0">@</text>
+<text x="307.5" y="582.0">@</text>
+<text x="315.0" y="582.0">@</text>
+<text x="322.5" y="582.0">@</text>
+<text x="330.0" y="582.0">@</text>
+<text x="337.5" y="582.0">@</text>
+<text x="345.0" y="582.0">%</text>
+<text x="352.5" y="582.0">%</text>
+<text x="360.0" y="582.0">@</text>
+<text x="367.5" y="582.0">%</text>
+<text x="375.0" y="582.0">%</text>
+<text x="382.5" y="582.0">%</text>
+<text x="390.0" y="582.0">%</text>
+<text x="397.5" y="582.0">%</text>
+<text x="405.0" y="582.0">#</text>
+<text x="412.5" y="582.0">%</text>
+<text x="420.0" y="582.0">#</text>
+<text x="427.5" y="582.0">%</text>
+<text x="435.0" y="582.0">@</text>
+<text x="442.5" y="582.0">@</text>
+<text x="450.0" y="582.0">#</text>
+<text x="457.5" y="582.0">%</text>
+<text x="465.0" y="582.0">%</text>
+<text x="472.5" y="582.0">#</text>
+<text x="480.0" y="582.0">%</text>
+<text x="487.5" y="582.0">%</text>
+<text x="495.0" y="582.0">#</text>
+<text x="502.5" y="582.0">#</text>
+<text x="510.0" y="582.0">%</text>
+<text x="517.5" y="582.0">%</text>
+<text x="525.0" y="582.0">#</text>
+<text x="532.5" y="582.0">*</text>
+<text x="67.5" y="594.5">@</text>
+<text x="75.0" y="594.5">@</text>
+<text x="82.5" y="594.5">@</text>
+<text x="90.0" y="594.5">@</text>
+<text x="97.5" y="594.5">@</text>
+<text x="105.0" y="594.5">@</text>
+<text x="112.5" y="594.5">%</text>
+<text x="120.0" y="594.5">%</text>
+<text x="127.5" y="594.5">%</text>
+<text x="135.0" y="594.5">%</text>
+<text x="142.5" y="594.5">%</text>
+<text x="150.0" y="594.5">%</text>
+<text x="157.5" y="594.5">%</text>
+<text x="165.0" y="594.5">%</text>
+<text x="172.5" y="594.5">@</text>
+<text x="180.0" y="594.5">@</text>
+<text x="187.5" y="594.5">@</text>
+<text x="195.0" y="594.5">@</text>
+<text x="202.5" y="594.5">@</text>
+<text x="210.0" y="594.5">@</text>
+<text x="217.5" y="594.5">@</text>
+<text x="225.0" y="594.5">%</text>
+<text x="232.5" y="594.5">%</text>
+<text x="240.0" y="594.5">%</text>
+<text x="247.5" y="594.5">%</text>
+<text x="255.0" y="594.5">%</text>
+<text x="262.5" y="594.5">%</text>
+<text x="270.0" y="594.5">#</text>
+<text x="277.5" y="594.5">%</text>
+<text x="285.0" y="594.5">%</text>
+<text x="292.5" y="594.5">@</text>
+<text x="300.0" y="594.5">@</text>
+<text x="307.5" y="594.5">@</text>
+<text x="315.0" y="594.5">@</text>
+<text x="322.5" y="594.5">@</text>
+<text x="330.0" y="594.5">@</text>
+<text x="337.5" y="594.5">%</text>
+<text x="345.0" y="594.5">%</text>
+<text x="352.5" y="594.5">%</text>
+<text x="360.0" y="594.5">%</text>
+<text x="367.5" y="594.5">%</text>
+<text x="375.0" y="594.5">%</text>
+<text x="382.5" y="594.5">%</text>
+<text x="390.0" y="594.5">%</text>
+<text x="397.5" y="594.5">#</text>
+<text x="405.0" y="594.5">#</text>
+<text x="412.5" y="594.5">#</text>
+<text x="420.0" y="594.5">#</text>
+<text x="427.5" y="594.5">%</text>
+<text x="435.0" y="594.5">@</text>
+<text x="442.5" y="594.5">%</text>
+<text x="450.0" y="594.5">#</text>
+<text x="457.5" y="594.5">%</text>
+<text x="465.0" y="594.5">#</text>
+<text x="472.5" y="594.5">%</text>
+<text x="480.0" y="594.5">%</text>
+<text x="487.5" y="594.5">%</text>
+<text x="495.0" y="594.5">#</text>
+<text x="502.5" y="594.5">#</text>
+<text x="510.0" y="594.5">%</text>
+<text x="517.5" y="594.5">#</text>
+<text x="525.0" y="594.5">#</text>
+<text x="532.5" y="594.5">#</text>
 </g>
 </svg>
