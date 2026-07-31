@@ -12,15 +12,15 @@ WINDOW_W = 1180
 WINDOW_H = 610
 TITLE_H = 40
 
-PORT_X = 25
-PORT_Y = 90
-CS = 2.35
+PORT_X = 30
+PORT_Y = 72
+CS = 1.75
 GRID_W = 300
-GRID_H = 194
+GRID_H = 300
 PORT_W = GRID_W * CS
 PORT_H = GRID_H * CS
 
-INFO_X = 720
+INFO_X = 600
 INFO_RIGHT = 1150
 
 FONT = "'JetBrains Mono','Fira Code',monospace"
@@ -32,8 +32,8 @@ LOOP_BEGIN = 3.2
 LOOP_DUR = 14.2
 KT = [0, 0.2113, 0.3028, 0.4437, 0.5352, 0.6761, 0.7676, 0.9085, 1]
 
-ACOLS = 90
-AROWS = 35
+ACOLS = 67
+AROWS = 40
 FONT_SIZE = 13.0
 CELL_W = 7.8
 CELL_H = 13.0
@@ -84,20 +84,15 @@ def load_and_crop():
     img = Image.open(PHOTO)
     img = ImageOps.exif_transpose(img).convert("RGB")
     w, h = img.size
-    if 0.9 <= w / h <= 1.1:
-        y0 = int(h * 0.135)
-        y1 = int(h * 0.78)
-        img = img.crop((0, y0, w, y1))
+    target = GRID_W / GRID_H
+    if w / h > target:
+        new_w = int(h * target)
+        x0 = (w - new_w) // 2
+        img = img.crop((x0, 0, x0 + new_w, h))
     else:
-        target = GRID_W / GRID_H
-        if w / h > target:
-            new_w = int(h * target)
-            x0 = (w - new_w) // 2
-            img = img.crop((x0, 0, x0 + new_w, h))
-        else:
-            new_h = int(w / target)
-            y0 = int((h - new_h) * 0.35)
-            img = img.crop((0, y0, w, y0 + new_h))
+        new_h = int(w / target)
+        y0 = int((h - new_h) * 0.35)
+        img = img.crop((0, y0, w, y0 + new_h))
     return img.resize((GRID_W, GRID_H), Image.LANCZOS)
 
 
@@ -120,7 +115,6 @@ def segment_mask(img_rgb):
     if n > 0:
         sizes = ndi.sum(mask, lbl, range(1, n + 1))
         mask = lbl == (int(np.argmax(sizes)) + 1)
-    mask[int(GRID_H * 0.767):, :] = False
     return mask
 
 
