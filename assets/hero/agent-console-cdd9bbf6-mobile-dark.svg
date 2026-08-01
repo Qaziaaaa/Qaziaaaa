@@ -62,59 +62,59 @@
   <path d="M 628 204.2 C 590 238.2, 513.5 186.2, 459.1 226.2" fill="none" stroke="#10B981" opacity="0.11"/>
   <g fill="#22D3EE"><circle cx="92" cy="160" r="2.2" opacity="0.42"><animate attributeName="opacity" values="0.2;0.58;0.2" dur="5.6s" repeatCount="indefinite"/></circle><circle cx="628" cy="404" r="2.2" opacity="0.42"><animate attributeName="opacity" values="0.58;0.2;0.58" dur="6.4s" repeatCount="indefinite"/></circle><circle cx="110" cy="304.2" r="1.7" opacity="0.32"/><circle cx="612" cy="198.2" r="1.7" opacity="0.28"/></g>
 </g>
-<g clip-path="url(#portrait-clip)" mask="url(#portrait-reveal)"><text class="ascii"><tspan x="180" y="152.00" xml:space="preserve">                                     .:-++++*+=-:.                                  </tspan>
-<tspan x="180" y="157.70" xml:space="preserve">                                  :-*%@@@@@@@@@@@#-.                                </tspan>
-<tspan x="180" y="163.40" xml:space="preserve">                                :*@@@%%%%%%%@@@@@@@%-                               </tspan>
-<tspan x="180" y="169.10" xml:space="preserve">                               -@@%@@%@@@@@@@@@@@@@@@-                              </tspan>
-<tspan x="180" y="174.80" xml:space="preserve">                              -@@%@@#****##%%@@@@@@@@@-                             </tspan>
-<tspan x="180" y="180.50" xml:space="preserve">                             -@@@@@+=------==++*##%@@@@:                            </tspan>
-<tspan x="180" y="186.20" xml:space="preserve">                            .%@@@#=-------==--===++*@@@+                            </tspan>
-<tspan x="180" y="191.90" xml:space="preserve">                            -@@%*-:--------=-===++++*@@@.                           </tspan>
-<tspan x="180" y="197.60" xml:space="preserve">                            -@#++-:---:-----===++++**%@@:                           </tspan>
-<tspan x="180" y="203.30" xml:space="preserve">                            -@*==::--===--------=++**%@@:                           </tspan>
-<tspan x="180" y="209.00" xml:space="preserve">                            -#==:-+#%@@@%*===*####***%@@:                           </tspan>
-<tspan x="180" y="214.70" xml:space="preserve">                            :*=--=+++*****=+#%@@@@@%##@*                            </tspan>
-<tspan x="180" y="220.40" xml:space="preserve">                           :-*=--+#*#@%%%*-+@%%#*####*@=                            </tspan>
-<tspan x="180" y="226.10" xml:space="preserve">                          =*-==:-=+*%@@%#=-+@@%@@@@#**@:                            </tspan>
-<tspan x="180" y="231.80" xml:space="preserve">                         .*+-=-::--=+++=---+#%%%@@@%#*%+.                           </tspan>
-<tspan x="180" y="237.50" xml:space="preserve">                         .+-*==:-----------+**+*******#@*                           </tspan>
-<tspan x="180" y="243.20" xml:space="preserve">                         .+=+=*----=+++====***+====+**#%#.                          </tspan>
-<tspan x="180" y="248.90" xml:space="preserve">                         .+=:=*=-==+**-*%**%%#*++++**%###.                          </tspan>
-<tspan x="180" y="254.60" xml:space="preserve">                          :=-*#*==+++**#%%%@@%#++***#%#%+                           </tspan>
-<tspan x="180" y="260.30" xml:space="preserve">                           .::**+===%@%#%%%@@@@*****%%#@:                           </tspan>
-<tspan x="180" y="266.00" xml:space="preserve">                              -*+=-+##+++*#%%@@#**#%@%%=                            </tspan>
-<tspan x="180" y="271.70" xml:space="preserve">                              -%*+==+==*########*#%@+..                             </tspan>
-<tspan x="180" y="277.40" xml:space="preserve">                              :@%*++=-=*%@%%#*#**#%@.                               </tspan>
-<tspan x="180" y="283.10" xml:space="preserve">                              .*@%%%#+=-=+***####%@=                                </tspan>
-<tspan x="180" y="288.80" xml:space="preserve">                              .=+%@@@%##***#%%@%%@*.                                </tspan>
-<tspan x="180" y="294.50" xml:space="preserve">                              .===*@@@@@@@@@@@@@%@-                                 </tspan>
-<tspan x="180" y="300.20" xml:space="preserve">                               ====+#@@@@@@@@@%##@-                                 </tspan>
-<tspan x="180" y="305.90" xml:space="preserve">                               -=====+##%@%%%####@=                                 </tspan>
-<tspan x="180" y="311.60" xml:space="preserve">                               -======+##########%#=.                               </tspan>
-<tspan x="180" y="317.30" xml:space="preserve">                              .-======+*##########%@%:.                             </tspan>
-<tspan x="180" y="323.00" xml:space="preserve">                             :=--====++**########*#%#+=-:.                          </tspan>
-<tspan x="180" y="328.70" xml:space="preserve">                          ...-=:====++++**#####*#*#%+=-===-:..                      </tspan>
-<tspan x="180" y="334.40" xml:space="preserve">                       ..::..:=-====+++****#*****#%#==----:::--:..                  </tspan>
-<tspan x="180" y="340.10" xml:space="preserve">                    ..::......======++****##****#%%+==---:::::::::::..              </tspan>
-<tspan x="180" y="345.80" xml:space="preserve">                 ..:..::.:.:..:=====+*********##%#+=---:--:::::::..::::..           </tspan>
-<tspan x="180" y="351.50" xml:space="preserve">              ..::..:::....:...:=+++++*****+*##*+---::-::-:::::::.::...:::.         </tspan>
-<tspan x="180" y="357.20" xml:space="preserve">          ..:......::::...::.:...:==+*##**++++=-:::::::::--:::::.::.::.:::--.       </tspan>
-<tspan x="180" y="362.90" xml:space="preserve">        .::....::..-:::...:..:.....::-====---:::-:::-::::--:::::.::::.:-:::--.      </tspan>
-<tspan x="180" y="368.60" xml:space="preserve">       .:.....:::.-::::...::::..:::..:::::::::::--::-::::--::.:.:::::.--:::--=.     </tspan>
-<tspan x="180" y="374.30" xml:space="preserve">      .:..:::.::.:-:::..:.::::.::::::::::::::::--:::-::::-:::::.::::::=:::----=.    </tspan>
-<tspan x="180" y="380.00" xml:space="preserve">     .:.:.:::.::.--:::.::.::::.::::::::::-:::.---::--::::-:::::.-:::.---::=---=-    </tspan>
-<tspan x="180" y="385.70" xml:space="preserve">    .:.::::::.:::--:::.::.::::..::::::::::::.---:::--::::-::::::-:::.==-.==:-:-+:   </tspan>
-<tspan x="180" y="391.40" xml:space="preserve">    :...:::::::::-:::.:::.:::::.::::::-::::::--::::::::::-::::::-:::.==:-=--=--==   </tspan>
-<tspan x="180" y="397.10" xml:space="preserve">   :..::::::::::--:::.:::.::::::::-:::-::::.--::::--::::::::::::-::::=-:=-:==---+.  </tspan>
-<tspan x="180" y="402.80" xml:space="preserve">   :.:.:::::::::--::.:::::::::::::-:::-:::::-:::::-:::::::::::::-::.--:=-:-==:=-+:  </tspan>
-<tspan x="180" y="408.50" xml:space="preserve">  .:.::.::::::::--:::::::::::::::---:--:::.--:::.:-:::::::::::::=-:.----:-==--=-==  </tspan>
-<tspan x="180" y="414.20" xml:space="preserve">  :::::::::::-::--:::::::::::::::--::--::::-:::::::::::::::::-:---::---::-+=:==--+. </tspan>
-<tspan x="180" y="419.90" xml:space="preserve">  :.::::::::--::--:::::::::::::::---:--::.:-:::.::::::::::::------::=-:::+=-:==--+: </tspan>
-<tspan x="180" y="425.60" xml:space="preserve"> .:.:::::--:---:--:::::::::::::::-------::::::::::::::::::::------.-=--.===:-+=--+- </tspan>
-<tspan x="180" y="431.30" xml:space="preserve"> :::::::::--:--:--:::::::::::::::-------:::::::::::::::::::------:.==-:-++-:++=--== </tspan>
-<tspan x="180" y="437.00" xml:space="preserve"> :.:::::::--:--::-::::::::::::::--------::::::::::::::::::-------::==-:++=:===---=+.</tspan>
-<tspan x="180" y="442.70" xml:space="preserve">.:.::::::::----::--:::::::::::::--------:::::::::::::::::--------::+=:===:-===--=-+:</tspan>
-<tspan x="180" y="448.40" xml:space="preserve">..::::::::---:--:-:::::::::::::--------:::::::::::::::::---------.-=--==::===-:==-=:</tspan></text></g>
+<g clip-path="url(#portrait-clip)" mask="url(#portrait-reveal)"><text class="ascii"><tspan x="180" y="170.00" xml:space="preserve">                                     .:-++++*+=-:.                                  </tspan>
+<tspan x="180" y="175.70" xml:space="preserve">                                  :-*%@@@@@@@@@@@#-.                                </tspan>
+<tspan x="180" y="181.40" xml:space="preserve">                                :*@@@%%%%%%%@@@@@@@%-                               </tspan>
+<tspan x="180" y="187.10" xml:space="preserve">                               -@@%@@%@@@@@@@@@@@@@@@-                              </tspan>
+<tspan x="180" y="192.80" xml:space="preserve">                              -@@%@@#****##%%@@@@@@@@@-                             </tspan>
+<tspan x="180" y="198.50" xml:space="preserve">                             -@@@@@+=------==++*##%@@@@:                            </tspan>
+<tspan x="180" y="204.20" xml:space="preserve">                            .%@@@#=-------==--===++*@@@+                            </tspan>
+<tspan x="180" y="209.90" xml:space="preserve">                            -@@%*-:--------=-===++++*@@@.                           </tspan>
+<tspan x="180" y="215.60" xml:space="preserve">                            -@#++-:---:-----===++++**%@@:                           </tspan>
+<tspan x="180" y="221.30" xml:space="preserve">                            -@*==::--===--------=++**%@@:                           </tspan>
+<tspan x="180" y="227.00" xml:space="preserve">                            -#==:-+#%@@@%*===*####***%@@:                           </tspan>
+<tspan x="180" y="232.70" xml:space="preserve">                            :*=--=+++*****=+#%@@@@@%##@*                            </tspan>
+<tspan x="180" y="238.40" xml:space="preserve">                           :-*=--+#*#@%%%*-+@%%#*####*@=                            </tspan>
+<tspan x="180" y="244.10" xml:space="preserve">                          =*-==:-=+*%@@%#=-+@@%@@@@#**@:                            </tspan>
+<tspan x="180" y="249.80" xml:space="preserve">                         .*+-=-::--=+++=---+#%%%@@@%#*%+.                           </tspan>
+<tspan x="180" y="255.50" xml:space="preserve">                         .+-*==:-----------+**+*******#@*                           </tspan>
+<tspan x="180" y="261.20" xml:space="preserve">                         .+=+=*----=+++====***+====+**#%#.                          </tspan>
+<tspan x="180" y="266.90" xml:space="preserve">                         .+=:=*=-==+**-*%**%%#*++++**%###.                          </tspan>
+<tspan x="180" y="272.60" xml:space="preserve">                          :=-*#*==+++**#%%%@@%#++***#%#%+                           </tspan>
+<tspan x="180" y="278.30" xml:space="preserve">                           .::**+===%@%#%%%@@@@*****%%#@:                           </tspan>
+<tspan x="180" y="284.00" xml:space="preserve">                              -*+=-+##+++*#%%@@#**#%@%%=                            </tspan>
+<tspan x="180" y="289.70" xml:space="preserve">                              -%*+==+==*########*#%@+..                             </tspan>
+<tspan x="180" y="295.40" xml:space="preserve">                              :@%*++=-=*%@%%#*#**#%@.                               </tspan>
+<tspan x="180" y="301.10" xml:space="preserve">                              .*@%%%#+=-=+***####%@=                                </tspan>
+<tspan x="180" y="306.80" xml:space="preserve">                              .=+%@@@%##***#%%@%%@*.                                </tspan>
+<tspan x="180" y="312.50" xml:space="preserve">                              .===*@@@@@@@@@@@@@%@-                                 </tspan>
+<tspan x="180" y="318.20" xml:space="preserve">                               ====+#@@@@@@@@@%##@-                                 </tspan>
+<tspan x="180" y="323.90" xml:space="preserve">                               -=====+##%@%%%####@=                                 </tspan>
+<tspan x="180" y="329.60" xml:space="preserve">                               -======+##########%#=.                               </tspan>
+<tspan x="180" y="335.30" xml:space="preserve">                              .-======+*##########%@%:.                             </tspan>
+<tspan x="180" y="341.00" xml:space="preserve">                             :=--====++**########*#%#+=-:.                          </tspan>
+<tspan x="180" y="346.70" xml:space="preserve">                          ...-=:====++++**#####*#*#%+=-===-:..                      </tspan>
+<tspan x="180" y="352.40" xml:space="preserve">                       ..::..:=-====+++****#*****#%#==----:::--:..                  </tspan>
+<tspan x="180" y="358.10" xml:space="preserve">                    ..::......======++****##****#%%+==---:::::::::::..              </tspan>
+<tspan x="180" y="363.80" xml:space="preserve">                 ..:..::.:.:..:=====+*********##%#+=---:--:::::::..::::..           </tspan>
+<tspan x="180" y="369.50" xml:space="preserve">              ..::..:::....:...:=+++++*****+*##*+---::-::-:::::::.::...:::.         </tspan>
+<tspan x="180" y="375.20" xml:space="preserve">          ..:......::::...::.:...:==+*##**++++=-:::::::::--:::::.::.::.:::--.       </tspan>
+<tspan x="180" y="380.90" xml:space="preserve">        .::....::..-:::...:..:.....::-====---:::-:::-::::--:::::.::::.:-:::--.      </tspan>
+<tspan x="180" y="386.60" xml:space="preserve">       .:.....:::.-::::...::::..:::..:::::::::::--::-::::--::.:.:::::.--:::--=.     </tspan>
+<tspan x="180" y="392.30" xml:space="preserve">      .:..:::.::.:-:::..:.::::.::::::::::::::::--:::-::::-:::::.::::::=:::----=.    </tspan>
+<tspan x="180" y="398.00" xml:space="preserve">     .:.:.:::.::.--:::.::.::::.::::::::::-:::.---::--::::-:::::.-:::.---::=---=-    </tspan>
+<tspan x="180" y="403.70" xml:space="preserve">    .:.::::::.:::--:::.::.::::..::::::::::::.---:::--::::-::::::-:::.==-.==:-:-+:   </tspan>
+<tspan x="180" y="409.40" xml:space="preserve">    :...:::::::::-:::.:::.:::::.::::::-::::::--::::::::::-::::::-:::.==:-=--=--==   </tspan>
+<tspan x="180" y="415.10" xml:space="preserve">   :..::::::::::--:::.:::.::::::::-:::-::::.--::::--::::::::::::-::::=-:=-:==---+.  </tspan>
+<tspan x="180" y="420.80" xml:space="preserve">   :.:.:::::::::--::.:::::::::::::-:::-:::::-:::::-:::::::::::::-::.--:=-:-==:=-+:  </tspan>
+<tspan x="180" y="426.50" xml:space="preserve">  .:.::.::::::::--:::::::::::::::---:--:::.--:::.:-:::::::::::::=-:.----:-==--=-==  </tspan>
+<tspan x="180" y="432.20" xml:space="preserve">  :::::::::::-::--:::::::::::::::--::--::::-:::::::::::::::::-:---::---::-+=:==--+. </tspan>
+<tspan x="180" y="437.90" xml:space="preserve">  :.::::::::--::--:::::::::::::::---:--::.:-:::.::::::::::::------::=-:::+=-:==--+: </tspan>
+<tspan x="180" y="443.60" xml:space="preserve"> .:.:::::--:---:--:::::::::::::::-------::::::::::::::::::::------.-=--.===:-+=--+- </tspan>
+<tspan x="180" y="449.30" xml:space="preserve"> :::::::::--:--:--:::::::::::::::-------:::::::::::::::::::------:.==-:-++-:++=--== </tspan>
+<tspan x="180" y="455.00" xml:space="preserve"> :.:::::::--:--::-::::::::::::::--------::::::::::::::::::-------::==-:++=:===---=+.</tspan>
+<tspan x="180" y="460.70" xml:space="preserve">.:.::::::::----::--:::::::::::::--------:::::::::::::::::--------::+=:===:-===--=-+:</tspan>
+<tspan x="180" y="466.40" xml:space="preserve">..::::::::---:--:-:::::::::::::--------:::::::::::::::::---------.-=--==::===-:==-=:</tspan></text></g>
 <g clip-path="url(#system-line-0)"><text x="72" y="520" class="system-head"><tspan fill="#7C3AED">@Qaziaaaa</tspan><tspan fill="#64748B"> ------------------------------------------</tspan></text></g>
 <g clip-path="url(#system-line-1)"><text x="72" y="541" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">Subject</tspan><tspan fill="#64748B">: ....... </tspan><tspan fill="#E5E7EB">Qazi Farhan Ahmad</tspan></text></g>
 <g clip-path="url(#system-line-2)"><text x="72" y="562" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">Role</tspan><tspan fill="#64748B">: .......... </tspan><tspan fill="#E5E7EB">AI Web Developer &amp; MERN Stack Engineer</tspan></text></g>
