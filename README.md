@@ -1,6 +1,14 @@
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-cdd9bbf6-mobile-dark.svg">
+    <source media="(max-width: 760px)" srcset="./assets/hero/agent-console-cdd9bbf6-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-cdd9bbf6-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/agent-console-cdd9bbf6-light.svg">
+    <img src="./assets/hero/agent-console-cdd9bbf6-dark.svg" alt="Qazi Farhan Ahmad - AI Web Developer & MERN Stack Engineer" width="100%">
+  </picture>
+</p>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Qazi Farhan Ahmad
+<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=AI+Web+Developer+%7C+MERN+Stack+Expert;Full-Stack+%7C+TypeScript+%7C+React+%2B+Node.js;Building+AI-Powered+Web+Applications;Always+Learning+Something+New" />
 
