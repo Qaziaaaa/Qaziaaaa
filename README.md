@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A101F,50:0891B2,100:7C3AED&height=220&section=header&text=Qazi%20Farhan%20Ahmad&fontSize=52&fontColor=F8FAFC&fontAlignY=38&desc=AI%20Web%20Developer%20%7C%20MERN%20Stack%20Expert&descSize=20&descAlignY=58&descColor=22D3EE&animation=fadeIn" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qaziaaaa/Qaziaaaa/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qaziaaaa/Qaziaaaa/main/light.svg">
+  <img alt="Qazi Farhan Ahmad — Animated Profile Banner" src="https://raw.githubusercontent.com/Qaziaaaa/Qaziaaaa/main/dark.svg" width="100%">
+</picture>
 
 </div>
 
