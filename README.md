@@ -1,23 +1,15 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qaziaaaa/Qaziaaaa/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qaziaaaa/Qaziaaaa/main/light.svg">
-  <img alt="Qazi Farhan Ahmad — Animated Profile Banner" src="https://raw.githubusercontent.com/Qaziaaaa/Qaziaaaa/main/dark.svg" width="100%">
-</picture>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Qazi Farhan Ahmad
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=AI+Web+Developer+%7C+MERN+Stack+Expert;Full-Stack+%7C+TypeScript+%7C+React+%2B+Node.js;Building+AI-Powered+Web+Applications;Always+Learning+Something+New" />
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&repeat=true&width=900&lines=Building+AI-Powered+Web+Applications+%F0%9F%A4%96;MERN+Stack+%7C+TypeScript+%7C+React+%2B+Node.js+%F0%9F%9A%80;Full-Stack+%7C+Clean+Code+%7C+Security-First+%F0%9F%94%90;Always+Learning%2C+Always+Shipping+%E2%9C%A8" />
-
-<br/>
+<br>
 
 <img src="https://img.shields.io/badge/Full%20Stack-MERN%20%7C%20TypeScript-0097A7?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-Web%20Developer-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/University%20of%20Peshawar-BS%20Software%20Eng-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20Source-GitHub-0A101F?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/AI-Web%20Developer-9b59b6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/University%20of%20Peshawar-BS%20Software%20Eng-326CE5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-GitHub-black?style=for-the-badge&logo=github"/>
 
 </div>
 
@@ -387,7 +379,7 @@ AI-powered study productivity platform with smart scheduling, task management, a
 </a>
 
 <a href="https://www.linkedin.com/in/qazi-farhan-ahmad/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:qazithekingston@gmail.com">
@@ -404,4 +396,4 @@ AI-powered study productivity platform with smart scheduling, task management, a
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0891B2,100:0A101F&height=120&section=footer" />
+---
