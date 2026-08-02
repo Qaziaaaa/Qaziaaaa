@@ -317,9 +317,9 @@ AI-powered study productivity platform with smart scheduling, task management, a
 
 <div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=Qaziaaaa&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="./assets/stats/journey.svg" alt="Developer journey timeline"/>
 
-<img width="49%" src="https://readme-stats-deploy-six.vercel.app/api/top-langs/?username=Qaziaaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img width="49%" src="https://readme-stats-deploy.vercel.app/api/top-langs/?username=Qaziaaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br><br>
 
