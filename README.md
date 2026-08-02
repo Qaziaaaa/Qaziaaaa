@@ -317,17 +317,9 @@ AI-powered study productivity platform with smart scheduling, task management, a
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qaziaaaa&theme=tokyonight" width="100%"/>
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qaziaaaa&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Qaziaaaa&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Qaziaaaa&theme=tokyonight" width="32%"/>
-
-<br>
-
 <img width="49%" src="https://streak-stats.demolab.com/?user=Qaziaaaa&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://readme-stats-deploy-six.vercel.app/api/top-langs/?username=Qaziaaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br><br>
 
