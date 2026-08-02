@@ -318,9 +318,9 @@ AI-powered study productivity platform with smart scheduling, task management, a
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Qaziaaaa&theme=tokyonight&hide_border=true&show_icons=true&hide_rank=true"/>
+<img width="49%" src="https://github-readme-stats-mu-ruddy.vercel.app/api?username=Qaziaaaa&theme=tokyonight&hide_border=true&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaziaaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats-mu-ruddy.vercel.app/api/top-langs/?username=Qaziaaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br><br>
 
