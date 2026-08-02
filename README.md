@@ -319,7 +319,7 @@ AI-powered study productivity platform with smart scheduling, task management, a
 
 <img width="49%" src="./assets/stats/journey.svg" alt="Developer journey timeline"/>
 
-<img width="49%" src="https://readme-stats-deploy.vercel.app/api/top-langs/?username=Qaziaaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img width="49%" src="./assets/stats/langs.svg" alt="Top languages donut chart"/>
 
 <br><br>
 
