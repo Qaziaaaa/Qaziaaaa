@@ -318,13 +318,13 @@ AI-powered study productivity platform with smart scheduling, task management, a
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-mu-ruddy.vercel.app/api?username=Qaziaaaa&theme=tokyonight&hide_border=true&show_icons=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Qaziaaaa&theme=tokyonight&hide_border=true&show_icons=true&hide_rank=true"/>
 
-<img height="170" src="https://github-readme-stats-mu-ruddy.vercel.app/api/top-langs/?username=Qaziaaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaziaaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br><br>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Qaziaaaa&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Qaziaaaa&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
@@ -372,6 +372,22 @@ AI-powered study productivity platform with smart scheduling, task management, a
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Contribution%20Snake&fontSize=28&fontColor=00F7FF&animation=fadeIn"/>
+
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qaziaaaa/Qaziaaaa/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qaziaaaa/Qaziaaaa/output/github-snake.svg"/>
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Qaziaaaa/Qaziaaaa/output/github-snake-dark.svg"/>
+  </picture>
 </div>
 
 ---
