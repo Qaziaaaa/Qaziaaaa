@@ -455,7 +455,7 @@ AI-powered study productivity platform with smart scheduling, task management, a
 
 <div align="center">
 
-<table width="100%">
+<table align="center" width="100%">
 
 <tr>
 <th align="center">Certification</th>
@@ -507,7 +507,7 @@ AI-powered study productivity platform with smart scheduling, task management, a
 
 <div align="center">
 
-<table width="100%">
+<table align="center" width="100%">
 
 <tr>
 
