@@ -12,7 +12,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Qazi Farhan Ahmad
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=Team+Lead+%7C+Full-Stack+Engineer;MERN+%7C+Next.js+%7C+TypeScript;AI-Powered+Web+Applications;25%2B+Applications+Shipped" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=Team+Lead+%26+Full-Stack+Engineer;MERN+%7C+Next.js+%7C+TypeScript;AI-Powered+Web+Applications;25%2B+Applications+Shipped" />
 
 <br>
 
