@@ -453,17 +453,49 @@ AI-powered study productivity platform with smart scheduling, task management, a
 
 ## 📜 Certifications
 
-<p align="center">
+<div align="center">
 
-| Certification | Issuer | Year |
-|---|---|---|
-| **Google AI Essentials Specialization** | Google | 2026 |
-| **Discover the Art of Prompt Engineering** | Google | 2026 |
-| **Web & Mobile App Development (15-Month)** | Saylani Mass IT Training (SMIT) | 2024 - 2026 |
-| **Intro to Machine Learning** | Kaggle | 2026 |
-| **Soft Skills Workshop** | Pakistan Software Export Board (PSEB) | - |
+<table width="100%">
 
-</p>
+<tr>
+<th align="center">Certification</th>
+<th align="center">Issuer</th>
+<th align="center">Year</th>
+</tr>
+
+<tr>
+<td align="center"><b>Google AI Essentials Specialization</b></td>
+<td align="center">Google</td>
+<td align="center">2026</td>
+</tr>
+
+<tr>
+<td align="center"><b>Discover the Art of Prompt Engineering</b></td>
+<td align="center">Google</td>
+<td align="center">2026</td>
+</tr>
+
+<tr>
+<td align="center"><b>Web &amp; Mobile App Development (15-Month)</b></td>
+<td align="center">Saylani Mass IT Training (SMIT)</td>
+<td align="center">2024 - 2026</td>
+</tr>
+
+<tr>
+<td align="center"><b>Intro to Machine Learning</b></td>
+<td align="center">Kaggle</td>
+<td align="center">2026</td>
+</tr>
+
+<tr>
+<td align="center"><b>Soft Skills Workshop</b></td>
+<td align="center">Pakistan Software Export Board (PSEB)</td>
+<td align="center">-</td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 
@@ -475,25 +507,43 @@ AI-powered study productivity platform with smart scheduling, task management, a
 
 <div align="center">
 
+<table width="100%">
+
+<tr>
+
+<td align="center">
 <a href="https://qaziahmad.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+</td>
 
+<td align="center">
 <a href="https://www.linkedin.com/in/qazi-farhan-ahmad/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+</td>
 
+<td align="center">
 <a href="mailto:qazithekingston@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</td>
 
+<td align="center">
 <a href="https://wa.me/923141935787">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
+</td>
 
+<td align="center">
 <a href="https://github.com/Qaziaaaa">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
