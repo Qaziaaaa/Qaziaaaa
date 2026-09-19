@@ -4,7 +4,7 @@
     <source media="(max-width: 760px)" srcset="./assets/hero/agent-console-cdd9bbf6-mobile-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-cdd9bbf6-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/hero/agent-console-cdd9bbf6-light.svg">
-    <img src="./assets/hero/agent-console-cdd9bbf6-dark.svg" alt="Qazi Farhan Ahmad - AI Web Developer & MERN Stack Engineer" width="100%">
+    <img src="./assets/hero/agent-console-cdd9bbf6-dark.svg" alt="Qazi Farhan Ahmad - Team Lead & Full-Stack Engineer @ Saylani Tech Labs" width="100%">
   </picture>
 </p>
 
@@ -12,12 +12,13 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Qazi Farhan Ahmad
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=AI+Web+Developer+%7C+MERN+Stack+Expert;Full-Stack+%7C+TypeScript+%7C+React+%2B+Node.js;Building+AI-Powered+Web+Applications;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=Team+Lead+%7C+Full-Stack+Engineer;MERN+%7C+Next.js+%7C+TypeScript;AI-Powered+Web+Applications;25%2B+Applications+Shipped" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Full%20Stack-MERN%20%7C%20TypeScript-0097A7?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-Web%20Developer-9b59b6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Team%20Lead-Full-Stack%20Engineer-0097A7?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/MERN%20%7C%20Next.js-AI%20Applications-9b59b6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Saylani%20Tech%20Labs-Full-Stack%20Engineer-326CE5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/University%20of%20Peshawar-BS%20Software%20Eng-326CE5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Open%20Source-GitHub-black?style=for-the-badge&logo=github"/>
 
@@ -27,11 +28,11 @@
 
 <p align="center">
 
-Passionate full-stack developer building AI-powered web applications, production-grade systems, and scalable architectures.
+Team Lead & Full-Stack Engineer @ <b>Saylani Tech Labs</b> building MERN & Next.js web applications with AI integrated where it solves real problems. 25+ applications shipped — e-commerce, management systems, social platforms, and AI-powered products.
 
 <br>
 
-Currently pursuing <b>BS Software Engineering</b> at the <b>University of Peshawar</b> while shipping production-grade systems with a security-first mindset — JWT auth, CSRF protection, rate limiting, and clean architecture.
+Currently pursuing <b>BS Software Engineering</b> at the <b>University of Peshawar</b> (2024 - 2028) and a graduate of the <b>15-Month Web & Mobile App Development course</b> at <b>Saylani Mass IT Training (SMIT)</b>. Security-first mindset — JWT auth, CSRF protection, rate limiting, and clean architecture.
 
 </p>
 
@@ -48,25 +49,32 @@ Currently pursuing <b>BS Software Engineering</b> at the <b>University of Peshaw
 
 ```yaml
 Name        : Qazi Farhan Ahmad
-Role        : AI Web Developer | MERN Stack Expert
-Education   : BS Software Engineering (4th Semester)
-College     : University of Peshawar
+Role        : Team Lead & Full-Stack Engineer @ Saylani Tech Labs
+Experience  : 25+ web applications shipped
+Education   : BS Software Engineering (2024 - 2028) - University of Peshawar
+              MERN Stack Web Development (Dec 2024 - Apr 2026) - Saylani Mass IT Training (SMIT)
 Location    : Peshawar, Pakistan
 
 Languages   : TypeScript • JavaScript • Python • HTML • CSS
 
-Frontend    : React • Next.js • Vite • Tailwind CSS
+Frontend    : React 19 • Next.js • Vite • Tailwind CSS • shadcn/ui • GSAP • Framer Motion
 
-Backend     : Node.js • Express.js
+Backend     : Node.js • Express.js • REST APIs
 
-Databases   : MongoDB • PostgreSQL • Redis • Firebase
+Databases   : MongoDB • PostgreSQL • Redis • Firebase • Prisma
 
-AI Stack    : Groq LLaMA 3.1 • Jina AI • Google Gemini • OpenAI
+AI & ML     : Groq LLaMA 3.1 • Jina AI • Google Gemini • OpenAI • Vercel AI SDK • Scikit-learn
+
+Open Source : Liquid Reveal (WebGL npm package) • RAG Chatbot • NOVA E-Commerce
+
+Leadership  : Team Collaboration • Task Distribution • Architecture & Technical Decisions
+              • Code Review • From Requirements to Deployment
 
 Interests
- • AI-Powered Web Apps
- • Full-Stack Development
- • MERN Stack
+ • AI-Powered Web Applications
+ • Full-Stack & MERN Development
+ • Next.js & TypeScript
+ • Real-Time Applications
  • Clean Code & Architecture
  • Open Source
 ```
@@ -76,6 +84,34 @@ Interests
 <img height="170" src="https://streak-stats.demolab.com?user=Qaziaaaa&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+## 💼 Work Experience
+
+<p align="center">
+
+| Role | Company | Period | Scope |
+|---|---|---|---|
+| **Full-Stack Engineer & Team Lead** | **Saylani Tech Labs** (Internship) | Jul 2026 - Present | On-site, Peshawar |
+| **MERN Stack Team Lead** | **Ads Results 24/7** (Internship) | May 2026 - Present | Remote, Lahore |
+| **Core Team Member** | **Computing Students Society** | Feb 2026 - Present | Hybrid, Peshawar |
+| **Freelance Web Developer** | **Digital Dream Web and Graphic** | Jan 2025 - Present | Remote |
+
+</p>
+
+- 🧑‍💼 **Full-Stack Engineer & Team Lead** — *Saylani Tech Labs* (Jul 2026 - Present)
+  → Leading team collaboration, task distribution, and development workflow
+  → Building and integrating full-stack features across frontend and backend
+  → Contributing to system architecture, technical decisions, and problem-solving
+  → Managing project progress from requirements through development, testing, and deployment
+- 🚀 **MERN Stack Team Lead** — *Ads Results 24/7* (May 2026 - Present)
+  → Leading a small MERN stack team on live client deliverables
+  → Owning sprint scope and code review; shipping features on schedule
+- 🎓 **Core Team Member** — *Computing Students Society* (Feb 2026 - Present)
+  → Built and shipped the CSS Society UOP Portal (<a href="https://cssuop.org">cssuop.org</a>) as part of a student dev team — frontend ownership from wireframe to deployment
+- 💼 **Freelance Web Developer** — *Digital Dream Web and Graphic* (Jan 2025 - Present)
+  → Delivering client websites end-to-end on the React/MERN stack and integrating AI-based features into builds
 
 ---
 
@@ -149,7 +185,7 @@ MERN-powered RAG chatbot with Groq LLaMA 3.1 streaming responses and Jina AI emb
 
 <p align="center">
 
-MERN hotel booking platform with room management, reservations, secure authentication, and role-based access.
+MERN hotel booking platform with AI-enhanced room recommendations, dynamic pricing, smart availability optimization, and role-based access.
 
 <br><br>
 
@@ -203,7 +239,7 @@ Full-stack social media with news feed, real-time interactions, user profiles, a
 
 <p align="center">
 
-Patient management system with diagnostic assistance, medical data analytics, and secure role-based access.
+Healthcare practice management with patient records, AI-powered diagnostic assistance, analytics dashboards, and secure role-based auth.
 
 <br><br>
 
@@ -249,9 +285,69 @@ AI-powered study productivity platform with smart scheduling, task management, a
 
 </tr>
 
+<tr>
+
+<td width="100%">
+
+<h3 align="center">🎥 Video Conferencing App</h3>
+
+<p align="center">
+
+Free peer-to-peer video meeting platform with WebRTC, a WebSocket signaling server, and in-call chat alongside video streams.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/WebRTC-Real-Time-2496ED?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+<a href="https://github.com/Qaziaaaa/video-conferencing-app"><img src="https://img.shields.io/badge/Source-212641?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="100%">
+
+<h3 align="center">🎓 CSS Society UOP — Computing Students Society Portal</h3>
+
+<p align="center">
+
+The official portal of the University of Peshawar Computing Students Society — events management, photo gallery, alumni directory, and certificate management. Shipped with a student dev team; frontend ownership from wireframe to deployment.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+</p>
+
+<p align="center">
+<a href="https://cssuop.org"><img src="https://img.shields.io/badge/Live-0097A7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+</td>
+
+</tr>
+
 </table>
 
 </div>
+
+<br>
+
+<i>Also building: 🌊 <b>Liquid Reveal</b> (zero-dependency WebGL npm package for fluid ripple reveals), 📚 <b>SMIT Bootcamp LMS</b> (dashboards, teams, attendance, tasks & project management — Team Lead), 🧩 AI Project Planner (BriefKit), 🏠 dwellosphere (AI real-estate rental platform), 🍽️ Restaurant Management, 🚀 QAZI-X portfolio, plus client builds (xTRAI AI, OLIPOP, HIKI). See all on <a href="https://qaziahmad.vercel.app/projects">my portfolio</a>.</i>
 
 ---
 
@@ -384,6 +480,22 @@ AI-powered study productivity platform with smart scheduling, task management, a
     <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Qaziaaaa/Qaziaaaa/output/github-snake-dark.svg"/>
   </picture>
 </div>
+
+---
+
+## 📜 Certifications
+
+<p align="center">
+
+| Certification | Issuer | Year |
+|---|---|---|
+| **Google AI Essentials Specialization** | Google | 2026 |
+| **Discover the Art of Prompt Engineering** | Google | 2026 |
+| **Web & Mobile App Development (15-Month)** | Saylani Mass IT Training (SMIT) | 2024 - 2026 |
+| **Intro to Machine Learning** | Kaggle | 2026 |
+| **Soft Skills Workshop** | Pakistan Software Export Board (PSEB) | - |
+
+</p>
 
 ---
 
