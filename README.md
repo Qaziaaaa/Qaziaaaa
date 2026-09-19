@@ -87,33 +87,6 @@ Interests
 
 ---
 
-## 💼 Work Experience
-
-<p align="center">
-
-| Role | Company | Period | Scope |
-|---|---|---|---|
-| **Full-Stack Engineer & Team Lead** | **Saylani Tech Labs** (Internship) | Jul 2026 - Present | On-site, Peshawar |
-| **MERN Stack Team Lead** | **Ads Results 24/7** (Internship) | May 2026 - Present | Remote, Lahore |
-| **Core Team Member** | **Computing Students Society** | Feb 2026 - Present | Hybrid, Peshawar |
-| **Freelance Web Developer** | **Digital Dream Web and Graphic** | Jan 2025 - Present | Remote |
-
-</p>
-
-- 🧑‍💼 **Full-Stack Engineer & Team Lead** — *Saylani Tech Labs* (Jul 2026 - Present)
-  → Leading team collaboration, task distribution, and development workflow
-  → Building and integrating full-stack features across frontend and backend
-  → Contributing to system architecture, technical decisions, and problem-solving
-  → Managing project progress from requirements through development, testing, and deployment
-- 🚀 **MERN Stack Team Lead** — *Ads Results 24/7* (May 2026 - Present)
-  → Leading a small MERN stack team on live client deliverables
-  → Owning sprint scope and code review; shipping features on schedule
-- 🎓 **Core Team Member** — *Computing Students Society* (Feb 2026 - Present)
-  → Built and shipped the CSS Society UOP Portal (<a href="https://cssuop.org">cssuop.org</a>) as part of a student dev team — frontend ownership from wireframe to deployment
-- 💼 **Freelance Web Developer** — *Digital Dream Web and Graphic* (Jan 2025 - Present)
-  → Delivering client websites end-to-end on the React/MERN stack and integrating AI-based features into builds
-
----
 
 ## 🚀 Featured Projects
 
@@ -507,5 +480,33 @@ AI-powered study productivity platform with smart scheduling, task management, a
 </a>
 
 </div>
+
+---
+
+## 💼 Work Experience
+
+<p align="center">
+
+| Role | Company | Period | Scope |
+|---|---|---|---|
+| **Full-Stack Engineer & Team Lead** | **Saylani Tech Labs** (Internship) | Jul 2026 - Present | On-site, Peshawar |
+| **MERN Stack Team Lead** | **Ads Results 24/7** (Internship) | May 2026 - Present | Remote, Lahore |
+| **Core Team Member** | **Computing Students Society** | Feb 2026 - Present | Hybrid, Peshawar |
+| **Freelance Web Developer** | **Digital Dream Web and Graphic** | Jan 2025 - Present | Remote |
+
+</p>
+
+- 🧑‍💼 **Full-Stack Engineer & Team Lead** — *Saylani Tech Labs* (Jul 2026 - Present)
+  → Leading team collaboration, task distribution, and development workflow
+  → Building and integrating full-stack features across frontend and backend
+  → Contributing to system architecture, technical decisions, and problem-solving
+  → Managing project progress from requirements through development, testing, and deployment
+- 🚀 **MERN Stack Team Lead** — *Ads Results 24/7* (May 2026 - Present)
+  → Leading a small MERN stack team on live client deliverables
+  → Owning sprint scope and code review; shipping features on schedule
+- 🎓 **Core Team Member** — *Computing Students Society* (Feb 2026 - Present)
+  → Built and shipped the CSS Society UOP Portal (<a href="https://cssuop.org">cssuop.org</a>) as part of a student dev team — frontend ownership from wireframe to deployment
+- 💼 **Freelance Web Developer** — *Digital Dream Web and Graphic* (Jan 2025 - Present)
+  → Delivering client websites end-to-end on the React/MERN stack and integrating AI-based features into builds
 
 ---
