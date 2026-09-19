@@ -87,14 +87,24 @@ Interests
 
 ---
 
+## 💼 Work Experience
+
+- 🧑‍💼 **Full-Stack Engineer & Team Lead** — *Saylani Tech Labs* (Jul 2026 - Present)
+  → Leading team collaboration, task distribution, and development workflow
+  → Building and integrating full-stack features across frontend and backend
+  → Contributing to system architecture, technical decisions, and problem-solving
+  → Managing project progress from requirements through development, testing, and deployment
+- 🚀 **MERN Stack Team Lead** — *Ads Results 24/7* (May 2026 - Present)
+  → Leading a small MERN stack team on live client deliverables
+  → Owning sprint scope and code review; shipping features on schedule
+- 🎓 **Core Team Member** — *Computing Students Society* (Feb 2026 - Present)
+  → Built and shipped the CSS Society UOP Portal (<a href="https://cssuop.org">cssuop.org</a>) as part of a student dev team — frontend ownership from wireframe to deployment
+- 💼 **Freelance Web Developer** — *Digital Dream Web and Graphic* (Jan 2025 - Present)
+  → Delivering client websites end-to-end on the React/MERN stack and integrating AI-based features into builds
+
+---
 
 ## 🚀 Featured Projects
-
-<p align="center">
-
-<i>Production-grade applications I've built and shipped — live demos and full source included.</i>
-
-</p>
 
 <div align="center">
 
@@ -102,7 +112,7 @@ Interests
 
 <tr>
 
-<td width="50%" style="border:1px solid #30363d;border-radius:10px;padding:14px;background-color:#0d1117">
+<td width="50%">
 
 <h3 align="center">🛒 NOVA — E-Commerce Platform</h3>
 
@@ -110,9 +120,7 @@ Interests
 
 Full-stack MERN eCommerce with OTP auth, Stripe payments, admin analytics, and production-grade security.
 
-</p>
-
-<p align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
@@ -129,7 +137,7 @@ Full-stack MERN eCommerce with OTP auth, Stripe payments, admin analytics, and p
 
 </td>
 
-<td width="50%" style="border:1px solid #30363d;border-radius:10px;padding:14px;background-color:#0d1117">
+<td width="50%">
 
 <h3 align="center">🤖 RAG-Chatbot — AI Q&A System</h3>
 
@@ -137,9 +145,7 @@ Full-stack MERN eCommerce with OTP auth, Stripe payments, admin analytics, and p
 
 MERN-powered RAG chatbot with Groq LLaMA 3.1 streaming responses and Jina AI embeddings for semantic search.
 
-</p>
-
-<p align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/Groq-LLaMA%203.1-FF6B35?style=for-the-badge"/>
 
@@ -160,7 +166,7 @@ MERN-powered RAG chatbot with Groq LLaMA 3.1 streaming responses and Jina AI emb
 
 <tr>
 
-<td width="50%" style="border:1px solid #30363d;border-radius:10px;padding:14px;background-color:#0d1117">
+<td width="50%">
 
 <h3 align="center">🏨 Hotel Booking System</h3>
 
@@ -168,9 +174,7 @@ MERN-powered RAG chatbot with Groq LLaMA 3.1 streaming responses and Jina AI emb
 
 MERN hotel booking platform with AI-enhanced room recommendations, dynamic pricing, smart availability optimization, and role-based access.
 
-</p>
-
-<p align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
@@ -187,38 +191,7 @@ MERN hotel booking platform with AI-enhanced room recommendations, dynamic prici
 
 </td>
 
-<td width="50%" style="border:1px solid #30363d;border-radius:10px;padding:14px;background-color:#0d1117">
-
-<h3 align="center">🏥 Medical AI SaaS</h3>
-
-<p align="center">
-
-Healthcare practice management with patient records, AI-powered diagnostic assistance, analytics dashboards, and secure role-based auth.
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/AI-Diagnostic-9b59b6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-</p>
-
-<p align="center">
-<a href="https://medical-ai-saas.vercel.app"><img src="https://img.shields.io/badge/Live-0097A7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/Qaziaaaa/medical-Ai-saas"><img src="https://img.shields.io/badge/Source-212641?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" style="border:1px solid #30363d;border-radius:10px;padding:14px;background-color:#0d1117">
+<td width="50%">
 
 <h3 align="center">📡 Social Media Platform</h3>
 
@@ -226,9 +199,7 @@ Healthcare practice management with patient records, AI-powered diagnostic assis
 
 Full-stack social media with news feed, real-time interactions, user profiles, and Docker-based deployment.
 
-</p>
-
-<p align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
@@ -245,7 +216,36 @@ Full-stack social media with news feed, real-time interactions, user profiles, a
 
 </td>
 
-<td width="50%" style="border:1px solid #30363d;border-radius:10px;padding:14px;background-color:#0d1117">
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🏥 Medical AI SaaS</h3>
+
+<p align="center">
+
+Healthcare practice management with patient records, AI-powered diagnostic assistance, analytics dashboards, and secure role-based auth.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/AI-Diagnostic-9b59b6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</p>
+
+<p align="center">
+<a href="https://medical-ai-saas.vercel.app"><img src="https://img.shields.io/badge/Live-0097A7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/Qaziaaaa/medical-Ai-saas"><img src="https://img.shields.io/badge/Source-212641?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td>
+
+<td width="50%">
 
 <h3 align="center">📚 StudyFlow AI</h3>
 
@@ -253,9 +253,7 @@ Full-stack social media with news feed, real-time interactions, user profiles, a
 
 AI-powered study productivity platform with smart scheduling, task management, and progress tracking.
 
-</p>
-
-<p align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
@@ -274,32 +272,69 @@ AI-powered study productivity platform with smart scheduling, task management, a
 
 </tr>
 
+<tr>
+
+<td width="100%">
+
+<h3 align="center">🎥 Video Conferencing App</h3>
+
+<p align="center">
+
+Free peer-to-peer video meeting platform with WebRTC, a WebSocket signaling server, and in-call chat alongside video streams.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/WebRTC-Real-Time-2496ED?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+<a href="https://github.com/Qaziaaaa/video-conferencing-app"><img src="https://img.shields.io/badge/Source-212641?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="100%">
+
+<h3 align="center">🎓 CSS Society UOP — Computing Students Society Portal</h3>
+
+<p align="center">
+
+The official portal of the University of Peshawar Computing Students Society — events management, photo gallery, alumni directory, and certificate management. Shipped with a student dev team; frontend ownership from wireframe to deployment.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+</p>
+
+<p align="center">
+<a href="https://cssuop.org"><img src="https://img.shields.io/badge/Live-0097A7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+</td>
+
+</tr>
+
 </table>
 
 </div>
 
-### 🌱 More Projects
+<br>
 
-<p align="center">
-
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| 🎥 **Video Conferencing App** | Free P2P video meetings — WebRTC, WebSocket signaling, in-call chat | JavaScript · Node.js | [Source](https://github.com/Qaziaaaa/video-conferencing-app) |
-| 🎓 **CSS Society UOP** | Official UOP Computing Students Society portal — events, gallery, alumni, certificates | React 19 · TypeScript | [Live](https://cssuop.org) |
-| 🌊 **Liquid Reveal** | Zero-dependency WebGL npm package — fluid ripple reveal | WebGL | — |
-| 📚 **SMIT Bootcamp LMS** | Dashboards, teams, attendance, tasks & project management — *Team Lead* | MERN · React | — |
-| 🧩 **AI Project Planner (BriefKit)** | Turns rough ideas into structured briefs via Groq LLM + ReactFlow | Vite · TypeScript | — |
-| 🏠 **dwellosphere** | AI real-estate rental platform — smart property matching & booking | MERN · Stripe | — |
-| 🍽️ **Restaurant Management** | Menu, online ordering, table reservations & availability | TypeScript · Express | — |
-| 🚀 **QAZI-X** | Futuristic HUD-inspired immersive portfolio | Next.js · React 19 | — |
-
-</p>
-
-<p align="center">
-
-<i>Full project library → <a href="https://qaziahmad.vercel.app/projects">qaziahmad.vercel.app/projects</a></i>
-
-</p>
+<i>Also building: 🌊 <b>Liquid Reveal</b> (zero-dependency WebGL npm package for fluid ripple reveals), 📚 <b>SMIT Bootcamp LMS</b> (dashboards, teams, attendance, tasks & project management — Team Lead), 🧩 AI Project Planner (BriefKit), 🏠 dwellosphere (AI real-estate rental platform), 🍽️ Restaurant Management, 🚀 QAZI-X portfolio, plus client builds (xTRAI AI, OLIPOP, HIKI). See all on <a href="https://qaziahmad.vercel.app/projects">my portfolio</a>.</i>
 
 ---
 
@@ -483,8 +518,6 @@ AI-powered study productivity platform with smart scheduling, task management, a
 
 ---
 
-## 💼 Work Experience
-
 <p align="center">
 
 | Role | Company | Period | Scope |
@@ -495,18 +528,3 @@ AI-powered study productivity platform with smart scheduling, task management, a
 | **Freelance Web Developer** | **Digital Dream Web and Graphic** | Jan 2025 - Present | Remote |
 
 </p>
-
-- 🧑‍💼 **Full-Stack Engineer & Team Lead** — *Saylani Tech Labs* (Jul 2026 - Present)
-  → Leading team collaboration, task distribution, and development workflow
-  → Building and integrating full-stack features across frontend and backend
-  → Contributing to system architecture, technical decisions, and problem-solving
-  → Managing project progress from requirements through development, testing, and deployment
-- 🚀 **MERN Stack Team Lead** — *Ads Results 24/7* (May 2026 - Present)
-  → Leading a small MERN stack team on live client deliverables
-  → Owning sprint scope and code review; shipping features on schedule
-- 🎓 **Core Team Member** — *Computing Students Society* (Feb 2026 - Present)
-  → Built and shipped the CSS Society UOP Portal (<a href="https://cssuop.org">cssuop.org</a>) as part of a student dev team — frontend ownership from wireframe to deployment
-- 💼 **Freelance Web Developer** — *Digital Dream Web and Graphic* (Jan 2025 - Present)
-  → Delivering client websites end-to-end on the React/MERN stack and integrating AI-based features into builds
-
----
