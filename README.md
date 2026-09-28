@@ -12,13 +12,13 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Qazi Farhan Ahmad
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=Team+Lead+%26+Full-Stack+Engineer;MERN+%7C+Next.js+%7C+TypeScript;AI-Powered+Web+Applications;25%2B+Applications+Shipped" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=Team+Lead+%26+Full-Stack+Engineer;MERN+%7C+Next.js+%7C+TypeScript;AI-Powered+Web+Applications;25%2B+Applications+Shipped" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Team%20Lead-Full-Stack%20Engineer-0097A7?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Team%20Lead-Full%20Stack%20Engineer-0097A7?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/MERN%20%7C%20Next.js-AI%20Applications-9b59b6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Saylani%20Tech%20Labs-Full-Stack%20Engineer-326CE5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Saylani%20Tech%20Labs-Full%20Stack%20Engineer-326CE5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/University%20of%20Peshawar-BS%20Software%20Eng-326CE5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Open%20Source-GitHub-black?style=for-the-badge&logo=github"/>
 
@@ -387,7 +387,15 @@ AI-powered study productivity platform with smart scheduling, task management, a
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Qaziaaaa&theme=tokyo-night&hide_border=true"/>
+<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qaziaaaa&theme=tokyonight" alt="Qaziaaaa's GitHub profile summary"/>
+
+<br><br>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Qaziaaaa&theme=tokyonight" alt="Qaziaaaa's GitHub stats"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Qaziaaaa&theme=tokyonight" alt="Qaziaaaa's most productive coding hours"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qaziaaaa&theme=tokyonight" alt="Qaziaaaa's top languages by repository"/>
 
 </div>
 
