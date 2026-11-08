@@ -59,7 +59,7 @@ Languages   : TypeScript • JavaScript • Python • HTML • CSS
 
 Frontend    : React 19 • Next.js • Vite • Tailwind CSS • shadcn/ui • GSAP • Framer Motion
 
-Backend     : Node.js • Express.js • REST APIs
+Backend     : Node.js • Express.js • REST API
 
 Databases   : MongoDB • PostgreSQL • Redis • Firebase • Prisma
 
